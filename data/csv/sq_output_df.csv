@@ -1,0 +1,1292 @@
+receptor,type,symptom,max_id,max_score
+5-hydroxytryptamine receptor 1,inhibitor,positive symptoms psychosis,28141622,0.493221771453994
+5-hydroxytryptamine receptor 1,inhibitor,apathy,,0.0
+5-hydroxytryptamine receptor 1,inhibitor,agitation,11399662,0.9054634416345406
+5-hydroxytryptamine receptor 2B,antagonist,negative symptoms,11750183,0.8543846743003839
+5-hydroxytryptamine receptor 2B,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 2B,antagonist,extrapyramidal,10188965,0.7135024560132552
+5-hydroxytryptamine receptor 2B,antagonist,positive symptoms psychosis,11750183,0.8543846743003839
+5-hydroxytryptamine receptor 2B,antagonist,insomnia,24189440,0.8543982640548246
+5-hydroxytryptamine receptor 2B,antagonist,anxiety,23530416,0.9539611216637433
+5-hydroxytryptamine receptor 2B,antagonist,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 2B,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 2B,antagonist,fatigue,,0.0
+5-hydroxytryptamine receptor 2B,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2B,antagonist,agitation,11399662,0.9054634416345406
+5-hydroxytryptamine receptor 6,antagonist,cognitive symptoms,29847336,0.7512679601448916
+5-hydroxytryptamine receptor 6,antagonist,apathy,26979176,0.6918072940491441
+5-hydroxytryptamine receptor 6,antagonist,fatigue,24636462,0.72874970525652
+5-hydroxytryptamine receptor 6,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 6,antagonist,agitation,11806866,0.9479271223699288
+Dopamine D2 receptor,agonist,avolition,,0.0
+Dopamine D2 receptor,agonist,anxiety,30301879,0.8336887703682302
+5-hydroxytryptamine receptor 1B,ligand,agitation,,0.0
+Beta-2 adrenergic receptor,ligand,avolition,,0.0
+Beta-2 adrenergic receptor,ligand,extrapyramidal,,0.0
+Beta-2 adrenergic receptor,ligand,positive symptoms psychosis,,0.0
+Beta-2 adrenergic receptor,ligand,insomnia,,0.0
+Beta-2 adrenergic receptor,ligand,anxiety,24245825,0.9241355845673388
+Beta-2 adrenergic receptor,ligand,weight gain,,0.0
+Beta-2 adrenergic receptor,ligand,apathy,,0.0
+Beta-2 adrenergic receptor,ligand,motivation,16001069,0.9364445414662554
+Beta-2 adrenergic receptor,ligand,fatigue,,0.0
+Beta-2 adrenergic receptor,ligand,suicidal thoughts,,0.0
+Beta-2 adrenergic receptor,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 7,ligand,cognitive symptoms,24802806,0.8339831857897748
+5-hydroxytryptamine receptor 7,ligand,negative symptoms,18951909,0.9166565564236876
+5-hydroxytryptamine receptor 7,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 7,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 7,ligand,apathy,26979176,0.6918072940491441
+5-hydroxytryptamine receptor 7,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 7,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1E,ligand,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 1E,ligand,negative symptoms,,0.0
+5-hydroxytryptamine receptor 1E,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 1E,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1E,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1E,ligand,depression,14965240,0.8281851938808017
+5-hydroxytryptamine receptor 1E,ligand,insomnia,,0.0
+5-hydroxytryptamine receptor 1E,ligand,anxiety,14965240,0.8281851938808017
+5-hydroxytryptamine receptor 1E,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 1E,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 1E,ligand,motivation,,0.0
+5-hydroxytryptamine receptor 1E,ligand,stress,,0.0
+5-hydroxytryptamine receptor 1E,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 1E,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1E,ligand,agitation,,0.0
+Muscarinic acetylcholine receptor M3,ligand,cognitive symptoms,25632113,0.8417741346621628
+Muscarinic acetylcholine receptor M3,ligand,negative symptoms,9495826,0.954980621849077
+Muscarinic acetylcholine receptor M3,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M3,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1B,ligand,agitation,,0.0
+Beta-2 adrenergic receptor,ligand,cognitive symptoms,1318320,0.9285893104446117
+Beta-2 adrenergic receptor,ligand,negative symptoms,10878340,0.9321298677479477
+Beta-2 adrenergic receptor,ligand,avolition,,0.0
+Beta-2 adrenergic receptor,ligand,extrapyramidal,,0.0
+Beta-2 adrenergic receptor,ligand,positive symptoms psychosis,,0.0
+Beta-2 adrenergic receptor,ligand,depression,24245825,0.9241355845673388
+Beta-2 adrenergic receptor,ligand,insomnia,,0.0
+Beta-2 adrenergic receptor,ligand,anxiety,24245825,0.9241355845673388
+Beta-2 adrenergic receptor,ligand,weight gain,,0.0
+Beta-2 adrenergic receptor,ligand,apathy,,0.0
+Beta-2 adrenergic receptor,ligand,motivation,16001069,0.9364445414662554
+Beta-2 adrenergic receptor,ligand,stress,27796513,0.9654773715168445
+Beta-2 adrenergic receptor,ligand,fatigue,,0.0
+Beta-2 adrenergic receptor,ligand,suicidal thoughts,,0.0
+Beta-2 adrenergic receptor,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 7,ligand,negative symptoms,18951909,0.9166565564236876
+5-hydroxytryptamine receptor 7,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 7,ligand,extrapyramidal,20404009,0.8363523940755702
+5-hydroxytryptamine receptor 7,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 7,ligand,depression,31192780,0.6123033883058845
+5-hydroxytryptamine receptor 7,ligand,insomnia,25232966,0.932886807741433
+5-hydroxytryptamine receptor 7,ligand,anxiety,29506545,0.8209921426655461
+5-hydroxytryptamine receptor 7,ligand,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 7,ligand,apathy,26979176,0.6918072940491441
+5-hydroxytryptamine receptor 7,ligand,motivation,10884567,0.8880592601554924
+5-hydroxytryptamine receptor 7,ligand,stress,26604768,0.9172274555420437
+5-hydroxytryptamine receptor 7,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 7,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 7,ligand,agitation,16146672,0.9225871868566384
+5-hydroxytryptamine receptor 1E,ligand,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 1E,ligand,negative symptoms,,0.0
+5-hydroxytryptamine receptor 1E,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 1E,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1E,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1E,ligand,depression,14965240,0.8281851938808017
+5-hydroxytryptamine receptor 1E,ligand,insomnia,,0.0
+5-hydroxytryptamine receptor 1E,ligand,anxiety,14965240,0.8281851938808017
+5-hydroxytryptamine receptor 1E,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 1E,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 1E,ligand,motivation,,0.0
+5-hydroxytryptamine receptor 1E,ligand,stress,,0.0
+5-hydroxytryptamine receptor 1E,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 1E,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1E,ligand,agitation,,0.0
+Muscarinic acetylcholine receptor M3,ligand,cognitive symptoms,25632113,0.8417741346621628
+Muscarinic acetylcholine receptor M3,ligand,negative symptoms,9495826,0.954980621849077
+Muscarinic acetylcholine receptor M3,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M3,ligand,extrapyramidal,,0.0
+Muscarinic acetylcholine receptor M3,ligand,positive symptoms psychosis,29374561,0.6367867265001218
+Glutamate (NMDA) receptor,ligand,apathy,24855363,0.8548129920924594
+Glutamate (NMDA) receptor,ligand,motivation,1652775,0.9134240543240848
+Glutamate (NMDA) receptor,ligand,fatigue,15051526,0.9315178881410736
+Glutamate (NMDA) receptor,ligand,suicidal thoughts,,0.0
+Glutamate (NMDA) receptor,ligand,agitation,,0.0
+Alpha-1B adrenergic receptor,antagonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-1B adrenergic receptor,antagonist,negative symptoms,24040788,0.9529262367779968
+Alpha-1B adrenergic receptor,antagonist,avolition,,0.0
+Alpha-1B adrenergic receptor,antagonist,extrapyramidal,22824189,0.9431389206655079
+Alpha-1B adrenergic receptor,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-1B adrenergic receptor,antagonist,depression,23357536,0.9565282354861278
+Alpha-1B adrenergic receptor,antagonist,insomnia,23069764,0.8157455862170512
+Alpha-1B adrenergic receptor,antagonist,anxiety,25018040,0.9294143563869081
+Alpha-1B adrenergic receptor,antagonist,weight gain,9175099,0.9226349782025853
+Alpha-1B adrenergic receptor,antagonist,apathy,,0.0
+Alpha-1B adrenergic receptor,antagonist,motivation,19961893,0.9612712981904964
+Alpha-1B adrenergic receptor,antagonist,stress,30664341,0.8391701826158778
+Alpha-1B adrenergic receptor,antagonist,fatigue,6354658,0.93531589148227
+Alpha-1B adrenergic receptor,antagonist,suicidal thoughts,,0.0
+Alpha-1B adrenergic receptor,antagonist,agitation,1355901,0.8225901893302223
+Alpha-1A adrenergic receptor,antagonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-1A adrenergic receptor,antagonist,negative symptoms,24040788,0.9529262367779968
+Alpha-1A adrenergic receptor,antagonist,avolition,,0.0
+Alpha-1A adrenergic receptor,antagonist,extrapyramidal,22824189,0.9431389206655079
+Alpha-1A adrenergic receptor,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-1A adrenergic receptor,antagonist,depression,24917197,0.9100446449670718
+Alpha-1A adrenergic receptor,antagonist,insomnia,23069764,0.8157455862170512
+Alpha-1A adrenergic receptor,antagonist,anxiety,25018040,0.9294143563869081
+Alpha-1A adrenergic receptor,antagonist,weight gain,9175099,0.9226349782025853
+Alpha-1A adrenergic receptor,antagonist,apathy,,0.0
+Alpha-1A adrenergic receptor,antagonist,motivation,19961893,0.9612712981904964
+Alpha-1A adrenergic receptor,antagonist,stress,30664341,0.8391701826158778
+Alpha-1A adrenergic receptor,antagonist,fatigue,6354658,0.93531589148227
+Alpha-1A adrenergic receptor,antagonist,suicidal thoughts,,0.0
+Alpha-1A adrenergic receptor,antagonist,agitation,1355901,0.8225901893302223
+5-hydroxytryptamine receptor 5A,ligand,cognitive symptoms,19110199,0.7481674785182121
+5-hydroxytryptamine receptor 5A,ligand,negative symptoms,19110199,0.7481674785182121
+5-hydroxytryptamine receptor 5A,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 5A,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 5A,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 5A,ligand,depression,19110199,0.7481674785182121
+5-hydroxytryptamine receptor 5A,ligand,insomnia,,0.0
+5-hydroxytryptamine receptor 5A,ligand,anxiety,20166946,0.847465663609039
+5-hydroxytryptamine receptor 5A,ligand,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 5A,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 5A,ligand,motivation,,0.0
+5-hydroxytryptamine receptor 5A,ligand,stress,19110199,0.7481674785182121
+5-hydroxytryptamine receptor 5A,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 5A,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 5A,ligand,agitation,,0.0
+Dopamine D1 receptor,antagonist,positive symptoms psychosis,23494232,0.711177357369743
+Dopamine D1 receptor,antagonist,depression,31078578,0.9559050546381621
+Dopamine D1 receptor,antagonist,insomnia,2892686,0.9265533793269152
+Dopamine D1 receptor,antagonist,anxiety,31078578,0.9559050546381621
+Dopamine D1 receptor,antagonist,weight gain,17804583,0.9094033904955809
+Dopamine D1 receptor,antagonist,apathy,2572027,0.8340652731514662
+Dopamine D1 receptor,antagonist,motivation,30500462,0.9273636512325869
+Dopamine D1 receptor,antagonist,stress,31078578,0.9559050546381621
+Dopamine D1 receptor,antagonist,fatigue,20360615,0.8884922648170688
+Dopamine D1 receptor,antagonist,suicidal thoughts,23035282,0.5229081668928103
+Dopamine D1 receptor,antagonist,agitation,1534178,0.918990303847317
+D(1) dopamine receptor,antagonist,cognitive symptoms,31474557,0.9243543865848299
+D(1) dopamine receptor,antagonist,negative symptoms,31474557,0.9243543865848299
+D(1) dopamine receptor,antagonist,avolition,23194655,0.7530125239074146
+D(1) dopamine receptor,antagonist,extrapyramidal,29691608,0.7469987670481776
+D(1) dopamine receptor,antagonist,positive symptoms psychosis,23165219,0.9006644728782439
+D(1) dopamine receptor,antagonist,depression,30840169,0.7011366891916284
+D(1) dopamine receptor,antagonist,insomnia,29723454,0.6173092828784941
+D(1) dopamine receptor,antagonist,anxiety,30840169,0.7011366891916284
+D(1) dopamine receptor,antagonist,weight gain,29034440,0.641736542514309
+D(1) dopamine receptor,antagonist,apathy,9599974,0.794409446397683
+D(1) dopamine receptor,antagonist,motivation,29180747,0.8467961277168914
+D(1) dopamine receptor,antagonist,fatigue,20360615,0.8884922648170688
+D(1) dopamine receptor,antagonist,suicidal thoughts,20816039,0.47113409005349505
+D(1) dopamine receptor,antagonist,agitation,25203719,0.9175285534810939
+Muscarinic acetylcholine receptor M3,antagonist,cognitive symptoms,9495837,0.9464346139371866
+Muscarinic acetylcholine receptor M3,antagonist,negative symptoms,11562438,0.9403787574402498
+Muscarinic acetylcholine receptor M3,antagonist,avolition,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,extrapyramidal,24534110,0.8889267043094433
+Muscarinic acetylcholine receptor M3,antagonist,positive symptoms psychosis,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,depression,23776234,0.9531306176308123
+Muscarinic acetylcholine receptor M3,antagonist,insomnia,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,anxiety,7531305,0.9168104312195421
+Muscarinic acetylcholine receptor M3,antagonist,weight gain,21696923,0.7326367754471216
+Muscarinic acetylcholine receptor M3,antagonist,apathy,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,motivation,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,stress,31285518,0.8158143200126791
+Muscarinic acetylcholine receptor M3,antagonist,fatigue,10668706,0.47265203835063413
+Muscarinic acetylcholine receptor M3,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M3,antagonist,agitation,,0.0
+5-hydroxytryptamine receptor 1A partial,agonist,cognitive symptoms,24048386,0.824929399275844
+5-hydroxytryptamine receptor 1A partial,agonist,negative symptoms,25637265,0.7353845314732307
+5-hydroxytryptamine receptor 1A partial,agonist,avolition,,0.0
+5-hydroxytryptamine receptor 1A partial,agonist,extrapyramidal,20404009,0.8363523940755702
+5-hydroxytryptamine receptor 1A partial,agonist,positive symptoms psychosis,12665420,0.8153917946351096
+5-hydroxytryptamine receptor 1A partial,agonist,depression,27742411,0.9187383791994269
+5-hydroxytryptamine receptor 1A partial,agonist,insomnia,19913081,0.7586744845586857
+5-hydroxytryptamine receptor 1A partial,agonist,anxiety,27742411,0.9187383791994269
+5-hydroxytryptamine receptor 1A partial,agonist,weight gain,24048386,0.824929399275844
+5-hydroxytryptamine receptor 1A partial,agonist,apathy,,0.0
+Histamine H2 receptor,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 2C,ligand,cognitive symptoms,18243350,0.9545157562460036
+5-hydroxytryptamine receptor 2C,ligand,negative symptoms,17526600,0.8529946604459843
+5-hydroxytryptamine receptor 2C,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 2C,ligand,extrapyramidal,23995648,0.9142713391088206
+5-hydroxytryptamine receptor 2C,ligand,positive symptoms psychosis,17526600,0.8529946604459843
+5-hydroxytryptamine receptor 2C,ligand,depression,28664341,0.9381338460382485
+5-hydroxytryptamine receptor 2C,ligand,insomnia,19841476,0.866063073467648
+5-hydroxytryptamine receptor 2C,ligand,anxiety,28664341,0.9381338460382485
+5-hydroxytryptamine receptor 2C,ligand,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 2C,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 2C,ligand,motivation,9622445,0.844202245563874
+5-hydroxytryptamine receptor 2C,ligand,stress,21855555,0.8500769438677841
+5-hydroxytryptamine receptor 2C,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 2C,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2C,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 2C,antagonist,cognitive symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2C,antagonist,negative symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2C,antagonist,avolition,21414604,0.6410007494972338
+5-hydroxytryptamine receptor 2C,antagonist,extrapyramidal,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2C,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2C,antagonist,depression,28942286,0.8412054957783788
+5-hydroxytryptamine receptor 2C,antagonist,insomnia,18368944,0.9596583669316272
+5-hydroxytryptamine receptor 2C,antagonist,anxiety,27232215,0.81241327682077
+5-hydroxytryptamine receptor 2C,antagonist,weight gain,19758108,0.9392670169734566
+5-hydroxytryptamine receptor 2C,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 2C,antagonist,motivation,25656481,0.8861841924934328
+5-hydroxytryptamine receptor 2C,antagonist,stress,25868324,0.9127147721368835
+5-hydroxytryptamine receptor 2C,antagonist,fatigue,20874703,0.8329843769572581
+5-hydroxytryptamine receptor 2C,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2C,antagonist,agitation,11399662,0.9054634416345406
+GABA-A receptor (benzodiazepine site),inhibitor,cognitive symptoms,16233983,0.9239096027158306
+GABA-A receptor (benzodiazepine site),inhibitor,negative symptoms,7503764,0.9314096927280103
+GABA-A receptor (benzodiazepine site),inhibitor,avolition,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,extrapyramidal,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,positive symptoms psychosis,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,depression,1649940,0.946763948117561
+GABA-A receptor (benzodiazepine site),inhibitor,insomnia,30031126,0.5953094156894226
+GABA-A receptor (benzodiazepine site),inhibitor,anxiety,1313848,0.9293355319654951
+GABA-A receptor (benzodiazepine site),inhibitor,weight gain,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,apathy,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,motivation,6089051,0.9247359378661876
+GABA-A receptor (benzodiazepine site),inhibitor,stress,1313848,0.9293355319654951
+GABA-A receptor (benzodiazepine site),inhibitor,fatigue,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,suicidal thoughts,,0.0
+GABA-A receptor (benzodiazepine site),inhibitor,agitation,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,cognitive symptoms,15537882,0.9374543292264894
+Muscarinic acetylcholine receptor M5,antagonist,negative symptoms,8531092,0.954483255478193
+Muscarinic acetylcholine receptor M5,antagonist,avolition,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,extrapyramidal,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,positive symptoms psychosis,,0.0
+Muscarinic acetylcholine receptor M2,ligand,apathy,,0.0
+Muscarinic acetylcholine receptor M2,ligand,motivation,11458993,0.919686563187925
+Muscarinic acetylcholine receptor M2,ligand,stress,12062578,0.9269962431199431
+Muscarinic acetylcholine receptor M2,ligand,fatigue,11248143,0.9489806811084528
+Muscarinic acetylcholine receptor M2,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M2,ligand,agitation,,0.0
+Neuron-specific vesicular protein calcyon,unknown,cognitive symptoms,,0.0
+Neuron-specific vesicular protein calcyon,unknown,negative symptoms,,0.0
+Neuron-specific vesicular protein calcyon,unknown,avolition,,0.0
+Neuron-specific vesicular protein calcyon,unknown,extrapyramidal,,0.0
+Neuron-specific vesicular protein calcyon,unknown,positive symptoms psychosis,,0.0
+Neuron-specific vesicular protein calcyon,unknown,depression,,0.0
+Neuron-specific vesicular protein calcyon,unknown,insomnia,,0.0
+Neuron-specific vesicular protein calcyon,unknown,anxiety,,0.0
+Neuron-specific vesicular protein calcyon,unknown,weight gain,,0.0
+Neuron-specific vesicular protein calcyon,unknown,apathy,,0.0
+Neuron-specific vesicular protein calcyon,unknown,motivation,,0.0
+Neuron-specific vesicular protein calcyon,unknown,stress,,0.0
+Neuron-specific vesicular protein calcyon,unknown,fatigue,,0.0
+Neuron-specific vesicular protein calcyon,unknown,suicidal thoughts,,0.0
+Neuron-specific vesicular protein calcyon,unknown,agitation,,0.0
+Alpha-2C adrenergic receptor,agonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,agonist,negative symptoms,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,agonist,avolition,,0.0
+Alpha-2C adrenergic receptor,agonist,extrapyramidal,8103791,0.9563890125471993
+Alpha-2C adrenergic receptor,agonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,agonist,depression,29617215,0.7715455429581964
+Alpha-2C adrenergic receptor,agonist,insomnia,17869148,0.8592951047986455
+Alpha-2C adrenergic receptor,agonist,anxiety,26878830,0.9507676435876011
+Alpha-2C adrenergic receptor,agonist,weight gain,9160855,0.9254851932812371
+Alpha-2C adrenergic receptor,agonist,apathy,27344665,0.7846928985593219
+Alpha-2C adrenergic receptor,agonist,motivation,22564071,0.8444737907665129
+Alpha-2C adrenergic receptor,agonist,stress,29472646,0.6508627429954212
+Alpha-2C adrenergic receptor,agonist,fatigue,19579911,0.9175740018289847
+Alpha-2C adrenergic receptor,agonist,suicidal thoughts,,0.0
+Alpha-2C adrenergic receptor,agonist,agitation,1682906,0.9047028917286462
+Alpha-2A adrenergic receptor,antagonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-2A adrenergic receptor,antagonist,negative symptoms,22824189,0.9431389206655079
+Alpha-2A adrenergic receptor,antagonist,avolition,,0.0
+Alpha-2A adrenergic receptor,antagonist,extrapyramidal,22824189,0.9431389206655079
+Alpha-2A adrenergic receptor,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-2A adrenergic receptor,antagonist,depression,29617215,0.7715455429581964
+Alpha-2A adrenergic receptor,antagonist,insomnia,8275922,0.8314956295642099
+Alpha-2A adrenergic receptor,antagonist,anxiety,26878830,0.9507676435876011
+Alpha-2A adrenergic receptor,antagonist,weight gain,18573246,0.9287070108436418
+Alpha-2A adrenergic receptor,antagonist,apathy,,0.0
+Alpha-2A adrenergic receptor,antagonist,motivation,26906229,0.8299002290260837
+Alpha-2A adrenergic receptor,antagonist,stress,29856967,0.7014001911364088
+Alpha-2A adrenergic receptor,antagonist,fatigue,6095132,0.9198749067082554
+Alpha-2A adrenergic receptor,antagonist,suicidal thoughts,,0.0
+Alpha-2A adrenergic receptor,antagonist,agitation,1682906,0.9047028917286462
+Muscarinic acetylcholine receptor M4,antagonist,positive symptoms psychosis,18678919,0.7528016942118095
+Muscarinic acetylcholine receptor M4,antagonist,depression,9298539,0.9471774030132472
+Muscarinic acetylcholine receptor M4,antagonist,insomnia,,0.0
+Muscarinic acetylcholine receptor M4,antagonist,anxiety,,0.0
+Muscarinic acetylcholine receptor M4,antagonist,weight gain,,0.0
+Muscarinic acetylcholine receptor M4,antagonist,apathy,30478410,0.5517090839284312
+Muscarinic acetylcholine receptor M4,antagonist,motivation,12479962,0.9288486476812303
+Muscarinic acetylcholine receptor M4,antagonist,stress,22074645,0.8575844317568575
+Muscarinic acetylcholine receptor M4,antagonist,fatigue,30478410,0.5517090839284312
+Muscarinic acetylcholine receptor M4,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M4,antagonist,agitation,,0.0
+Histamine H4 receptor,ligand,cognitive symptoms,,0.0
+Histamine H4 receptor,ligand,negative symptoms,24433203,0.639390768621104
+Histamine H4 receptor,ligand,avolition,,0.0
+Histamine H4 receptor,ligand,extrapyramidal,,0.0
+Histamine H4 receptor,ligand,positive symptoms psychosis,,0.0
+Histamine H4 receptor,ligand,depression,17370648,0.9142825406286489
+Histamine H4 receptor,ligand,insomnia,,0.0
+Histamine H4 receptor,ligand,weight gain,,0.0
+Histamine H4 receptor,ligand,apathy,,0.0
+Histamine H4 receptor,ligand,motivation,,0.0
+Histamine H4 receptor,ligand,stress,31164820,0.6908585265098626
+Histamine H4 receptor,ligand,fatigue,,0.0
+Histamine H4 receptor,ligand,suicidal thoughts,,0.0
+Histamine H4 receptor,ligand,agitation,,0.0
+Muscarinic acetylcholine receptor M4,ligand,cognitive symptoms,11392633,0.8470572431336034
+Muscarinic acetylcholine receptor M4,ligand,negative symptoms,9495826,0.954980621849077
+Muscarinic acetylcholine receptor M4,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M4,ligand,extrapyramidal,25880220,0.9138719793282691
+Muscarinic acetylcholine receptor M4,ligand,positive symptoms psychosis,29374561,0.6367867265001218
+Muscarinic acetylcholine receptor M4,ligand,depression,18059262,0.9394732876269822
+Muscarinic acetylcholine receptor M4,ligand,insomnia,,0.0
+Muscarinic acetylcholine receptor M4,ligand,anxiety,,0.0
+Muscarinic acetylcholine receptor M4,ligand,weight gain,,0.0
+Muscarinic acetylcholine receptor M4,ligand,apathy,,0.0
+Muscarinic acetylcholine receptor M4,ligand,motivation,,0.0
+Muscarinic acetylcholine receptor M4,ligand,stress,10037460,0.9519434679760869
+Muscarinic acetylcholine receptor M4,ligand,fatigue,,0.0
+Muscarinic acetylcholine receptor M4,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M4,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 2A,antagonist,cognitive symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,antagonist,negative symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 2A,antagonist,extrapyramidal,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,antagonist,depression,27544207,0.804173999034055
+5-hydroxytryptamine receptor 2A,antagonist,insomnia,29382554,0.452245141848037
+5-hydroxytryptamine receptor 2A,antagonist,anxiety,25290207,0.9493515229352643
+5-hydroxytryptamine receptor 2A,antagonist,weight gain,21420906,0.8534841634803875
+5-hydroxytryptamine receptor 2A,antagonist,apathy,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,agitation,,0.0
+Alpha-1 adrenergic receptors,binder,cognitive symptoms,,0.0
+Alpha-1 adrenergic receptors,binder,negative symptoms,,0.0
+Alpha-1 adrenergic receptors,binder,avolition,,0.0
+Alpha-1 adrenergic receptors,binder,extrapyramidal,,0.0
+Alpha-1 adrenergic receptors,binder,positive symptoms psychosis,,0.0
+Alpha-1 adrenergic receptors,binder,depression,,0.0
+Alpha-1 adrenergic receptors,binder,insomnia,,0.0
+Alpha-1 adrenergic receptors,binder,anxiety,,0.0
+Alpha-1 adrenergic receptors,binder,weight gain,,0.0
+Alpha-1 adrenergic receptors,binder,apathy,,0.0
+Alpha-1 adrenergic receptors,binder,motivation,,0.0
+Alpha-1 adrenergic receptors,binder,stress,15245482,0.5041849820355438
+Alpha-1 adrenergic receptors,binder,fatigue,,0.0
+Alpha-1 adrenergic receptors,binder,suicidal thoughts,,0.0
+Alpha-1 adrenergic receptors,binder,agitation,,0.0
+Alpha-2 adrenergic receptors,binder,cognitive symptoms,,0.0
+Alpha-2 adrenergic receptors,binder,negative symptoms,,0.0
+Alpha-2 adrenergic receptors,binder,avolition,,0.0
+Alpha-2 adrenergic receptors,binder,extrapyramidal,,0.0
+Alpha-2 adrenergic receptors,binder,positive symptoms psychosis,,0.0
+Alpha-2 adrenergic receptors,binder,depression,,0.0
+Alpha-2 adrenergic receptors,binder,insomnia,,0.0
+Alpha-2 adrenergic receptors,binder,anxiety,,0.0
+Alpha-2 adrenergic receptors,binder,weight gain,,0.0
+Alpha-2 adrenergic receptors,binder,apathy,,0.0
+Alpha-2 adrenergic receptors,binder,motivation,,0.0
+Alpha-2 adrenergic receptors,binder,stress,15245482,0.5041849820355438
+Alpha-2 adrenergic receptors,binder,fatigue,,0.0
+Alpha-2 adrenergic receptors,binder,suicidal thoughts,,0.0
+Alpha-2 adrenergic receptors,binder,agitation,,0.0
+Dopamine D2 receptor,other/unknown,cognitive symptoms,,0.0
+Dopamine D2 receptor,other/unknown,negative symptoms,,0.0
+Dopamine D2 receptor,other/unknown,avolition,,0.0
+Dopamine D2 receptor,other/unknown,extrapyramidal,,0.0
+Dopamine D2 receptor,other/unknown,positive symptoms psychosis,,0.0
+Dopamine D2 receptor,other/unknown,depression,,0.0
+Dopamine D2 receptor,other/unknown,insomnia,,0.0
+Dopamine D2 receptor,other/unknown,anxiety,,0.0
+Dopamine D2 receptor,other/unknown,weight gain,,0.0
+Dopamine D2 receptor,other/unknown,apathy,,0.0
+Dopamine D2 receptor,other/unknown,motivation,,0.0
+Dopamine D2 receptor,other/unknown,stress,,0.0
+Dopamine D2 receptor,other/unknown,fatigue,,0.0
+Dopamine D2 receptor,other/unknown,suicidal thoughts,,0.0
+Dopamine D2 receptor,other/unknown,agitation,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,cognitive symptoms,15719398,0.850941282178783
+Sodium-dependent noradrenaline transporter,inhibitor,negative symptoms,22732518,0.8468688123579154
+Sodium-dependent noradrenaline transporter,inhibitor,avolition,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,extrapyramidal,18485464,0.9173224078093236
+Sodium-dependent noradrenaline transporter,inhibitor,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 2A,agonist,apathy,,0.0
+5-hydroxytryptamine receptor 2A,agonist,motivation,25290207,0.9493515229352643
+5-hydroxytryptamine receptor 2A,agonist,stress,23495168,0.8338505041900096
+5-hydroxytryptamine receptor 2A,agonist,fatigue,,0.0
+5-hydroxytryptamine receptor 2A,agonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2A,agonist,agitation,11399662,0.9054634416345406
+Sodium-dependent dopamine transporter,inhibitor,cognitive symptoms,,0.0
+Sodium-dependent dopamine transporter,inhibitor,negative symptoms,,0.0
+Sodium-dependent dopamine transporter,inhibitor,avolition,,0.0
+Sodium-dependent dopamine transporter,inhibitor,extrapyramidal,,0.0
+Sodium-dependent dopamine transporter,inhibitor,positive symptoms psychosis,,0.0
+Sodium-dependent dopamine transporter,inhibitor,depression,,0.0
+Sodium-dependent dopamine transporter,inhibitor,insomnia,,0.0
+Sodium-dependent dopamine transporter,inhibitor,anxiety,,0.0
+Sodium-dependent dopamine transporter,inhibitor,weight gain,,0.0
+Sodium-dependent dopamine transporter,inhibitor,apathy,,0.0
+Sodium-dependent dopamine transporter,inhibitor,motivation,,0.0
+Sodium-dependent dopamine transporter,inhibitor,stress,,0.0
+Sodium-dependent dopamine transporter,inhibitor,fatigue,,0.0
+Sodium-dependent dopamine transporter,inhibitor,suicidal thoughts,,0.0
+Sodium-dependent dopamine transporter,inhibitor,agitation,,0.0
+Sodium-dependent serotonin transporter,inhibitor,cognitive symptoms,25016186,0.933230688713835
+Sodium-dependent serotonin transporter,inhibitor,negative symptoms,15158078,0.9424805712095482
+Sodium-dependent serotonin transporter,inhibitor,avolition,,0.0
+Sodium-dependent serotonin transporter,inhibitor,extrapyramidal,18485464,0.9173224078093236
+Sodium-dependent serotonin transporter,inhibitor,positive symptoms psychosis,,0.0
+Sodium-dependent serotonin transporter,inhibitor,depression,29451287,0.8839079822108575
+Sodium-dependent serotonin transporter,inhibitor,insomnia,,0.0
+Sodium-dependent serotonin transporter,inhibitor,anxiety,25435080,0.9053915967843421
+Sodium-dependent serotonin transporter,inhibitor,weight gain,23010142,0.7429676986478488
+Sodium-dependent serotonin transporter,inhibitor,apathy,,0.0
+Sodium-dependent serotonin transporter,inhibitor,motivation,19840787,0.9295372015660635
+Sodium-dependent serotonin transporter,inhibitor,stress,30962407,0.744497165492677
+Sodium-dependent serotonin transporter,inhibitor,fatigue,25040499,0.9319262464208595
+Sodium-dependent serotonin transporter,inhibitor,suicidal thoughts,21329552,0.9240650169895867
+Sodium-dependent serotonin transporter,inhibitor,agitation,30207090,0.49475388925659813
+5-hydroxytryptamine receptor 1A,inhibitor,cognitive symptoms,24797332,0.9076753561623561
+5-hydroxytryptamine receptor 1A,inhibitor,negative symptoms,15365683,0.7008747327582592
+5-hydroxytryptamine receptor 1A,inhibitor,avolition,,0.0
+5-hydroxytryptamine receptor 1A,inhibitor,extrapyramidal,8788438,0.9277917975223948
+5-hydroxytryptamine receptor 1A,inhibitor,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1A,inhibitor,depression,25402859,0.954955174655552
+5-hydroxytryptamine receptor 1A,inhibitor,insomnia,23338224,0.4879205212040906
+5-hydroxytryptamine receptor 1A,inhibitor,anxiety,29246772,0.8059147126449304
+5-hydroxytryptamine receptor 1A,inhibitor,weight gain,12457269,0.813464854102955
+5-hydroxytryptamine receptor 1A,inhibitor,apathy,,0.0
+5-hydroxytryptamine receptor 1A,inhibitor,motivation,19961893,0.9612712981904964
+5-hydroxytryptamine receptor 1A,inhibitor,stress,23151877,0.9503380852901777
+5-hydroxytryptamine receptor 1A,inhibitor,fatigue,,0.0
+5-hydroxytryptamine receptor 1A,inhibitor,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1A,inhibitor,agitation,,0.0
+5-hydroxytryptamine receptor 2A,inhibitor,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 2A,inhibitor,depression,29615471,0.6756326374290158
+5-hydroxytryptamine receptor 2A,inhibitor,insomnia,23338224,0.4879205212040906
+5-hydroxytryptamine receptor 2A,inhibitor,anxiety,23151877,0.9503380852901777
+5-hydroxytryptamine receptor 2A,inhibitor,weight gain,17049181,0.7110957510565646
+5-hydroxytryptamine receptor 2A,inhibitor,apathy,,0.0
+5-hydroxytryptamine receptor 2A,inhibitor,motivation,19961893,0.9612712981904964
+5-hydroxytryptamine receptor 2A,inhibitor,stress,23151877,0.9503380852901777
+5-hydroxytryptamine receptor 2A,inhibitor,fatigue,21750624,0.8223200634682816
+5-hydroxytryptamine receptor 2A,inhibitor,suicidal thoughts,19641488,0.5745591088920939
+5-hydroxytryptamine receptor 2A,inhibitor,agitation,11399662,0.9054634416345406
+Alpha-2 adrenergic receptors,inhibitor,cognitive symptoms,,0.0
+Alpha-2 adrenergic receptors,inhibitor,negative symptoms,15534374,0.914439210458382
+Alpha-2 adrenergic receptors,inhibitor,avolition,,0.0
+Alpha-2 adrenergic receptors,inhibitor,extrapyramidal,,0.0
+Alpha-2 adrenergic receptors,inhibitor,positive symptoms psychosis,,0.0
+Alpha-2 adrenergic receptors,inhibitor,depression,21859713,0.9479443785229602
+Alpha-2 adrenergic receptors,inhibitor,insomnia,8275922,0.8314956295642099
+Alpha-2 adrenergic receptors,inhibitor,anxiety,21775610,0.9392208993758273
+Alpha-2 adrenergic receptors,inhibitor,weight gain,30194544,0.548353671461511
+Alpha-2 adrenergic receptors,inhibitor,apathy,,0.0
+Alpha-2 adrenergic receptors,inhibitor,motivation,19961893,0.9612712981904964
+Alpha-2 adrenergic receptors,inhibitor,stress,26257930,0.8831750648932275
+Alpha-2 adrenergic receptors,inhibitor,fatigue,19480470,0.6682302656209401
+Alpha-2 adrenergic receptors,inhibitor,suicidal thoughts,19641488,0.5745591088920939
+Alpha-2 adrenergic receptors,inhibitor,agitation,30194544,0.548353671461511
+Muscarinic acetylcholine receptor M1,inhibitor,cognitive symptoms,16492387,0.9049758428095682
+Muscarinic acetylcholine receptor M1,inhibitor,negative symptoms,11285286,0.9548703101288248
+Muscarinic acetylcholine receptor M1,inhibitor,avolition,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,extrapyramidal,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,positive symptoms psychosis,18033152,0.5510456868018171
+Muscarinic acetylcholine receptor M1,inhibitor,depression,25143547,0.834945327366729
+Muscarinic acetylcholine receptor M1,inhibitor,insomnia,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,anxiety,10204996,0.9414858537121931
+Muscarinic acetylcholine receptor M1,inhibitor,weight gain,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,apathy,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,motivation,11458993,0.919686563187925
+Muscarinic acetylcholine receptor M1,inhibitor,stress,10648702,0.9358615258869012
+Muscarinic acetylcholine receptor M1,inhibitor,fatigue,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M1,inhibitor,agitation,,0.0
+NMDA receptor,inhibitor,cognitive symptoms,30417305,0.9453263169931099
+NMDA receptor,inhibitor,negative symptoms,31840160,0.839070475281359
+NMDA receptor,inhibitor,avolition,,0.0
+NMDA receptor,inhibitor,extrapyramidal,1359024,0.9370284726575775
+NMDA receptor,inhibitor,depression,31238129,0.7827455603008623
+NMDA receptor,inhibitor,insomnia,16563064,0.4459170013945655
+NMDA receptor,inhibitor,anxiety,31467174,0.9684865706806354
+NMDA receptor,inhibitor,weight gain,7557250,0.9283744902037475
+NMDA receptor,inhibitor,apathy,24464490,0.7567287014635593
+5-hydroxytryptamine receptor 2C,antagonist,fatigue,20874703,0.8329843769572581
+5-hydroxytryptamine receptor 2C,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2C,antagonist,agitation,11399662,0.9054634416345406
+Dopamine D2 receptor,inhibitor,cognitive symptoms,25870547,0.9416424449191337
+Dopamine D2 receptor,inhibitor,negative symptoms,22732518,0.8468688123579154
+Dopamine D2 receptor,inhibitor,avolition,,0.0
+Dopamine D2 receptor,inhibitor,extrapyramidal,8788438,0.9277917975223948
+Dopamine D2 receptor,inhibitor,positive symptoms psychosis,22198458,0.46367583183877986
+Dopamine D2 receptor,inhibitor,depression,29775777,0.9215827918569923
+Dopamine D2 receptor,inhibitor,insomnia,12957328,0.555344490276828
+Dopamine D2 receptor,inhibitor,anxiety,25221486,0.8400823903374175
+Dopamine D2 receptor,inhibitor,weight gain,21889317,0.9199829040215142
+Dopamine D2 receptor,inhibitor,apathy,,0.0
+Dopamine D2 receptor,inhibitor,motivation,31734646,0.8160587127648264
+Dopamine D2 receptor,inhibitor,stress,29978570,0.7378488336843706
+Dopamine D2 receptor,inhibitor,fatigue,17827735,0.8176128313685608
+Dopamine D2 receptor,inhibitor,suicidal thoughts,,0.0
+Dopamine D2 receptor,inhibitor,agitation,22647577,0.726723829190068
+5-hydroxytryptamine receptor 3A negative,modulator,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,negative symptoms,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,avolition,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,depression,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,insomnia,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,anxiety,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,weight gain,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,apathy,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,motivation,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,stress,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,fatigue,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 3A negative,modulator,agitation,,0.0
+5-hydroxytryptamine receptor 2B,agonist,cognitive symptoms,9886142,0.9166398016241005
+5-hydroxytryptamine receptor 2B,agonist,negative symptoms,24174497,0.9220039425260598
+5-hydroxytryptamine receptor 2B,agonist,avolition,,0.0
+5-hydroxytryptamine receptor 2B,agonist,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 2B,agonist,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 2B,agonist,depression,23530416,0.9539611216637433
+5-hydroxytryptamine receptor 2B,agonist,insomnia,21459634,0.9355212667408872
+5-hydroxytryptamine receptor 2B,agonist,anxiety,23530416,0.9539611216637433
+5-hydroxytryptamine receptor 2B,agonist,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 2B,agonist,apathy,,0.0
+5-hydroxytryptamine receptor 2B,agonist,motivation,17207863,0.9592889055584803
+5-hydroxytryptamine receptor 2B,agonist,stress,25076753,0.9416605096734909
+5-hydroxytryptamine receptor 2B,agonist,fatigue,,0.0
+5-hydroxytryptamine receptor 2B,agonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2B,agonist,agitation,11399662,0.9054634416345406
+Alpha-1 adrenergic receptors,inhibitor,cognitive symptoms,12207955,0.9323552213340719
+Alpha-1 adrenergic receptors,inhibitor,negative symptoms,6092608,0.9395029144542566
+Alpha-1 adrenergic receptors,inhibitor,avolition,,0.0
+Alpha-1 adrenergic receptors,inhibitor,extrapyramidal,17689529,0.9128095803978402
+Alpha-1 adrenergic receptors,inhibitor,positive symptoms psychosis,,0.0
+Alpha-1 adrenergic receptors,inhibitor,depression,20184917,0.9596032071904771
+Alpha-1 adrenergic receptors,inhibitor,insomnia,30194544,0.548353671461511
+Alpha-1 adrenergic receptors,inhibitor,anxiety,6111897,0.8857179316896264
+Alpha-1 adrenergic receptors,inhibitor,weight gain,30194544,0.548353671461511
+Alpha-1 adrenergic receptors,inhibitor,apathy,,0.0
+Alpha-1 adrenergic receptors,inhibitor,motivation,19961893,0.9612712981904964
+Alpha-1 adrenergic receptors,inhibitor,stress,23090968,0.9360534028304384
+Alpha-1 adrenergic receptors,inhibitor,fatigue,19480470,0.6682302656209401
+Alpha-1 adrenergic receptors,inhibitor,suicidal thoughts,,0.0
+Alpha-1 adrenergic receptors,inhibitor,agitation,30194544,0.548353671461511
+5-hydroxytryptamine receptor 3A,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 1D,ligand,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 1D,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 1D,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1D,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1D,ligand,insomnia,,0.0
+5-hydroxytryptamine receptor 1D,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 1D,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 1D,ligand,stress,,0.0
+5-hydroxytryptamine receptor 1D,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 1D,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1D,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,negative symptoms,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,depression,18059438,0.72090425795749
+5-hydroxytryptamine receptor 1E,antagonist,insomnia,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,anxiety,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,weight gain,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,motivation,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,stress,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,fatigue,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1E,antagonist,agitation,,0.0
+Dopamine D3 receptor,antagonist,avolition,,0.0
+Dopamine D3 receptor,antagonist,positive symptoms psychosis,15257633,0.4866753824694274
+Dopamine D3 receptor,antagonist,apathy,,0.0
+Dopamine D3 receptor,antagonist,fatigue,25914637,0.6373887317774409
+Dopamine D3 receptor,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M5,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M5,ligand,extrapyramidal,11880500,0.848282676343334
+Muscarinic acetylcholine receptor M5,ligand,positive symptoms psychosis,,0.0
+Sodium-dependent serotonin transporter,modulator,apathy,,0.0
+Sodium-dependent serotonin transporter,modulator,motivation,20457184,0.8324700599199063
+Sodium-dependent serotonin transporter,modulator,fatigue,,0.0
+Sodium-dependent serotonin transporter,modulator,suicidal thoughts,,0.0
+Sodium-dependent serotonin transporter,modulator,agitation,,0.0
+Dopamine D3 receptor,agonist,avolition,,0.0
+Dopamine D3 receptor,agonist,extrapyramidal,27524901,0.8039067600985252
+Dopamine D3 receptor,agonist,weight gain,27440212,0.7265668478681384
+Dopamine D3 receptor,agonist,apathy,24515412,0.9164580127006758
+Dopamine D3 receptor,agonist,motivation,26909847,0.7189038980807957
+Dopamine D3 receptor,agonist,stress,31891605,0.9339623236004171
+Dopamine D3 receptor,agonist,fatigue,16324116,0.8248862140389918
+Dopamine D3 receptor,agonist,suicidal thoughts,,0.0
+Dopamine D3 receptor,agonist,agitation,19695367,0.9116140971293469
+Dopamine D5 receptor,ligand,cognitive symptoms,,0.0
+Dopamine D5 receptor,ligand,negative symptoms,11408027,0.7985758713286186
+Dopamine D5 receptor,ligand,avolition,,0.0
+Dopamine D5 receptor,ligand,extrapyramidal,7583617,0.8490276043447352
+Dopamine D5 receptor,ligand,positive symptoms psychosis,,0.0
+Dopamine D5 receptor,ligand,depression,,0.0
+Dopamine D5 receptor,ligand,insomnia,,0.0
+Dopamine D5 receptor,ligand,anxiety,,0.0
+Dopamine D5 receptor,ligand,weight gain,,0.0
+Dopamine D5 receptor,ligand,apathy,,0.0
+Dopamine D5 receptor,ligand,motivation,,0.0
+Dopamine D5 receptor,ligand,stress,,0.0
+Dopamine D5 receptor,ligand,fatigue,,0.0
+Dopamine D5 receptor,ligand,suicidal thoughts,,0.0
+Dopamine D5 receptor,ligand,agitation,,0.0
+Alpha-2C adrenergic receptor,antagonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,antagonist,negative symptoms,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,antagonist,avolition,,0.0
+Alpha-2C adrenergic receptor,antagonist,extrapyramidal,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-2C adrenergic receptor,antagonist,depression,29617215,0.7715455429581964
+Alpha-2C adrenergic receptor,antagonist,insomnia,8275922,0.8314956295642099
+Alpha-2C adrenergic receptor,antagonist,anxiety,26878830,0.9507676435876011
+Alpha-2C adrenergic receptor,antagonist,weight gain,18573246,0.9287070108436418
+Alpha-2C adrenergic receptor,antagonist,apathy,,0.0
+Alpha-2C adrenergic receptor,antagonist,motivation,26906229,0.8299002290260837
+Alpha-2C adrenergic receptor,antagonist,stress,29856967,0.7014001911364088
+Alpha-2C adrenergic receptor,antagonist,fatigue,6095132,0.9198749067082554
+Alpha-2C adrenergic receptor,antagonist,suicidal thoughts,,0.0
+Alpha-2C adrenergic receptor,antagonist,agitation,1682906,0.9047028917286462
+5-hydroxytryptamine receptor 2B inverse,agonist,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,negative symptoms,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,avolition,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,depression,22178752,0.8252660121053635
+5-hydroxytryptamine receptor 2B inverse,agonist,insomnia,21459634,0.9355212667408872
+5-hydroxytryptamine receptor 2B inverse,agonist,anxiety,21459634,0.9355212667408872
+5-hydroxytryptamine receptor 2B inverse,agonist,weight gain,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,apathy,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,motivation,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,stress,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,fatigue,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2B inverse,agonist,agitation,,0.0
+Histamine H1 receptor,antagonist,negative symptoms,29932090,0.8422859602957586
+Histamine H1 receptor,antagonist,avolition,15076014,0.7408353496211305
+Histamine H1 receptor,antagonist,extrapyramidal,27502027,0.7077784155161514
+Histamine H1 receptor,antagonist,positive symptoms psychosis,24266131,0.9168459529439656
+Histamine H1 receptor,antagonist,insomnia,31524756,0.6834912919680258
+Histamine H1 receptor,antagonist,weight gain,32007669,0.9278222884551056
+Histamine H1 receptor,antagonist,apathy,15076014,0.7408353496211305
+Histamine H1 receptor,antagonist,motivation,30218765,0.9409752807699827
+Histamine H1 receptor,antagonist,stress,31349924,0.8082579912084612
+Histamine H1 receptor,antagonist,fatigue,29517867,0.8513675421315141
+5-hydroxytryptamine receptor 1A,antagonist,cognitive symptoms,25050820,0.95545376931892
+5-hydroxytryptamine receptor 1A,antagonist,negative symptoms,23084984,0.849790325983176
+5-hydroxytryptamine receptor 1A,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 1A,antagonist,positive symptoms psychosis,11750183,0.8543846743003839
+5-hydroxytryptamine receptor 1A,antagonist,depression,31940619,0.7544677116623303
+5-hydroxytryptamine receptor 1A,antagonist,insomnia,14615704,0.8254593933703525
+5-hydroxytryptamine receptor 1A,antagonist,anxiety,30005975,0.7437878650614045
+5-hydroxytryptamine receptor 1A,antagonist,weight gain,18772033,0.9341127076767552
+5-hydroxytryptamine receptor 1A,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 1A,antagonist,motivation,26791604,0.9118309028265132
+5-hydroxytryptamine receptor 1A,antagonist,fatigue,22921986,0.9224118087636196
+5-hydroxytryptamine receptor 1A,antagonist,suicidal thoughts,25549105,0.2667845921561403
+5-hydroxytryptamine receptor 1A,antagonist,agitation,20412811,0.7317307734915978
+Muscarinic acetylcholine receptor M4,antagonist,cognitive symptoms,17342780,0.920338796274994
+Muscarinic acetylcholine receptor M4,antagonist,negative symptoms,9890565,0.9376511825096151
+Muscarinic acetylcholine receptor M4,antagonist,avolition,,0.0
+Muscarinic acetylcholine receptor M4,antagonist,extrapyramidal,24534110,0.8889267043094433
+5-hydroxytryptamine receptor 2A,antagonist,motivation,25290207,0.9493515229352643
+5-hydroxytryptamine receptor 2A,antagonist,stress,25868324,0.9127147721368835
+5-hydroxytryptamine receptor 2A,antagonist,fatigue,,0.0
+5-hydroxytryptamine receptor 2A,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2A,antagonist,agitation,11399662,0.9054634416345406
+D(1) dopamine receptor,other/unknown,cognitive symptoms,,0.0
+D(1) dopamine receptor,other/unknown,negative symptoms,,0.0
+D(1) dopamine receptor,other/unknown,avolition,,0.0
+D(1) dopamine receptor,other/unknown,extrapyramidal,,0.0
+D(1) dopamine receptor,other/unknown,positive symptoms psychosis,,0.0
+D(1) dopamine receptor,other/unknown,depression,,0.0
+D(1) dopamine receptor,other/unknown,insomnia,,0.0
+D(1) dopamine receptor,other/unknown,anxiety,,0.0
+D(1) dopamine receptor,other/unknown,weight gain,,0.0
+D(1) dopamine receptor,other/unknown,apathy,,0.0
+D(1) dopamine receptor,other/unknown,motivation,,0.0
+D(1) dopamine receptor,other/unknown,stress,,0.0
+D(1) dopamine receptor,other/unknown,fatigue,,0.0
+D(1) dopamine receptor,other/unknown,suicidal thoughts,,0.0
+D(1) dopamine receptor,other/unknown,agitation,,0.0
+Histamine H1 receptor,binder,cognitive symptoms,,0.0
+Histamine H1 receptor,binder,negative symptoms,,0.0
+Histamine H1 receptor,binder,avolition,,0.0
+Histamine H1 receptor,binder,extrapyramidal,,0.0
+Histamine H1 receptor,binder,positive symptoms psychosis,,0.0
+Histamine H1 receptor,binder,depression,,0.0
+Histamine H1 receptor,binder,insomnia,,0.0
+Histamine H1 receptor,binder,anxiety,,0.0
+Histamine H1 receptor,binder,weight gain,,0.0
+Histamine H1 receptor,binder,apathy,,0.0
+Histamine H1 receptor,binder,motivation,,0.0
+Histamine H1 receptor,binder,stress,,0.0
+Histamine H1 receptor,binder,fatigue,,0.0
+Histamine H1 receptor,binder,suicidal thoughts,,0.0
+Histamine H1 receptor,binder,agitation,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,cognitive symptoms,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,negative symptoms,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,avolition,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,extrapyramidal,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,positive symptoms psychosis,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,depression,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,insomnia,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,anxiety,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,weight gain,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,apathy,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,motivation,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,stress,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,fatigue,,0.0
+Neuronal acetylcholine receptor subunit alpha-3,antagonist,suicidal thoughts,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,depression,29451287,0.8839079822108575
+Sodium-dependent noradrenaline transporter,inhibitor,insomnia,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,weight gain,28743458,0.45709046163740696
+Sodium-dependent noradrenaline transporter,inhibitor,apathy,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,motivation,25593099,0.9204411098814266
+Sodium-dependent noradrenaline transporter,inhibitor,stress,26051602,0.8076811535612056
+Sodium-dependent noradrenaline transporter,inhibitor,fatigue,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,suicidal thoughts,,0.0
+Sodium-dependent noradrenaline transporter,inhibitor,agitation,30207090,0.49475388925659813
+Sigma receptor,inhibitor,cognitive symptoms,8001652,0.9113158178663923
+Sigma receptor,inhibitor,negative symptoms,20083196,0.8544738234191326
+Sigma receptor,inhibitor,avolition,,0.0
+Sigma receptor,inhibitor,extrapyramidal,20025739,0.34615560821022834
+Sigma receptor,inhibitor,positive symptoms psychosis,,0.0
+Sigma receptor,inhibitor,depression,24925261,0.9366768476481309
+Sigma receptor,inhibitor,insomnia,24930682,0.9510853485254167
+Sigma receptor,inhibitor,anxiety,24930682,0.9510853485254167
+Sigma receptor,inhibitor,weight gain,8926246,0.8315878509433096
+Sigma receptor,inhibitor,apathy,24930682,0.9510853485254167
+Sigma receptor,inhibitor,motivation,,0.0
+Sigma receptor,inhibitor,stress,28127108,0.9332564681533736
+Sigma receptor,inhibitor,fatigue,24930682,0.9510853485254167
+Sigma receptor,inhibitor,suicidal thoughts,28478356,0.3663063186151547
+Sigma receptor,inhibitor,agitation,24930682,0.9510853485254167
+Neuronal acetylcholine receptor subunit beta-4,antagonist,cognitive symptoms,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,negative symptoms,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,avolition,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,extrapyramidal,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,positive symptoms psychosis,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,depression,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,insomnia,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,anxiety,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,weight gain,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,apathy,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,motivation,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,stress,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,fatigue,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,suicidal thoughts,,0.0
+Neuronal acetylcholine receptor subunit beta-4,antagonist,agitation,,0.0
+5-hydroxytryptamine receptor 2A,agonist,cognitive symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,agonist,negative symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,agonist,avolition,,0.0
+5-hydroxytryptamine receptor 2A,agonist,extrapyramidal,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,agonist,positive symptoms psychosis,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2A,agonist,depression,29479825,0.6830749319315441
+5-hydroxytryptamine receptor 2A,agonist,insomnia,21459634,0.9355212667408872
+5-hydroxytryptamine receptor 2A,agonist,anxiety,25936259,0.7170151279057707
+5-hydroxytryptamine receptor 2A,agonist,weight gain,18252809,0.9113792526592946
+Histamine H1 receptor,inhibitor,cognitive symptoms,22445882,0.9434342261657538
+Histamine H1 receptor,inhibitor,negative symptoms,6092608,0.9395029144542566
+Histamine H1 receptor,inhibitor,avolition,,0.0
+Histamine H1 receptor,inhibitor,extrapyramidal,,0.0
+Histamine H1 receptor,inhibitor,positive symptoms psychosis,,0.0
+Histamine H1 receptor,inhibitor,depression,12211418,0.9417645979048158
+Histamine H1 receptor,inhibitor,insomnia,10333982,0.6486634166907986
+Histamine H1 receptor,inhibitor,anxiety,22687724,0.951465350118057
+Histamine H1 receptor,inhibitor,weight gain,16303618,0.9321353629266405
+Histamine H1 receptor,inhibitor,apathy,,0.0
+Histamine H1 receptor,inhibitor,motivation,23303066,0.9477117877143292
+Histamine H1 receptor,inhibitor,stress,21211106,0.9294360513474528
+Histamine H1 receptor,inhibitor,fatigue,22223343,0.806725655335987
+Histamine H1 receptor,inhibitor,suicidal thoughts,,0.0
+Histamine H1 receptor,inhibitor,agitation,22445882,0.9434342261657538
+5-hydroxytryptamine receptor 2C,inhibitor,cognitive symptoms,11399662,0.9054634416345406
+5-hydroxytryptamine receptor 2C,inhibitor,negative symptoms,15991903,0.6955001043515042
+5-hydroxytryptamine receptor 2C,inhibitor,avolition,,0.0
+5-hydroxytryptamine receptor 2C,inhibitor,extrapyramidal,17203014,0.9416338665776554
+5-hydroxytryptamine receptor 2C,inhibitor,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 2C,inhibitor,depression,24769309,0.9481217988709797
+5-hydroxytryptamine receptor 2C,inhibitor,insomnia,23338224,0.4879205212040906
+5-hydroxytryptamine receptor 2C,inhibitor,anxiety,24662600,0.9173564442729306
+5-hydroxytryptamine receptor 2C,inhibitor,weight gain,15777190,0.95239375759099
+5-hydroxytryptamine receptor 2C,inhibitor,apathy,,0.0
+5-hydroxytryptamine receptor 2C,inhibitor,motivation,19961893,0.9612712981904964
+5-hydroxytryptamine receptor 2C,inhibitor,stress,20214921,0.9404568970159793
+5-hydroxytryptamine receptor 2C,inhibitor,fatigue,21750624,0.8223200634682816
+5-hydroxytryptamine receptor 2C,inhibitor,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2C,inhibitor,agitation,11399662,0.9054634416345406
+Muscarinic acetylcholine receptor,inhibitor,cognitive symptoms,27422264,0.8181105400024955
+Muscarinic acetylcholine receptor,inhibitor,negative symptoms,21720188,0.9365730645957016
+Muscarinic acetylcholine receptor,inhibitor,avolition,,0.0
+Muscarinic acetylcholine receptor,inhibitor,extrapyramidal,12673668,0.9150205660857716
+Muscarinic acetylcholine receptor,inhibitor,positive symptoms psychosis,17625502,0.6831262935397413
+Muscarinic acetylcholine receptor,inhibitor,depression,30380560,0.8156732864763594
+Muscarinic acetylcholine receptor,inhibitor,insomnia,24930682,0.9510853485254167
+Muscarinic acetylcholine receptor,inhibitor,anxiety,24893797,0.9667043250820881
+Muscarinic acetylcholine receptor,inhibitor,weight gain,2623026,0.9231992427962645
+Muscarinic acetylcholine receptor,inhibitor,apathy,24930682,0.9510853485254167
+Muscarinic acetylcholine receptor,inhibitor,motivation,11303041,0.9315001141294796
+Muscarinic acetylcholine receptor,inhibitor,stress,31004733,0.9186869071231881
+Muscarinic acetylcholine receptor,inhibitor,fatigue,24930682,0.9510853485254167
+Muscarinic acetylcholine receptor,inhibitor,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor,inhibitor,agitation,24930682,0.9510853485254167
+5-hydroxytryptamine receptor 2A,inhibitor,cognitive symptoms,24534112,0.9325541079989322
+5-hydroxytryptamine receptor 2A,inhibitor,negative symptoms,16198594,0.935302529444321
+5-hydroxytryptamine receptor 2A,inhibitor,avolition,,0.0
+5-hydroxytryptamine receptor 2A,inhibitor,extrapyramidal,,0.0
+NMDA receptor,inhibitor,motivation,29751228,0.9561752603933494
+NMDA receptor,inhibitor,suicidal thoughts,28478356,0.3663063186151547
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,cognitive symptoms,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,negative symptoms,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,avolition,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,extrapyramidal,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,positive symptoms psychosis,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,depression,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,insomnia,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,anxiety,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,weight gain,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,apathy,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,motivation,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,stress,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,fatigue,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,suicidal thoughts,,0.0
+Neuronal acetylcholine receptor subunit alpha-2,antagonist,agitation,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,cognitive symptoms,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,negative symptoms,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,avolition,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,extrapyramidal,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,positive symptoms psychosis,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,depression,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,insomnia,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,anxiety,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,weight gain,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,apathy,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,motivation,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,stress,28962160,0.5374255473260163
+Potassium voltage-gated channel subfamily H member 2,inhibitor,fatigue,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,suicidal thoughts,,0.0
+Potassium voltage-gated channel subfamily H member 2,inhibitor,agitation,,0.0
+Beta adrenergic receptor,inhibitor,avolition,,0.0
+Beta adrenergic receptor,inhibitor,extrapyramidal,,0.0
+Beta adrenergic receptor,inhibitor,positive symptoms psychosis,,0.0
+Beta adrenergic receptor,inhibitor,insomnia,21180298,0.6413513191406602
+Beta adrenergic receptor,inhibitor,apathy,,0.0
+Beta adrenergic receptor,inhibitor,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 2C,antagonist,cognitive symptoms,22824189,0.9431389206655079
+5-hydroxytryptamine receptor 2C,antagonist,avolition,21414604,0.6410007494972338
+5-hydroxytryptamine receptor 2C,antagonist,depression,28942286,0.8412054957783788
+5-hydroxytryptamine receptor 2C,antagonist,apathy,,0.0
+Dopamine D4 receptor,antagonist,positive symptoms psychosis,,0.0
+Dopamine D4 receptor,antagonist,insomnia,,0.0
+Dopamine D4 receptor,antagonist,anxiety,24893797,0.9667043250820881
+Dopamine D4 receptor,antagonist,apathy,,0.0
+Dopamine D4 receptor,antagonist,motivation,23262298,0.9429842411826801
+Dopamine D4 receptor,antagonist,fatigue,,0.0
+Dopamine D4 receptor,antagonist,suicidal thoughts,,0.0
+Dopamine D4 receptor,antagonist,agitation,,0.0
+Mu-type opioid receptor,ligand,cognitive symptoms,,0.0
+Mu-type opioid receptor,ligand,negative symptoms,,0.0
+Mu-type opioid receptor,ligand,avolition,,0.0
+Mu-type opioid receptor,ligand,extrapyramidal,,0.0
+Mu-type opioid receptor,ligand,positive symptoms psychosis,,0.0
+Mu-type opioid receptor,ligand,depression,,0.0
+Mu-type opioid receptor,ligand,insomnia,,0.0
+Mu-type opioid receptor,ligand,anxiety,,0.0
+Mu-type opioid receptor,ligand,weight gain,6149154,0.9315940655530098
+Mu-type opioid receptor,ligand,apathy,,0.0
+Mu-type opioid receptor,ligand,motivation,,0.0
+Mu-type opioid receptor,ligand,fatigue,,0.0
+Mu-type opioid receptor,ligand,suicidal thoughts,,0.0
+Mu-type opioid receptor,ligand,agitation,,0.0
+Muscarinic acetylcholine receptor M1,antagonist,cognitive symptoms,30230645,0.8166383651600069
+Muscarinic acetylcholine receptor M1,antagonist,negative symptoms,19478075,0.9261227178239686
+Muscarinic acetylcholine receptor M1,antagonist,avolition,,0.0
+Muscarinic acetylcholine receptor M1,antagonist,extrapyramidal,24534110,0.8889267043094433
+Muscarinic acetylcholine receptor M1,antagonist,positive symptoms psychosis,14728084,0.8066766925831845
+Muscarinic acetylcholine receptor M1,antagonist,depression,30208314,0.8290372034905279
+Muscarinic acetylcholine receptor M1,antagonist,insomnia,,0.0
+Muscarinic acetylcholine receptor M1,antagonist,weight gain,14728084,0.8066766925831845
+Muscarinic acetylcholine receptor M1,antagonist,apathy,30478410,0.5517090839284312
+Muscarinic acetylcholine receptor M1,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M1,antagonist,agitation,18455881,0.9265022750861638
+5-hydroxytryptamine receptor 3A,antagonist,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,negative symptoms,9111299,0.9054365117858265
+5-hydroxytryptamine receptor 3A,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,insomnia,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,weight gain,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,apathy,,0.0
+Muscarinic acetylcholine receptor M3,ligand,depression,30835756,0.7408260351164044
+Muscarinic acetylcholine receptor M3,ligand,insomnia,,0.0
+Muscarinic acetylcholine receptor M3,ligand,anxiety,,0.0
+Muscarinic acetylcholine receptor M3,ligand,weight gain,,0.0
+Muscarinic acetylcholine receptor M3,ligand,apathy,30835756,0.7408260351164044
+Muscarinic acetylcholine receptor M3,ligand,motivation,7871023,0.9175089107206459
+Muscarinic acetylcholine receptor M3,ligand,stress,24158800,0.8662028056353436
+Muscarinic acetylcholine receptor M3,ligand,fatigue,,0.0
+Muscarinic acetylcholine receptor M3,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M3,ligand,agitation,,0.0
+Beta-1 adrenergic receptor,ligand,cognitive symptoms,14749139,0.9278119359877219
+Beta-1 adrenergic receptor,ligand,negative symptoms,1312761,0.932462286674565
+Beta-1 adrenergic receptor,ligand,avolition,,0.0
+Beta-1 adrenergic receptor,ligand,extrapyramidal,,0.0
+Beta-1 adrenergic receptor,ligand,positive symptoms psychosis,,0.0
+Beta-1 adrenergic receptor,ligand,depression,2173022,0.9328608071558244
+Beta-1 adrenergic receptor,ligand,insomnia,,0.0
+Beta-1 adrenergic receptor,ligand,anxiety,18083578,0.8986337938063246
+Beta-1 adrenergic receptor,ligand,weight gain,,0.0
+Beta-1 adrenergic receptor,ligand,apathy,,0.0
+Beta-1 adrenergic receptor,ligand,motivation,,0.0
+Beta-1 adrenergic receptor,ligand,stress,22407956,0.9241601403668769
+Beta-1 adrenergic receptor,ligand,fatigue,,0.0
+Beta-1 adrenergic receptor,ligand,suicidal thoughts,,0.0
+Beta-1 adrenergic receptor,ligand,agitation,,0.0
+Alpha-1 adrenergic receptors,antagonist,cognitive symptoms,22824189,0.9431389206655079
+Alpha-1 adrenergic receptors,antagonist,negative symptoms,24040788,0.9529262367779968
+Alpha-1 adrenergic receptors,antagonist,avolition,,0.0
+Alpha-1 adrenergic receptors,antagonist,extrapyramidal,22824189,0.9431389206655079
+Alpha-1 adrenergic receptors,antagonist,positive symptoms psychosis,22824189,0.9431389206655079
+Alpha-1 adrenergic receptors,antagonist,depression,23357536,0.9565282354861278
+Alpha-1 adrenergic receptors,antagonist,insomnia,23069764,0.8157455862170512
+Alpha-1 adrenergic receptors,antagonist,anxiety,25018040,0.9294143563869081
+Alpha-1 adrenergic receptors,antagonist,weight gain,1687767,0.9360672433213829
+Alpha-1 adrenergic receptors,antagonist,apathy,,0.0
+Alpha-1 adrenergic receptors,antagonist,motivation,19961893,0.9612712981904964
+Alpha-1 adrenergic receptors,antagonist,stress,30664341,0.8391701826158778
+Alpha-1 adrenergic receptors,antagonist,fatigue,6354658,0.93531589148227
+Alpha-1 adrenergic receptors,antagonist,suicidal thoughts,,0.0
+Alpha-1 adrenergic receptors,antagonist,agitation,1355901,0.8225901893302223
+Glutamate (NMDA) receptor,ligand,cognitive symptoms,18805436,0.940258640425836
+Glutamate (NMDA) receptor,ligand,negative symptoms,25220706,0.9273077556263951
+Glutamate (NMDA) receptor,ligand,avolition,24855363,0.8548129920924594
+Glutamate (NMDA) receptor,ligand,extrapyramidal,,0.0
+Glutamate (NMDA) receptor,ligand,positive symptoms psychosis,22425803,0.9248139631231583
+Glutamate (NMDA) receptor,ligand,insomnia,,0.0
+Glutamate (NMDA) receptor,ligand,anxiety,28358367,0.8424305520472817
+Glutamate (NMDA) receptor,ligand,weight gain,2514398,0.9005274855355658
+Delta-type opioid receptor,ligand,cognitive symptoms,,0.0
+Delta-type opioid receptor,ligand,negative symptoms,,0.0
+Delta-type opioid receptor,ligand,avolition,,0.0
+Delta-type opioid receptor,ligand,extrapyramidal,,0.0
+Delta-type opioid receptor,ligand,positive symptoms psychosis,,0.0
+Delta-type opioid receptor,ligand,depression,6363855,0.9228004569270513
+Delta-type opioid receptor,ligand,insomnia,,0.0
+Delta-type opioid receptor,ligand,anxiety,,0.0
+Delta-type opioid receptor,ligand,weight gain,,0.0
+Delta-type opioid receptor,ligand,apathy,,0.0
+Delta-type opioid receptor,ligand,motivation,,0.0
+Delta-type opioid receptor,ligand,stress,,0.0
+Delta-type opioid receptor,ligand,fatigue,,0.0
+Delta-type opioid receptor,ligand,suicidal thoughts,,0.0
+Delta-type opioid receptor,ligand,agitation,,0.0
+Beta adrenergic receptor,inhibitor,cognitive symptoms,12542230,0.9393186003421308
+Beta adrenergic receptor,inhibitor,negative symptoms,23745588,0.7873641386598844
+Beta adrenergic receptor,inhibitor,avolition,,0.0
+Beta adrenergic receptor,inhibitor,extrapyramidal,,0.0
+Beta adrenergic receptor,inhibitor,positive symptoms psychosis,,0.0
+Beta adrenergic receptor,inhibitor,depression,28942286,0.8412054957783788
+Beta adrenergic receptor,inhibitor,insomnia,21180298,0.6413513191406602
+Beta adrenergic receptor,inhibitor,anxiety,24893797,0.9667043250820881
+Beta adrenergic receptor,inhibitor,weight gain,3016560,0.9200543390313152
+Beta adrenergic receptor,inhibitor,apathy,,0.0
+Beta adrenergic receptor,inhibitor,motivation,19961893,0.9612712981904964
+Beta adrenergic receptor,inhibitor,stress,30873562,0.7240423341050741
+Beta adrenergic receptor,inhibitor,fatigue,23416460,0.9326255718473994
+Beta adrenergic receptor,inhibitor,suicidal thoughts,,0.0
+Beta adrenergic receptor,inhibitor,agitation,18447403,0.7267244129030729
+Dopamine D4 receptor,ligand,cognitive symptoms,15027326,0.9245898917386186
+Dopamine D4 receptor,ligand,negative symptoms,15027326,0.9245898917386186
+Dopamine D4 receptor,ligand,avolition,,0.0
+Dopamine D4 receptor,ligand,extrapyramidal,15163190,0.8967401286906207
+Dopamine D4 receptor,ligand,positive symptoms psychosis,,0.0
+Dopamine D4 receptor,ligand,depression,24893797,0.9667043250820881
+Dopamine D4 receptor,ligand,insomnia,,0.0
+Dopamine D4 receptor,ligand,anxiety,24893797,0.9667043250820881
+Dopamine D4 receptor,ligand,weight gain,26205291,0.5449089891610955
+Dopamine D4 receptor,ligand,apathy,,0.0
+Dopamine D4 receptor,ligand,motivation,12646284,0.8390031362978321
+Dopamine D4 receptor,ligand,stress,22108379,0.9246101360952189
+Dopamine D4 receptor,ligand,fatigue,,0.0
+Dopamine D4 receptor,ligand,suicidal thoughts,,0.0
+Dopamine D4 receptor,ligand,agitation,,0.0
+Dopamine D1 receptor,antagonist,cognitive symptoms,30500462,0.9273636512325869
+Dopamine D1 receptor,antagonist,negative symptoms,30500462,0.9273636512325869
+Dopamine D1 receptor,antagonist,avolition,,0.0
+Dopamine D1 receptor,antagonist,extrapyramidal,15578005,0.9507368749282942
+5-hydroxytryptamine receptor 1A partial,agonist,motivation,27742411,0.9187383791994269
+5-hydroxytryptamine receptor 1A partial,agonist,stress,25704026,0.8058986790727418
+5-hydroxytryptamine receptor 1A partial,agonist,fatigue,27859267,0.3498301358635534
+5-hydroxytryptamine receptor 1A partial,agonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1A partial,agonist,agitation,26310190,0.5925725610152776
+Dopamine D5 receptor,antagonist,cognitive symptoms,23672849,0.9296421586492035
+Dopamine D5 receptor,antagonist,negative symptoms,30500462,0.9273636512325869
+Dopamine D5 receptor,antagonist,avolition,,0.0
+Dopamine D5 receptor,antagonist,extrapyramidal,8986008,0.9347063250507345
+Dopamine D5 receptor,antagonist,positive symptoms psychosis,23494232,0.711177357369743
+Dopamine D5 receptor,antagonist,depression,31078578,0.9559050546381621
+Dopamine D5 receptor,antagonist,insomnia,,0.0
+Dopamine D5 receptor,antagonist,anxiety,31078578,0.9559050546381621
+Dopamine D5 receptor,antagonist,weight gain,,0.0
+Dopamine D5 receptor,antagonist,apathy,,0.0
+Dopamine D5 receptor,antagonist,motivation,21309956,0.9546837291003496
+Dopamine D5 receptor,antagonist,stress,31078578,0.9559050546381621
+Dopamine D5 receptor,antagonist,fatigue,,0.0
+Dopamine D5 receptor,antagonist,suicidal thoughts,,0.0
+Dopamine D5 receptor,antagonist,agitation,,0.0
+5-hydroxytryptamine receptor 1B,antagonist,negative symptoms,16491386,0.9397959690810509
+5-hydroxytryptamine receptor 1B,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 1B,antagonist,extrapyramidal,8386235,0.9024170556027012
+5-hydroxytryptamine receptor 1B,antagonist,positive symptoms psychosis,11750183,0.8543846743003839
+5-hydroxytryptamine receptor 1B,antagonist,depression,25717481,0.8181501741202123
+5-hydroxytryptamine receptor 1B,antagonist,insomnia,,0.0
+5-hydroxytryptamine receptor 1B,antagonist,anxiety,22171087,0.855075871480544
+5-hydroxytryptamine receptor 1B,antagonist,weight gain,11513838,0.708938302557726
+5-hydroxytryptamine receptor 1B,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 1B,antagonist,motivation,19211971,0.8575114212666877
+5-hydroxytryptamine receptor 1B,antagonist,stress,21818550,0.9632407006014839
+5-hydroxytryptamine receptor 1B,antagonist,fatigue,27106566,0.7419596139458107
+5-hydroxytryptamine receptor 1B,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1B,antagonist,agitation,,0.0
+Histamine H2 receptor,ligand,cognitive symptoms,,0.0
+Histamine H2 receptor,ligand,negative symptoms,24433203,0.639390768621104
+Histamine H2 receptor,ligand,avolition,,0.0
+Histamine H2 receptor,ligand,extrapyramidal,10661506,0.9221144530438512
+Histamine H2 receptor,ligand,positive symptoms psychosis,,0.0
+Histamine H2 receptor,ligand,depression,17370648,0.9142825406286489
+Histamine H2 receptor,ligand,insomnia,,0.0
+Histamine H2 receptor,ligand,anxiety,,0.0
+Histamine H2 receptor,ligand,weight gain,,0.0
+Histamine H2 receptor,ligand,apathy,,0.0
+Histamine H2 receptor,ligand,motivation,,0.0
+Histamine H2 receptor,ligand,stress,16699262,0.9567572234953867
+Histamine H2 receptor,ligand,fatigue,,0.0
+Histamine H2 receptor,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,depression,9473476,0.8032410142911545
+Muscarinic acetylcholine receptor M5,antagonist,insomnia,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,anxiety,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,weight gain,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,apathy,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,motivation,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,stress,28302036,0.4842045724103793
+Muscarinic acetylcholine receptor M5,antagonist,fatigue,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M5,antagonist,agitation,18455881,0.9265022750861638
+Dopamine D2 receptor,antagonist,cognitive symptoms,31741731,0.9333147985394287
+Dopamine D2 receptor,antagonist,negative symptoms,31741731,0.9333147985394287
+Dopamine D2 receptor,antagonist,avolition,21414604,0.6410007494972338
+Dopamine D2 receptor,antagonist,extrapyramidal,31715211,0.9044764694928282
+Dopamine D2 receptor,antagonist,positive symptoms psychosis,31741731,0.9333147985394287
+Dopamine D2 receptor,antagonist,depression,31121177,0.9371050574173656
+Dopamine D2 receptor,antagonist,insomnia,19604496,0.8327261551640424
+Dopamine D2 receptor,antagonist,anxiety,30680454,0.7223702856861128
+Dopamine D2 receptor,antagonist,weight gain,30230712,0.6757587941600688
+Dopamine D2 receptor,antagonist,apathy,29429048,0.7057878136923564
+Dopamine D2 receptor,antagonist,motivation,31350860,0.9238731016033943
+Dopamine D2 receptor,antagonist,stress,31556781,0.8310702050728885
+Dopamine D2 receptor,antagonist,fatigue,24937131,0.7569921312868189
+Dopamine D2 receptor,antagonist,suicidal thoughts,,0.0
+Dopamine D2 receptor,antagonist,agitation,25203719,0.9175285534810939
+Sodium-dependent noradrenaline transporter,antagonist,cognitive symptoms,22732518,0.8468688123579154
+Sodium-dependent noradrenaline transporter,antagonist,negative symptoms,22732518,0.8468688123579154
+Sodium-dependent noradrenaline transporter,antagonist,avolition,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,extrapyramidal,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,positive symptoms psychosis,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,depression,19497387,0.925890810535812
+Sodium-dependent noradrenaline transporter,antagonist,insomnia,23069764,0.8157455862170512
+Sodium-dependent noradrenaline transporter,antagonist,anxiety,24111919,0.8400431676712274
+Sodium-dependent noradrenaline transporter,antagonist,weight gain,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,apathy,24011636,0.7257540827861477
+Sodium-dependent noradrenaline transporter,antagonist,motivation,24111919,0.8400431676712274
+Sodium-dependent noradrenaline transporter,antagonist,stress,14654100,0.9426945784031132
+Sodium-dependent noradrenaline transporter,antagonist,fatigue,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,suicidal thoughts,,0.0
+Sodium-dependent noradrenaline transporter,antagonist,agitation,,0.0
+Muscarinic acetylcholine receptor M2,ligand,cognitive symptoms,25593117,0.7890874187180678
+Muscarinic acetylcholine receptor M2,ligand,negative symptoms,11495349,0.9505916723465709
+Muscarinic acetylcholine receptor M2,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M2,ligand,extrapyramidal,25880220,0.9138719793282691
+Muscarinic acetylcholine receptor M2,ligand,positive symptoms psychosis,29374561,0.6367867265001218
+Muscarinic acetylcholine receptor M2,ligand,depression,22490561,0.912767165356252
+Muscarinic acetylcholine receptor M2,ligand,insomnia,28351483,0.5129528871488485
+Muscarinic acetylcholine receptor M2,ligand,anxiety,11458993,0.919686563187925
+Muscarinic acetylcholine receptor M2,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,motivation,12568911,0.9208505400463506
+5-hydroxytryptamine receptor 3A,antagonist,stress,14978196,0.9311272773021742
+5-hydroxytryptamine receptor 3A,antagonist,fatigue,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 3A,antagonist,agitation,,0.0
+5-hydroxytryptamine receptor 7,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 7,antagonist,depression,30891619,0.614626117313923
+5-hydroxytryptamine receptor 7,antagonist,stress,30267130,0.8019753294402486
+5-hydroxytryptamine receptor 7,antagonist,fatigue,15025555,0.6669532003090654
+5-hydroxytryptamine receptor 7,antagonist,suicidal thoughts,24318540,0.7498776950462471
+Alpha-2B adrenergic receptor,antagonist,avolition,,0.0
+Alpha-2B adrenergic receptor,antagonist,apathy,,0.0
+Alpha-2B adrenergic receptor,antagonist,fatigue,6095132,0.9198749067082554
+Alpha-2B adrenergic receptor,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 3A,ligand,cognitive symptoms,,0.0
+5-hydroxytryptamine receptor 3A,ligand,negative symptoms,25728902,0.8322321622906295
+5-hydroxytryptamine receptor 3A,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 3A,ligand,extrapyramidal,25728902,0.8322321622906295
+5-hydroxytryptamine receptor 3A,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 3A,ligand,insomnia,,0.0
+5-hydroxytryptamine receptor 3A,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 3A,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 3A,ligand,motivation,,0.0
+5-hydroxytryptamine receptor 3A,ligand,stress,24189487,0.7581854831074912
+5-hydroxytryptamine receptor 3A,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 3A,ligand,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,avolition,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,extrapyramidal,11513838,0.708938302557726
+5-hydroxytryptamine receptor 1D,antagonist,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,insomnia,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,apathy,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,motivation,15720791,0.9422643673252648
+5-hydroxytryptamine receptor 1D,antagonist,stress,20171242,0.9337624928267476
+5-hydroxytryptamine receptor 1D,antagonist,fatigue,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1D,antagonist,agitation,,0.0
+Sodium-dependent dopamine transporter,modulator,cognitive symptoms,,0.0
+Sodium-dependent dopamine transporter,modulator,negative symptoms,,0.0
+Sodium-dependent dopamine transporter,modulator,avolition,,0.0
+Sodium-dependent dopamine transporter,modulator,extrapyramidal,,0.0
+Sodium-dependent dopamine transporter,modulator,positive symptoms psychosis,,0.0
+Sodium-dependent dopamine transporter,modulator,depression,,0.0
+Sodium-dependent dopamine transporter,modulator,insomnia,,0.0
+Sodium-dependent dopamine transporter,modulator,anxiety,,0.0
+Sodium-dependent dopamine transporter,modulator,weight gain,,0.0
+Sodium-dependent dopamine transporter,modulator,apathy,,0.0
+Sodium-dependent dopamine transporter,modulator,motivation,,0.0
+Sodium-dependent dopamine transporter,modulator,stress,,0.0
+Sodium-dependent dopamine transporter,modulator,fatigue,,0.0
+Sodium-dependent dopamine transporter,modulator,suicidal thoughts,,0.0
+Sodium-dependent dopamine transporter,modulator,agitation,,0.0
+Muscarinic acetylcholine receptor M1,ligand,avolition,,0.0
+Muscarinic acetylcholine receptor M1,ligand,extrapyramidal,25880220,0.9138719793282691
+Muscarinic acetylcholine receptor M1,ligand,positive symptoms psychosis,29374561,0.6367867265001218
+Muscarinic acetylcholine receptor M1,ligand,weight gain,,0.0
+Muscarinic acetylcholine receptor M1,ligand,apathy,,0.0
+Muscarinic acetylcholine receptor M1,ligand,motivation,11458993,0.919686563187925
+Muscarinic acetylcholine receptor M1,ligand,fatigue,,0.0
+Muscarinic acetylcholine receptor M1,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M1,ligand,agitation,,0.0
+5-hydroxytryptamine receptor 1,inhibitor,avolition,,0.0
+Dopamine D2 receptor,agonist,suicidal thoughts,,0.0
+Histamine H4 receptor,antagonist,cognitive symptoms,,0.0
+Histamine H4 receptor,antagonist,negative symptoms,23137201,0.5006989542937897
+Histamine H4 receptor,antagonist,avolition,,0.0
+Histamine H4 receptor,antagonist,extrapyramidal,,0.0
+Histamine H4 receptor,antagonist,positive symptoms psychosis,,0.0
+Histamine H4 receptor,antagonist,depression,,0.0
+Histamine H4 receptor,antagonist,insomnia,,0.0
+Histamine H4 receptor,antagonist,apathy,,0.0
+Histamine H4 receptor,antagonist,suicidal thoughts,,0.0
+Histamine H4 receptor,antagonist,agitation,,0.0
+Dopamine D3 receptor,ligand,avolition,,0.0
+Dopamine D3 receptor,ligand,positive symptoms psychosis,29717334,0.4813474505038468
+Dopamine D3 receptor,ligand,apathy,,0.0
+Dopamine D3 receptor,ligand,fatigue,,0.0
+Dopamine D3 receptor,ligand,suicidal thoughts,,0.0
+Dopamine D3 receptor,ligand,agitation,19250996,0.9090041627317489
+5-hydroxytryptamine receptor 1B,ligand,avolition,,0.0
+5-hydroxytryptamine receptor 1B,ligand,extrapyramidal,,0.0
+5-hydroxytryptamine receptor 1B,ligand,positive symptoms psychosis,,0.0
+5-hydroxytryptamine receptor 1B,ligand,insomnia,31019306,0.33219551249528617
+5-hydroxytryptamine receptor 1B,ligand,weight gain,,0.0
+5-hydroxytryptamine receptor 1B,ligand,apathy,,0.0
+5-hydroxytryptamine receptor 1B,ligand,motivation,11396515,0.9562828109240509
+5-hydroxytryptamine receptor 1B,ligand,stress,12040075,0.9131146759035539
+5-hydroxytryptamine receptor 1B,ligand,fatigue,,0.0
+5-hydroxytryptamine receptor 1B,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M5,ligand,depression,,0.0
+Muscarinic acetylcholine receptor M5,ligand,anxiety,,0.0
+Muscarinic acetylcholine receptor M5,ligand,weight gain,,0.0
+Muscarinic acetylcholine receptor M5,ligand,apathy,,0.0
+Muscarinic acetylcholine receptor M5,ligand,motivation,,0.0
+Muscarinic acetylcholine receptor M5,ligand,stress,,0.0
+Muscarinic acetylcholine receptor M5,ligand,fatigue,,0.0
+Muscarinic acetylcholine receptor M5,ligand,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M5,ligand,agitation,,0.0
+Histamine H3 receptor,ligand,avolition,,0.0
+Histamine H3 receptor,ligand,extrapyramidal,,0.0
+Histamine H3 receptor,ligand,positive symptoms psychosis,22580536,0.7089666601629976
+Histamine H3 receptor,ligand,apathy,,0.0
+Histamine H3 receptor,ligand,suicidal thoughts,,0.0
+Histamine H3 receptor,ligand,agitation,,0.0
+Kappa-type opioid receptor,ligand,cognitive symptoms,,0.0
+Kappa-type opioid receptor,ligand,negative symptoms,,0.0
+Kappa-type opioid receptor,ligand,avolition,,0.0
+Kappa-type opioid receptor,ligand,extrapyramidal,,0.0
+Kappa-type opioid receptor,ligand,positive symptoms psychosis,,0.0
+Kappa-type opioid receptor,ligand,depression,2840785,0.8916867492172091
+Kappa-type opioid receptor,ligand,insomnia,,0.0
+Kappa-type opioid receptor,ligand,anxiety,,0.0
+Kappa-type opioid receptor,ligand,weight gain,6149154,0.9315940655530098
+Kappa-type opioid receptor,ligand,apathy,,0.0
+Kappa-type opioid receptor,ligand,motivation,,0.0
+Kappa-type opioid receptor,ligand,fatigue,,0.0
+Kappa-type opioid receptor,ligand,suicidal thoughts,,0.0
+Kappa-type opioid receptor,ligand,agitation,,0.0
+Sodium-dependent serotonin transporter,modulator,cognitive symptoms,20543991,0.9054707534516109
+Sodium-dependent serotonin transporter,modulator,negative symptoms,20543991,0.9054707534516109
+Sodium-dependent serotonin transporter,modulator,avolition,,0.0
+Sodium-dependent serotonin transporter,modulator,extrapyramidal,,0.0
+Sodium-dependent serotonin transporter,modulator,positive symptoms psychosis,,0.0
+Sodium-dependent serotonin transporter,modulator,depression,18815011,0.9243698834324485
+Sodium-dependent serotonin transporter,modulator,insomnia,,0.0
+Sodium-dependent serotonin transporter,modulator,weight gain,24138674,0.6007882005606694
+Sodium-dependent serotonin transporter,antagonist,cognitive symptoms,25016186,0.933230688713835
+Sodium-dependent serotonin transporter,antagonist,negative symptoms,25016186,0.933230688713835
+Sodium-dependent serotonin transporter,antagonist,avolition,,0.0
+Sodium-dependent serotonin transporter,antagonist,extrapyramidal,16643965,0.9215159950360804
+Sodium-dependent serotonin transporter,antagonist,positive symptoms psychosis,,0.0
+Sodium-dependent serotonin transporter,antagonist,depression,25016186,0.933230688713835
+Sodium-dependent serotonin transporter,antagonist,insomnia,,0.0
+Sodium-dependent serotonin transporter,antagonist,anxiety,25435080,0.9053915967843421
+Sodium-dependent serotonin transporter,antagonist,weight gain,27459372,0.8705970107251908
+Sodium-dependent serotonin transporter,antagonist,apathy,,0.0
+Sodium-dependent serotonin transporter,antagonist,motivation,12968128,0.8289471364901753
+Sodium-dependent serotonin transporter,antagonist,fatigue,25040499,0.9319262464208595
+Sodium-dependent serotonin transporter,antagonist,suicidal thoughts,27463606,0.18203586685222672
+Sodium-dependent serotonin transporter,antagonist,agitation,,0.0
+5-hydroxytryptamine receptor 1A,agonist,cognitive symptoms,24048386,0.824929399275844
+5-hydroxytryptamine receptor 1A,agonist,negative symptoms,24421401,0.9011402701501778
+5-hydroxytryptamine receptor 1A,agonist,avolition,,0.0
+5-hydroxytryptamine receptor 1A,agonist,extrapyramidal,23838274,0.9220338811273037
+5-hydroxytryptamine receptor 1A,agonist,positive symptoms psychosis,12665420,0.8153917946351096
+5-hydroxytryptamine receptor 1A,agonist,depression,31940619,0.7544677116623303
+5-hydroxytryptamine receptor 1A,agonist,insomnia,21459634,0.9355212667408872
+5-hydroxytryptamine receptor 1A,agonist,anxiety,30539269,0.6566985744923526
+5-hydroxytryptamine receptor 1A,agonist,weight gain,18252809,0.9113792526592946
+5-hydroxytryptamine receptor 1A,agonist,apathy,,0.0
+5-hydroxytryptamine receptor 1A,agonist,motivation,25290207,0.9493515229352643
+5-hydroxytryptamine receptor 1A,agonist,stress,31765686,0.9143131151741466
+5-hydroxytryptamine receptor 1A,agonist,fatigue,17192569,0.906683633744257
+5-hydroxytryptamine receptor 1A,agonist,suicidal thoughts,,0.0
+5-hydroxytryptamine receptor 1A,agonist,agitation,9196921,0.7493281768372013
+Muscarinic acetylcholine receptor M2,antagonist,cognitive symptoms,15537882,0.9374543292264894
+Muscarinic acetylcholine receptor M2,antagonist,negative symptoms,9890565,0.9376511825096151
+Muscarinic acetylcholine receptor M2,antagonist,avolition,,0.0
+Muscarinic acetylcholine receptor M2,antagonist,extrapyramidal,24534110,0.8889267043094433
+Muscarinic acetylcholine receptor M2,antagonist,positive symptoms psychosis,,0.0
+Muscarinic acetylcholine receptor M2,antagonist,depression,18550768,0.9426472834236952
+Muscarinic acetylcholine receptor M2,antagonist,insomnia,,0.0
+Muscarinic acetylcholine receptor M2,antagonist,anxiety,17010154,0.9219936225332976
+Muscarinic acetylcholine receptor M2,antagonist,weight gain,17368684,0.8974329395062833
+Muscarinic acetylcholine receptor M2,antagonist,apathy,,0.0
+Muscarinic acetylcholine receptor M2,antagonist,motivation,18410964,0.9488131180030328
+Muscarinic acetylcholine receptor M2,antagonist,stress,22166222,0.9538242293158588
+Muscarinic acetylcholine receptor M2,antagonist,fatigue,10668706,0.47265203835063413
+Muscarinic acetylcholine receptor M2,antagonist,suicidal thoughts,,0.0
+Muscarinic acetylcholine receptor M2,antagonist,agitation,,0.0
+Dopamine D4 receptor,antagonist,avolition,,0.0
+Dopamine D4 receptor,antagonist,extrapyramidal,17689529,0.9128095803978402
