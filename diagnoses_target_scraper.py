@@ -6,6 +6,7 @@
 #from bs4 import BeautifulSoup
 from metapub import PubMedFetcher
 import json
+import pickle
 #import os
 #from selenium import webdriver
 #from selenium.webdriver.common.keys import Keys
@@ -49,3 +50,26 @@ schizophrenia_abstracts = [[get_abstract_from_pmid(p, fetch) for p in l] for l i
 with open("temp/schizophrenia_abstracts.json", "w") as sajson:
     sajson.write(json.dumps(schizophrenia_abstracts))
 
+with open("drug_lists/depression/depression_targets.txt") as dt:
+    # Drop last element '' created by splitting along  \n
+        depression_targets = dt.read().split("\n")[:-1]
+with open("drug_lists/schizophrenia/schizophrenia_targets.txt") as st:
+    # Drop last element '' created by splitting along  \n
+        schizophrenia_targets = st.read().split("\n")[:-1]
+        
+depression_dict = {k:v for k, v in zip(depression_targets, depression_abstracts)}
+with open("temp/depression_dict.json", "w") as dd:
+    dd.write(json.dumps(depression_dict))
+
+with open("temp/schizophrenia_abstracts.json", "r") as s:
+    schizophrenia_abstracts = json.loads(s.read())
+schizophrenia_dict = {k:v for k, v in zip(schizophrenia_targets, schizophrenia_abstracts)}
+
+diagnosis_to_target_dict = {"schizophrenia": schizophrenia_dict,
+                  "depression": depression_dict}
+
+with open("dictionaries/diagnosis_to_target_dict.json", "w") as dtd:
+    dtd.write(json.dumps(diagnosis_to_target_dict))
+     
+with open("dictionaries/diagnosis_to_target_dict.p", "wb") as dtdp:
+    pickle.dump(diagnosis_to_target_dict, dtdp)
