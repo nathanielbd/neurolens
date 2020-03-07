@@ -1,0 +1,10 @@
+runtime: python37
+
+env_variables:
+        FLASK_APP: "app.py"
+
+entrypoint: python -m flask run
+
+handlers:
+- url: /static
+  static_dir: static
