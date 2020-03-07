@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+{% block title %} {{ title }} {% endblock %}
+{% block head %}
+	{{ super() }}
+{% endblock %}
+{% block content %}
+	<div class="jumbotron">
+		<h1 class="display-3">{{ title }}</h1>
+		<form method="POST">
+			<legend>{{ form_name }}</legend>
+			<div class="form-group">
+				{{ form.cognitive_symptoms.label }}:
+				<br>
+				{{ form.cognitive_symptoms }}
+                <br> 
+				{{ form.negative_symptoms.label }}:
+				<br>
+				{{ form.negative_symptoms }}
+                <br>
+				{{ form.avolition.label }}:
+				<br>
+				{{ form.avolition }}
+                <br>
+				{{ form.extrapyramidal.label }}:
+				<br>
+				{{ form.extrapyramidal }}
+                <br> 
+				{{ form.positive_symptoms.label }}:
+				<br>
+				{{ form.positive_symptoms }}
+                <br>
+				{{ form.psychosis.label }}:
+				<br>
+				{{ form.psychosis }}
+                <br>
+				{{ form.depression.label }}:
+				<br>
+				{{ form.depression }}
+                <br>
+				{{ form.insomnia.label }}:
+				<br>
+                {{ form.insomnia }}
+                <br>
+				{{ form.anxiety.label }}:
+				<br>
+				{{ form.anxiety }}
+                <br>
+				{{ form.weight_gain.label }}:
+				<br>
+                {{ form.weight_gain }}
+                <br>
+				{{ form.apathy.label }}:
+				<br>
+				{{ form.apathy }}
+                <br>
+				{{ form.motivation.label }}:
+				<br>
+                {{ form.motivation }}
+                <br>
+				{{ form.stress.label }}:
+				<br>
+                {{ form.stress }}
+                <br>
+				{{ form.fatigue.label }}:
+				<br>
+                {{ form.fatigue }}
+                <br>
+				{{ form.suicidal_thoughts.label }}:
+				<br>
+                {{ form.suicidal_thoughts }}
+                <br>
+				{{ form.agitation.label }}:
+				<br>
+                {{ form.agitation }}
+                <br>
+			</div>
+			{{ form.submit }}
+		</form>
+	</div>
+{% endblock %}

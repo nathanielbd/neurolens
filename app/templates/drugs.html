@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block title %} {{ title }} {% endblock %}
+{% block head %}
+	{{ super() }}
+{% endblock %}
+{% block content %}
+	<div class="jumbotron">
+		<h1 class="display-3">{{ title }}</h1>
+		<form method="POST">
+			<legend>{{ form_name }}</legend>
+			<div class="form-group">
+				{{ form.drug.label }}:
+				<br>
+				{{ form.drug }}
+			</div>
+			{{ form.submit }}
+		</form>
+	</div>
+{% endblock %}
