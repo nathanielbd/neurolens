@@ -73,3 +73,9 @@ with open("dictionaries/diagnosis_to_target_dict.json", "w") as dtd:
      
 with open("dictionaries/diagnosis_to_target_dict.p", "wb") as dtdp:
     pickle.dump(diagnosis_to_target_dict, dtdp)
+    
+depression_dict = {"Diagnosis": ["depression" for n in range(len(depression_abstracts))], "Target": depression_targets, "Abstracts": depression_abstracts}
+schizophrenia_dict = {"Diagnosis": ["depression" for n in range(len(schizophrenia_abstracts))], "Target": schizophrenia_targets, "Abstracts": schizophrenia_abstracts}
+depression_df, schizophrenia_df = (pd.DataFrame(depression_dict), pd.DataFrame(schizophrenia_dict))
+diagnoses_target_df = pd.concat([depression_df, schizophrenia_df], axis=0)
+diagnoses_target_df.to_csv("csv/diagnosis_target.csv")
