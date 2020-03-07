@@ -1,3 +1,6 @@
+import pandas as pd
+import ast
+
 def generate_efficacy(patient_response, mech_symptom_data):
     # where patient_response is of the format dict[symptom] = label
     #       - this is the user input ranging from -1 to 1
@@ -20,22 +23,26 @@ def generate_efficacy(patient_response, mech_symptom_data):
             # zip together lists and take product
             pairings = zip(m_s_scores, labels)
             products = [n1*n2 for (n1, n2) in pairings]
+            #print("unsorted", products)
             # take highest score, label, product
-            sorted = products.sort()
-            high_score = sorted.pop()
+            sorted_products = sorted(products)
+            #print("sorted", sorted_products)
+            high_score = sorted_products.pop()
         efficacy_dict[mechanic] = high_score
-
+    
     return efficacy_dict
 
-def get_mechanics(drug_name):
+def get_mechanics(drug_name, drugdb):
     # this should return a list of mechanics for the given drug name
-    return []
+    """Looks up drug name using pandas, then finds corresponding mechanics list
+    and converts it from a pandas series containing one string to a list"""
+    return ast.literal_eval(drugdb.loc[drugdb["name"] == drug_name.lower()]["mechanics"].tolist()[0])
 
-def score_drug(drug_name, efficacy_dict):
+def score_drug(drug_name, efficacy_dict, drugdb):
     # this makes no assumptions about the format of drug, but if its a list of mechanics that is formatted
     # to make key access work smoothly with efficacy_dict, that is ideal
 
-    drug = get_mechanics(drug_name)
+    drug = get_mechanics(drug_name, drugdb)
 
     eff_scores = []
     for mechanic in drug:
