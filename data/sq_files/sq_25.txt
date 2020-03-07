@@ -1,0 +1,51 @@
+Muscarinic acetylcholine receptor M4 antagonist positive symptoms psychosis
+Muscarinic acetylcholine receptor M4 antagonist depression
+Muscarinic acetylcholine receptor M4 antagonist insomnia
+Muscarinic acetylcholine receptor M4 antagonist anxiety
+Muscarinic acetylcholine receptor M4 antagonist weight gain
+Muscarinic acetylcholine receptor M4 antagonist apathy
+Muscarinic acetylcholine receptor M4 antagonist motivation
+Muscarinic acetylcholine receptor M4 antagonist stress
+Muscarinic acetylcholine receptor M4 antagonist fatigue
+Muscarinic acetylcholine receptor M4 antagonist suicidal thoughts
+Muscarinic acetylcholine receptor M4 antagonist agitation
+Histamine H4 receptor ligand cognitive symptoms
+Histamine H4 receptor ligand negative symptoms
+Histamine H4 receptor ligand avolition
+Histamine H4 receptor ligand extrapyramidal
+Histamine H4 receptor ligand positive symptoms psychosis
+Histamine H4 receptor ligand depression
+Histamine H4 receptor ligand insomnia
+Histamine H4 receptor ligand anxiety
+Histamine H4 receptor ligand weight gain
+Histamine H4 receptor ligand apathy
+Histamine H4 receptor ligand motivation
+Histamine H4 receptor ligand stress
+Histamine H4 receptor ligand fatigue
+Histamine H4 receptor ligand suicidal thoughts
+Histamine H4 receptor ligand agitation
+Muscarinic acetylcholine receptor M4 ligand cognitive symptoms
+Muscarinic acetylcholine receptor M4 ligand negative symptoms
+Muscarinic acetylcholine receptor M4 ligand avolition
+Muscarinic acetylcholine receptor M4 ligand extrapyramidal
+Muscarinic acetylcholine receptor M4 ligand positive symptoms psychosis
+Muscarinic acetylcholine receptor M4 ligand depression
+Muscarinic acetylcholine receptor M4 ligand insomnia
+Muscarinic acetylcholine receptor M4 ligand anxiety
+Muscarinic acetylcholine receptor M4 ligand weight gain
+Muscarinic acetylcholine receptor M4 ligand apathy
+Muscarinic acetylcholine receptor M4 ligand motivation
+Muscarinic acetylcholine receptor M4 ligand stress
+Muscarinic acetylcholine receptor M4 ligand fatigue
+Muscarinic acetylcholine receptor M4 ligand suicidal thoughts
+Muscarinic acetylcholine receptor M4 ligand agitation
+5-hydroxytryptamine receptor 2A antagonist cognitive symptoms
+5-hydroxytryptamine receptor 2A antagonist negative symptoms
+5-hydroxytryptamine receptor 2A antagonist avolition
+5-hydroxytryptamine receptor 2A antagonist extrapyramidal
+5-hydroxytryptamine receptor 2A antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2A antagonist depression
+5-hydroxytryptamine receptor 2A antagonist insomnia
+5-hydroxytryptamine receptor 2A antagonist anxiety
+5-hydroxytryptamine receptor 2A antagonist weight gain
+5-hydroxytryptamine receptor 2A antagonist apathy

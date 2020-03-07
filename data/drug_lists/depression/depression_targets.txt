@@ -1,0 +1,28 @@
+D(1) dopamine receptor other/unknown
+Histamine H1 receptor binder
+Neuronal acetylcholine receptor subunit alpha-3 antagonist
+Alpha-1 adrenergic receptors binder
+Alpha-2 adrenergic receptors binder
+Dopamine D2 receptor other/unknown
+Sodium-dependent noradrenaline transporter inhibitor
+Sigma receptor inhibitor
+Neuronal acetylcholine receptor subunit beta-4 antagonist
+5-hydroxytryptamine receptor 2A agonist
+Sodium-dependent dopamine transporter inhibitor
+Sodium-dependent serotonin transporter inhibitor
+5-hydroxytryptamine receptor 1A inhibitor
+Histamine H1 receptor inhibitor
+5-hydroxytryptamine receptor 2C inhibitor
+Muscarinic acetylcholine receptor inhibitor
+5-hydroxytryptamine receptor 2A inhibitor
+Alpha-2 adrenergic receptors inhibitor
+Muscarinic acetylcholine receptor M1 inhibitor
+NMDA receptor inhibitor
+Neuronal acetylcholine receptor subunit alpha-2 antagonist
+Potassium voltage-gated channel subfamily H member 2 inhibitor
+Beta adrenergic receptor inhibitor
+5-hydroxytryptamine receptor 2C antagonist
+Dopamine D2 receptor inhibitor
+5-hydroxytryptamine receptor 3A negative modulator
+5-hydroxytryptamine receptor 2B agonist
+Alpha-1 adrenergic receptors inhibitor

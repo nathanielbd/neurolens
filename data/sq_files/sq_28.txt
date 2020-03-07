@@ -1,0 +1,51 @@
+5-hydroxytryptamine receptor 2A inhibitor positive symptoms psychosis
+5-hydroxytryptamine receptor 2A inhibitor depression
+5-hydroxytryptamine receptor 2A inhibitor insomnia
+5-hydroxytryptamine receptor 2A inhibitor anxiety
+5-hydroxytryptamine receptor 2A inhibitor weight gain
+5-hydroxytryptamine receptor 2A inhibitor apathy
+5-hydroxytryptamine receptor 2A inhibitor motivation
+5-hydroxytryptamine receptor 2A inhibitor stress
+5-hydroxytryptamine receptor 2A inhibitor fatigue
+5-hydroxytryptamine receptor 2A inhibitor suicidal thoughts
+5-hydroxytryptamine receptor 2A inhibitor agitation
+Alpha-2 adrenergic receptors inhibitor cognitive symptoms
+Alpha-2 adrenergic receptors inhibitor negative symptoms
+Alpha-2 adrenergic receptors inhibitor avolition
+Alpha-2 adrenergic receptors inhibitor extrapyramidal
+Alpha-2 adrenergic receptors inhibitor positive symptoms psychosis
+Alpha-2 adrenergic receptors inhibitor depression
+Alpha-2 adrenergic receptors inhibitor insomnia
+Alpha-2 adrenergic receptors inhibitor anxiety
+Alpha-2 adrenergic receptors inhibitor weight gain
+Alpha-2 adrenergic receptors inhibitor apathy
+Alpha-2 adrenergic receptors inhibitor motivation
+Alpha-2 adrenergic receptors inhibitor stress
+Alpha-2 adrenergic receptors inhibitor fatigue
+Alpha-2 adrenergic receptors inhibitor suicidal thoughts
+Alpha-2 adrenergic receptors inhibitor agitation
+Muscarinic acetylcholine receptor M1 inhibitor cognitive symptoms
+Muscarinic acetylcholine receptor M1 inhibitor negative symptoms
+Muscarinic acetylcholine receptor M1 inhibitor avolition
+Muscarinic acetylcholine receptor M1 inhibitor extrapyramidal
+Muscarinic acetylcholine receptor M1 inhibitor positive symptoms psychosis
+Muscarinic acetylcholine receptor M1 inhibitor depression
+Muscarinic acetylcholine receptor M1 inhibitor insomnia
+Muscarinic acetylcholine receptor M1 inhibitor anxiety
+Muscarinic acetylcholine receptor M1 inhibitor weight gain
+Muscarinic acetylcholine receptor M1 inhibitor apathy
+Muscarinic acetylcholine receptor M1 inhibitor motivation
+Muscarinic acetylcholine receptor M1 inhibitor stress
+Muscarinic acetylcholine receptor M1 inhibitor fatigue
+Muscarinic acetylcholine receptor M1 inhibitor suicidal thoughts
+Muscarinic acetylcholine receptor M1 inhibitor agitation
+NMDA receptor inhibitor cognitive symptoms
+NMDA receptor inhibitor negative symptoms
+NMDA receptor inhibitor avolition
+NMDA receptor inhibitor extrapyramidal
+NMDA receptor inhibitor positive symptoms psychosis
+NMDA receptor inhibitor depression
+NMDA receptor inhibitor insomnia
+NMDA receptor inhibitor anxiety
+NMDA receptor inhibitor weight gain
+NMDA receptor inhibitor apathy

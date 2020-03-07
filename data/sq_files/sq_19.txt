@@ -1,0 +1,51 @@
+5-hydroxytryptamine receptor 1 inhibitor positive symptoms psychosis
+5-hydroxytryptamine receptor 1 inhibitor depression
+5-hydroxytryptamine receptor 1 inhibitor insomnia
+5-hydroxytryptamine receptor 1 inhibitor anxiety
+5-hydroxytryptamine receptor 1 inhibitor weight gain
+5-hydroxytryptamine receptor 1 inhibitor apathy
+5-hydroxytryptamine receptor 1 inhibitor motivation
+5-hydroxytryptamine receptor 1 inhibitor stress
+5-hydroxytryptamine receptor 1 inhibitor fatigue
+5-hydroxytryptamine receptor 1 inhibitor suicidal thoughts
+5-hydroxytryptamine receptor 1 inhibitor agitation
+5-hydroxytryptamine receptor 2B antagonist cognitive symptoms
+5-hydroxytryptamine receptor 2B antagonist negative symptoms
+5-hydroxytryptamine receptor 2B antagonist avolition
+5-hydroxytryptamine receptor 2B antagonist extrapyramidal
+5-hydroxytryptamine receptor 2B antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2B antagonist depression
+5-hydroxytryptamine receptor 2B antagonist insomnia
+5-hydroxytryptamine receptor 2B antagonist anxiety
+5-hydroxytryptamine receptor 2B antagonist weight gain
+5-hydroxytryptamine receptor 2B antagonist apathy
+5-hydroxytryptamine receptor 2B antagonist motivation
+5-hydroxytryptamine receptor 2B antagonist stress
+5-hydroxytryptamine receptor 2B antagonist fatigue
+5-hydroxytryptamine receptor 2B antagonist suicidal thoughts
+5-hydroxytryptamine receptor 2B antagonist agitation
+5-hydroxytryptamine receptor 6 antagonist cognitive symptoms
+5-hydroxytryptamine receptor 6 antagonist negative symptoms
+5-hydroxytryptamine receptor 6 antagonist avolition
+5-hydroxytryptamine receptor 6 antagonist extrapyramidal
+5-hydroxytryptamine receptor 6 antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 6 antagonist depression
+5-hydroxytryptamine receptor 6 antagonist insomnia
+5-hydroxytryptamine receptor 6 antagonist anxiety
+5-hydroxytryptamine receptor 6 antagonist weight gain
+5-hydroxytryptamine receptor 6 antagonist apathy
+5-hydroxytryptamine receptor 6 antagonist motivation
+5-hydroxytryptamine receptor 6 antagonist stress
+5-hydroxytryptamine receptor 6 antagonist fatigue
+5-hydroxytryptamine receptor 6 antagonist suicidal thoughts
+5-hydroxytryptamine receptor 6 antagonist agitation
+Dopamine D2 receptor agonist cognitive symptoms
+Dopamine D2 receptor agonist negative symptoms
+Dopamine D2 receptor agonist avolition
+Dopamine D2 receptor agonist extrapyramidal
+Dopamine D2 receptor agonist positive symptoms psychosis
+Dopamine D2 receptor agonist depression
+Dopamine D2 receptor agonist insomnia
+Dopamine D2 receptor agonist anxiety
+Dopamine D2 receptor agonist weight gain
+Dopamine D2 receptor agonist apathy

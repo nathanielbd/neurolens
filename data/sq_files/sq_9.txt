@@ -1,0 +1,49 @@
+Muscarinic acetylcholine receptor M5 antagonist depression
+Muscarinic acetylcholine receptor M5 antagonist insomnia
+Muscarinic acetylcholine receptor M5 antagonist anxiety
+Muscarinic acetylcholine receptor M5 antagonist weight gain
+Muscarinic acetylcholine receptor M5 antagonist apathy
+Muscarinic acetylcholine receptor M5 antagonist motivation
+Muscarinic acetylcholine receptor M5 antagonist stress
+Muscarinic acetylcholine receptor M5 antagonist fatigue
+Muscarinic acetylcholine receptor M5 antagonist suicidal thoughts
+Muscarinic acetylcholine receptor M5 antagonist agitation
+Dopamine D2 receptor antagonist cognitive symptoms
+Dopamine D2 receptor antagonist negative symptoms
+Dopamine D2 receptor antagonist avolition
+Dopamine D2 receptor antagonist extrapyramidal
+Dopamine D2 receptor antagonist positive symptoms psychosis
+Dopamine D2 receptor antagonist depression
+Dopamine D2 receptor antagonist insomnia
+Dopamine D2 receptor antagonist anxiety
+Dopamine D2 receptor antagonist weight gain
+Dopamine D2 receptor antagonist apathy
+Dopamine D2 receptor antagonist motivation
+Dopamine D2 receptor antagonist stress
+Dopamine D2 receptor antagonist fatigue
+Dopamine D2 receptor antagonist suicidal thoughts
+Dopamine D2 receptor antagonist agitation
+Sodium-dependent noradrenaline transporter antagonist cognitive symptoms
+Sodium-dependent noradrenaline transporter antagonist negative symptoms
+Sodium-dependent noradrenaline transporter antagonist avolition
+Sodium-dependent noradrenaline transporter antagonist extrapyramidal
+Sodium-dependent noradrenaline transporter antagonist positive symptoms psychosis
+Sodium-dependent noradrenaline transporter antagonist depression
+Sodium-dependent noradrenaline transporter antagonist insomnia
+Sodium-dependent noradrenaline transporter antagonist anxiety
+Sodium-dependent noradrenaline transporter antagonist weight gain
+Sodium-dependent noradrenaline transporter antagonist apathy
+Sodium-dependent noradrenaline transporter antagonist motivation
+Sodium-dependent noradrenaline transporter antagonist stress
+Sodium-dependent noradrenaline transporter antagonist fatigue
+Sodium-dependent noradrenaline transporter antagonist suicidal thoughts
+Sodium-dependent noradrenaline transporter antagonist agitation
+Muscarinic acetylcholine receptor M2 ligand cognitive symptoms
+Muscarinic acetylcholine receptor M2 ligand negative symptoms
+Muscarinic acetylcholine receptor M2 ligand avolition
+Muscarinic acetylcholine receptor M2 ligand extrapyramidal
+Muscarinic acetylcholine receptor M2 ligand positive symptoms psychosis
+Muscarinic acetylcholine receptor M2 ligand depression
+Muscarinic acetylcholine receptor M2 ligand insomnia
+Muscarinic acetylcholine receptor M2 ligand anxiety
+Muscarinic acetylcholine receptor M2 ligand weight gain

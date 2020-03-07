@@ -1,0 +1,51 @@
+Glutamate (NMDA) receptor ligand apathy
+Glutamate (NMDA) receptor ligand motivation
+Glutamate (NMDA) receptor ligand stress
+Glutamate (NMDA) receptor ligand fatigue
+Glutamate (NMDA) receptor ligand suicidal thoughts
+Glutamate (NMDA) receptor ligand agitation
+Alpha-1B adrenergic receptor antagonist cognitive symptoms
+Alpha-1B adrenergic receptor antagonist negative symptoms
+Alpha-1B adrenergic receptor antagonist avolition
+Alpha-1B adrenergic receptor antagonist extrapyramidal
+Alpha-1B adrenergic receptor antagonist positive symptoms psychosis
+Alpha-1B adrenergic receptor antagonist depression
+Alpha-1B adrenergic receptor antagonist insomnia
+Alpha-1B adrenergic receptor antagonist anxiety
+Alpha-1B adrenergic receptor antagonist weight gain
+Alpha-1B adrenergic receptor antagonist apathy
+Alpha-1B adrenergic receptor antagonist motivation
+Alpha-1B adrenergic receptor antagonist stress
+Alpha-1B adrenergic receptor antagonist fatigue
+Alpha-1B adrenergic receptor antagonist suicidal thoughts
+Alpha-1B adrenergic receptor antagonist agitation
+Alpha-1A adrenergic receptor antagonist cognitive symptoms
+Alpha-1A adrenergic receptor antagonist negative symptoms
+Alpha-1A adrenergic receptor antagonist avolition
+Alpha-1A adrenergic receptor antagonist extrapyramidal
+Alpha-1A adrenergic receptor antagonist positive symptoms psychosis
+Alpha-1A adrenergic receptor antagonist depression
+Alpha-1A adrenergic receptor antagonist insomnia
+Alpha-1A adrenergic receptor antagonist anxiety
+Alpha-1A adrenergic receptor antagonist weight gain
+Alpha-1A adrenergic receptor antagonist apathy
+Alpha-1A adrenergic receptor antagonist motivation
+Alpha-1A adrenergic receptor antagonist stress
+Alpha-1A adrenergic receptor antagonist fatigue
+Alpha-1A adrenergic receptor antagonist suicidal thoughts
+Alpha-1A adrenergic receptor antagonist agitation
+5-hydroxytryptamine receptor 5A ligand cognitive symptoms
+5-hydroxytryptamine receptor 5A ligand negative symptoms
+5-hydroxytryptamine receptor 5A ligand avolition
+5-hydroxytryptamine receptor 5A ligand extrapyramidal
+5-hydroxytryptamine receptor 5A ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 5A ligand depression
+5-hydroxytryptamine receptor 5A ligand insomnia
+5-hydroxytryptamine receptor 5A ligand anxiety
+5-hydroxytryptamine receptor 5A ligand weight gain
+5-hydroxytryptamine receptor 5A ligand apathy
+5-hydroxytryptamine receptor 5A ligand motivation
+5-hydroxytryptamine receptor 5A ligand stress
+5-hydroxytryptamine receptor 5A ligand fatigue
+5-hydroxytryptamine receptor 5A ligand suicidal thoughts
+5-hydroxytryptamine receptor 5A ligand agitation

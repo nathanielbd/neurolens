@@ -1,0 +1,51 @@
+Dopamine D4 receptor antagonist positive symptoms psychosis
+Dopamine D4 receptor antagonist depression
+Dopamine D4 receptor antagonist insomnia
+Dopamine D4 receptor antagonist anxiety
+Dopamine D4 receptor antagonist weight gain
+Dopamine D4 receptor antagonist apathy
+Dopamine D4 receptor antagonist motivation
+Dopamine D4 receptor antagonist stress
+Dopamine D4 receptor antagonist fatigue
+Dopamine D4 receptor antagonist suicidal thoughts
+Dopamine D4 receptor antagonist agitation
+Mu-type opioid receptor ligand cognitive symptoms
+Mu-type opioid receptor ligand negative symptoms
+Mu-type opioid receptor ligand avolition
+Mu-type opioid receptor ligand extrapyramidal
+Mu-type opioid receptor ligand positive symptoms psychosis
+Mu-type opioid receptor ligand depression
+Mu-type opioid receptor ligand insomnia
+Mu-type opioid receptor ligand anxiety
+Mu-type opioid receptor ligand weight gain
+Mu-type opioid receptor ligand apathy
+Mu-type opioid receptor ligand motivation
+Mu-type opioid receptor ligand stress
+Mu-type opioid receptor ligand fatigue
+Mu-type opioid receptor ligand suicidal thoughts
+Mu-type opioid receptor ligand agitation
+Muscarinic acetylcholine receptor M1 antagonist cognitive symptoms
+Muscarinic acetylcholine receptor M1 antagonist negative symptoms
+Muscarinic acetylcholine receptor M1 antagonist avolition
+Muscarinic acetylcholine receptor M1 antagonist extrapyramidal
+Muscarinic acetylcholine receptor M1 antagonist positive symptoms psychosis
+Muscarinic acetylcholine receptor M1 antagonist depression
+Muscarinic acetylcholine receptor M1 antagonist insomnia
+Muscarinic acetylcholine receptor M1 antagonist anxiety
+Muscarinic acetylcholine receptor M1 antagonist weight gain
+Muscarinic acetylcholine receptor M1 antagonist apathy
+Muscarinic acetylcholine receptor M1 antagonist motivation
+Muscarinic acetylcholine receptor M1 antagonist stress
+Muscarinic acetylcholine receptor M1 antagonist fatigue
+Muscarinic acetylcholine receptor M1 antagonist suicidal thoughts
+Muscarinic acetylcholine receptor M1 antagonist agitation
+5-hydroxytryptamine receptor 3A antagonist cognitive symptoms
+5-hydroxytryptamine receptor 3A antagonist negative symptoms
+5-hydroxytryptamine receptor 3A antagonist avolition
+5-hydroxytryptamine receptor 3A antagonist extrapyramidal
+5-hydroxytryptamine receptor 3A antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 3A antagonist depression
+5-hydroxytryptamine receptor 3A antagonist insomnia
+5-hydroxytryptamine receptor 3A antagonist anxiety
+5-hydroxytryptamine receptor 3A antagonist weight gain
+5-hydroxytryptamine receptor 3A antagonist apathy

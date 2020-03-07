@@ -1,0 +1,49 @@
+5-hydroxytryptamine receptor 2A antagonist motivation
+5-hydroxytryptamine receptor 2A antagonist stress
+5-hydroxytryptamine receptor 2A antagonist fatigue
+5-hydroxytryptamine receptor 2A antagonist suicidal thoughts
+5-hydroxytryptamine receptor 2A antagonist agitation
+D(1) dopamine receptor other/unknown cognitive symptoms
+D(1) dopamine receptor other/unknown negative symptoms
+D(1) dopamine receptor other/unknown avolition
+D(1) dopamine receptor other/unknown extrapyramidal
+D(1) dopamine receptor other/unknown positive symptoms psychosis
+D(1) dopamine receptor other/unknown depression
+D(1) dopamine receptor other/unknown insomnia
+D(1) dopamine receptor other/unknown anxiety
+D(1) dopamine receptor other/unknown weight gain
+D(1) dopamine receptor other/unknown apathy
+D(1) dopamine receptor other/unknown motivation
+D(1) dopamine receptor other/unknown stress
+D(1) dopamine receptor other/unknown fatigue
+D(1) dopamine receptor other/unknown suicidal thoughts
+D(1) dopamine receptor other/unknown agitation
+Histamine H1 receptor binder cognitive symptoms
+Histamine H1 receptor binder negative symptoms
+Histamine H1 receptor binder avolition
+Histamine H1 receptor binder extrapyramidal
+Histamine H1 receptor binder positive symptoms psychosis
+Histamine H1 receptor binder depression
+Histamine H1 receptor binder insomnia
+Histamine H1 receptor binder anxiety
+Histamine H1 receptor binder weight gain
+Histamine H1 receptor binder apathy
+Histamine H1 receptor binder motivation
+Histamine H1 receptor binder stress
+Histamine H1 receptor binder fatigue
+Histamine H1 receptor binder suicidal thoughts
+Histamine H1 receptor binder agitation
+Neuronal acetylcholine receptor subunit alpha-3 antagonist cognitive symptoms
+Neuronal acetylcholine receptor subunit alpha-3 antagonist negative symptoms
+Neuronal acetylcholine receptor subunit alpha-3 antagonist avolition
+Neuronal acetylcholine receptor subunit alpha-3 antagonist extrapyramidal
+Neuronal acetylcholine receptor subunit alpha-3 antagonist positive symptoms psychosis
+Neuronal acetylcholine receptor subunit alpha-3 antagonist depression
+Neuronal acetylcholine receptor subunit alpha-3 antagonist insomnia
+Neuronal acetylcholine receptor subunit alpha-3 antagonist anxiety
+Neuronal acetylcholine receptor subunit alpha-3 antagonist weight gain
+Neuronal acetylcholine receptor subunit alpha-3 antagonist apathy
+Neuronal acetylcholine receptor subunit alpha-3 antagonist motivation
+Neuronal acetylcholine receptor subunit alpha-3 antagonist stress
+Neuronal acetylcholine receptor subunit alpha-3 antagonist fatigue
+Neuronal acetylcholine receptor subunit alpha-3 antagonist suicidal thoughts

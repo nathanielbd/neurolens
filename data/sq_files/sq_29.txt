@@ -1,0 +1,63 @@
+5-hydroxytryptamine receptor 2C antagonist fatigue
+5-hydroxytryptamine receptor 2C antagonist suicidal thoughts
+5-hydroxytryptamine receptor 2C antagonist agitation
+Dopamine D2 receptor inhibitor cognitive symptoms
+Dopamine D2 receptor inhibitor negative symptoms
+Dopamine D2 receptor inhibitor avolition
+Dopamine D2 receptor inhibitor extrapyramidal
+Dopamine D2 receptor inhibitor positive symptoms psychosis
+Dopamine D2 receptor inhibitor depression
+Dopamine D2 receptor inhibitor insomnia
+Dopamine D2 receptor inhibitor anxiety
+Dopamine D2 receptor inhibitor weight gain
+Dopamine D2 receptor inhibitor apathy
+Dopamine D2 receptor inhibitor motivation
+Dopamine D2 receptor inhibitor stress
+Dopamine D2 receptor inhibitor fatigue
+Dopamine D2 receptor inhibitor suicidal thoughts
+Dopamine D2 receptor inhibitor agitation
+5-hydroxytryptamine receptor 3A negative modulator cognitive symptoms
+5-hydroxytryptamine receptor 3A negative modulator negative symptoms
+5-hydroxytryptamine receptor 3A negative modulator avolition
+5-hydroxytryptamine receptor 3A negative modulator extrapyramidal
+5-hydroxytryptamine receptor 3A negative modulator positive symptoms psychosis
+5-hydroxytryptamine receptor 3A negative modulator depression
+5-hydroxytryptamine receptor 3A negative modulator insomnia
+5-hydroxytryptamine receptor 3A negative modulator anxiety
+5-hydroxytryptamine receptor 3A negative modulator weight gain
+5-hydroxytryptamine receptor 3A negative modulator apathy
+5-hydroxytryptamine receptor 3A negative modulator motivation
+5-hydroxytryptamine receptor 3A negative modulator stress
+5-hydroxytryptamine receptor 3A negative modulator fatigue
+5-hydroxytryptamine receptor 3A negative modulator suicidal thoughts
+5-hydroxytryptamine receptor 3A negative modulator agitation
+5-hydroxytryptamine receptor 2B agonist cognitive symptoms
+5-hydroxytryptamine receptor 2B agonist negative symptoms
+5-hydroxytryptamine receptor 2B agonist avolition
+5-hydroxytryptamine receptor 2B agonist extrapyramidal
+5-hydroxytryptamine receptor 2B agonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2B agonist depression
+5-hydroxytryptamine receptor 2B agonist insomnia
+5-hydroxytryptamine receptor 2B agonist anxiety
+5-hydroxytryptamine receptor 2B agonist weight gain
+5-hydroxytryptamine receptor 2B agonist apathy
+5-hydroxytryptamine receptor 2B agonist motivation
+5-hydroxytryptamine receptor 2B agonist stress
+5-hydroxytryptamine receptor 2B agonist fatigue
+5-hydroxytryptamine receptor 2B agonist suicidal thoughts
+5-hydroxytryptamine receptor 2B agonist agitation
+Alpha-1 adrenergic receptors inhibitor cognitive symptoms
+Alpha-1 adrenergic receptors inhibitor negative symptoms
+Alpha-1 adrenergic receptors inhibitor avolition
+Alpha-1 adrenergic receptors inhibitor extrapyramidal
+Alpha-1 adrenergic receptors inhibitor positive symptoms psychosis
+Alpha-1 adrenergic receptors inhibitor depression
+Alpha-1 adrenergic receptors inhibitor insomnia
+Alpha-1 adrenergic receptors inhibitor anxiety
+Alpha-1 adrenergic receptors inhibitor weight gain
+Alpha-1 adrenergic receptors inhibitor apathy
+Alpha-1 adrenergic receptors inhibitor motivation
+Alpha-1 adrenergic receptors inhibitor stress
+Alpha-1 adrenergic receptors inhibitor fatigue
+Alpha-1 adrenergic receptors inhibitor suicidal thoughts
+Alpha-1 adrenergic receptors inhibitor agitation

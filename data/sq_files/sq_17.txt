@@ -1,0 +1,51 @@
+5-hydroxytryptamine receptor 3A ligand agitation
+5-hydroxytryptamine receptor 1D ligand cognitive symptoms
+5-hydroxytryptamine receptor 1D ligand negative symptoms
+5-hydroxytryptamine receptor 1D ligand avolition
+5-hydroxytryptamine receptor 1D ligand extrapyramidal
+5-hydroxytryptamine receptor 1D ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 1D ligand depression
+5-hydroxytryptamine receptor 1D ligand insomnia
+5-hydroxytryptamine receptor 1D ligand anxiety
+5-hydroxytryptamine receptor 1D ligand weight gain
+5-hydroxytryptamine receptor 1D ligand apathy
+5-hydroxytryptamine receptor 1D ligand motivation
+5-hydroxytryptamine receptor 1D ligand stress
+5-hydroxytryptamine receptor 1D ligand fatigue
+5-hydroxytryptamine receptor 1D ligand suicidal thoughts
+5-hydroxytryptamine receptor 1D ligand agitation
+5-hydroxytryptamine receptor 1E antagonist cognitive symptoms
+5-hydroxytryptamine receptor 1E antagonist negative symptoms
+5-hydroxytryptamine receptor 1E antagonist avolition
+5-hydroxytryptamine receptor 1E antagonist extrapyramidal
+5-hydroxytryptamine receptor 1E antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 1E antagonist depression
+5-hydroxytryptamine receptor 1E antagonist insomnia
+5-hydroxytryptamine receptor 1E antagonist anxiety
+5-hydroxytryptamine receptor 1E antagonist weight gain
+5-hydroxytryptamine receptor 1E antagonist apathy
+5-hydroxytryptamine receptor 1E antagonist motivation
+5-hydroxytryptamine receptor 1E antagonist stress
+5-hydroxytryptamine receptor 1E antagonist fatigue
+5-hydroxytryptamine receptor 1E antagonist suicidal thoughts
+5-hydroxytryptamine receptor 1E antagonist agitation
+Dopamine D3 receptor antagonist cognitive symptoms
+Dopamine D3 receptor antagonist negative symptoms
+Dopamine D3 receptor antagonist avolition
+Dopamine D3 receptor antagonist extrapyramidal
+Dopamine D3 receptor antagonist positive symptoms psychosis
+Dopamine D3 receptor antagonist depression
+Dopamine D3 receptor antagonist insomnia
+Dopamine D3 receptor antagonist anxiety
+Dopamine D3 receptor antagonist weight gain
+Dopamine D3 receptor antagonist apathy
+Dopamine D3 receptor antagonist motivation
+Dopamine D3 receptor antagonist stress
+Dopamine D3 receptor antagonist fatigue
+Dopamine D3 receptor antagonist suicidal thoughts
+Dopamine D3 receptor antagonist agitation
+Muscarinic acetylcholine receptor M5 ligand cognitive symptoms
+Muscarinic acetylcholine receptor M5 ligand negative symptoms
+Muscarinic acetylcholine receptor M5 ligand avolition
+Muscarinic acetylcholine receptor M5 ligand extrapyramidal
+Muscarinic acetylcholine receptor M5 ligand positive symptoms psychosis

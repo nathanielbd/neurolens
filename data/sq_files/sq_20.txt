@@ -1,0 +1,51 @@
+5-hydroxytryptamine receptor 1B ligand agitation
+Beta-2 adrenergic receptor ligand cognitive symptoms
+Beta-2 adrenergic receptor ligand negative symptoms
+Beta-2 adrenergic receptor ligand avolition
+Beta-2 adrenergic receptor ligand extrapyramidal
+Beta-2 adrenergic receptor ligand positive symptoms psychosis
+Beta-2 adrenergic receptor ligand depression
+Beta-2 adrenergic receptor ligand insomnia
+Beta-2 adrenergic receptor ligand anxiety
+Beta-2 adrenergic receptor ligand weight gain
+Beta-2 adrenergic receptor ligand apathy
+Beta-2 adrenergic receptor ligand motivation
+Beta-2 adrenergic receptor ligand stress
+Beta-2 adrenergic receptor ligand fatigue
+Beta-2 adrenergic receptor ligand suicidal thoughts
+Beta-2 adrenergic receptor ligand agitation
+5-hydroxytryptamine receptor 7 ligand cognitive symptoms
+5-hydroxytryptamine receptor 7 ligand negative symptoms
+5-hydroxytryptamine receptor 7 ligand avolition
+5-hydroxytryptamine receptor 7 ligand extrapyramidal
+5-hydroxytryptamine receptor 7 ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 7 ligand depression
+5-hydroxytryptamine receptor 7 ligand insomnia
+5-hydroxytryptamine receptor 7 ligand anxiety
+5-hydroxytryptamine receptor 7 ligand weight gain
+5-hydroxytryptamine receptor 7 ligand apathy
+5-hydroxytryptamine receptor 7 ligand motivation
+5-hydroxytryptamine receptor 7 ligand stress
+5-hydroxytryptamine receptor 7 ligand fatigue
+5-hydroxytryptamine receptor 7 ligand suicidal thoughts
+5-hydroxytryptamine receptor 7 ligand agitation
+5-hydroxytryptamine receptor 1E ligand cognitive symptoms
+5-hydroxytryptamine receptor 1E ligand negative symptoms
+5-hydroxytryptamine receptor 1E ligand avolition
+5-hydroxytryptamine receptor 1E ligand extrapyramidal
+5-hydroxytryptamine receptor 1E ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 1E ligand depression
+5-hydroxytryptamine receptor 1E ligand insomnia
+5-hydroxytryptamine receptor 1E ligand anxiety
+5-hydroxytryptamine receptor 1E ligand weight gain
+5-hydroxytryptamine receptor 1E ligand apathy
+5-hydroxytryptamine receptor 1E ligand motivation
+5-hydroxytryptamine receptor 1E ligand stress
+5-hydroxytryptamine receptor 1E ligand fatigue
+5-hydroxytryptamine receptor 1E ligand suicidal thoughts
+5-hydroxytryptamine receptor 1E ligand agitation
+Muscarinic acetylcholine receptor M3 ligand cognitive symptoms
+Muscarinic acetylcholine receptor M3 ligand negative symptoms
+Muscarinic acetylcholine receptor M3 ligand avolition
+Muscarinic acetylcholine receptor M3 ligand extrapyramidal
+Muscarinic acetylcholine receptor M3 ligand positive symptoms psychosis

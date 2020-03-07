@@ -1,0 +1,51 @@
+Muscarinic acetylcholine receptor M2 ligand apathy
+Muscarinic acetylcholine receptor M2 ligand motivation
+Muscarinic acetylcholine receptor M2 ligand stress
+Muscarinic acetylcholine receptor M2 ligand fatigue
+Muscarinic acetylcholine receptor M2 ligand suicidal thoughts
+Muscarinic acetylcholine receptor M2 ligand agitation
+Neuron-specific vesicular protein calcyon unknown cognitive symptoms
+Neuron-specific vesicular protein calcyon unknown negative symptoms
+Neuron-specific vesicular protein calcyon unknown avolition
+Neuron-specific vesicular protein calcyon unknown extrapyramidal
+Neuron-specific vesicular protein calcyon unknown positive symptoms psychosis
+Neuron-specific vesicular protein calcyon unknown depression
+Neuron-specific vesicular protein calcyon unknown insomnia
+Neuron-specific vesicular protein calcyon unknown anxiety
+Neuron-specific vesicular protein calcyon unknown weight gain
+Neuron-specific vesicular protein calcyon unknown apathy
+Neuron-specific vesicular protein calcyon unknown motivation
+Neuron-specific vesicular protein calcyon unknown stress
+Neuron-specific vesicular protein calcyon unknown fatigue
+Neuron-specific vesicular protein calcyon unknown suicidal thoughts
+Neuron-specific vesicular protein calcyon unknown agitation
+Alpha-2C adrenergic receptor agonist cognitive symptoms
+Alpha-2C adrenergic receptor agonist negative symptoms
+Alpha-2C adrenergic receptor agonist avolition
+Alpha-2C adrenergic receptor agonist extrapyramidal
+Alpha-2C adrenergic receptor agonist positive symptoms psychosis
+Alpha-2C adrenergic receptor agonist depression
+Alpha-2C adrenergic receptor agonist insomnia
+Alpha-2C adrenergic receptor agonist anxiety
+Alpha-2C adrenergic receptor agonist weight gain
+Alpha-2C adrenergic receptor agonist apathy
+Alpha-2C adrenergic receptor agonist motivation
+Alpha-2C adrenergic receptor agonist stress
+Alpha-2C adrenergic receptor agonist fatigue
+Alpha-2C adrenergic receptor agonist suicidal thoughts
+Alpha-2C adrenergic receptor agonist agitation
+Alpha-2A adrenergic receptor antagonist cognitive symptoms
+Alpha-2A adrenergic receptor antagonist negative symptoms
+Alpha-2A adrenergic receptor antagonist avolition
+Alpha-2A adrenergic receptor antagonist extrapyramidal
+Alpha-2A adrenergic receptor antagonist positive symptoms psychosis
+Alpha-2A adrenergic receptor antagonist depression
+Alpha-2A adrenergic receptor antagonist insomnia
+Alpha-2A adrenergic receptor antagonist anxiety
+Alpha-2A adrenergic receptor antagonist weight gain
+Alpha-2A adrenergic receptor antagonist apathy
+Alpha-2A adrenergic receptor antagonist motivation
+Alpha-2A adrenergic receptor antagonist stress
+Alpha-2A adrenergic receptor antagonist fatigue
+Alpha-2A adrenergic receptor antagonist suicidal thoughts
+Alpha-2A adrenergic receptor antagonist agitation

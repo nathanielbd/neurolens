@@ -1,0 +1,62 @@
+NMDA receptor inhibitor motivation
+NMDA receptor inhibitor stress
+NMDA receptor inhibitor fatigue
+NMDA receptor inhibitor suicidal thoughts
+NMDA receptor inhibitor agitation
+Neuronal acetylcholine receptor subunit alpha-2 antagonist cognitive symptoms
+Neuronal acetylcholine receptor subunit alpha-2 antagonist negative symptoms
+Neuronal acetylcholine receptor subunit alpha-2 antagonist avolition
+Neuronal acetylcholine receptor subunit alpha-2 antagonist extrapyramidal
+Neuronal acetylcholine receptor subunit alpha-2 antagonist positive symptoms psychosis
+Neuronal acetylcholine receptor subunit alpha-2 antagonist depression
+Neuronal acetylcholine receptor subunit alpha-2 antagonist insomnia
+Neuronal acetylcholine receptor subunit alpha-2 antagonist anxiety
+Neuronal acetylcholine receptor subunit alpha-2 antagonist weight gain
+Neuronal acetylcholine receptor subunit alpha-2 antagonist apathy
+Neuronal acetylcholine receptor subunit alpha-2 antagonist motivation
+Neuronal acetylcholine receptor subunit alpha-2 antagonist stress
+Neuronal acetylcholine receptor subunit alpha-2 antagonist fatigue
+Neuronal acetylcholine receptor subunit alpha-2 antagonist suicidal thoughts
+Neuronal acetylcholine receptor subunit alpha-2 antagonist agitation
+Potassium voltage-gated channel subfamily H member 2 inhibitor cognitive symptoms
+Potassium voltage-gated channel subfamily H member 2 inhibitor negative symptoms
+Potassium voltage-gated channel subfamily H member 2 inhibitor avolition
+Potassium voltage-gated channel subfamily H member 2 inhibitor extrapyramidal
+Potassium voltage-gated channel subfamily H member 2 inhibitor positive symptoms psychosis
+Potassium voltage-gated channel subfamily H member 2 inhibitor depression
+Potassium voltage-gated channel subfamily H member 2 inhibitor insomnia
+Potassium voltage-gated channel subfamily H member 2 inhibitor anxiety
+Potassium voltage-gated channel subfamily H member 2 inhibitor weight gain
+Potassium voltage-gated channel subfamily H member 2 inhibitor apathy
+Potassium voltage-gated channel subfamily H member 2 inhibitor motivation
+Potassium voltage-gated channel subfamily H member 2 inhibitor stress
+Potassium voltage-gated channel subfamily H member 2 inhibitor fatigue
+Potassium voltage-gated channel subfamily H member 2 inhibitor suicidal thoughts
+Potassium voltage-gated channel subfamily H member 2 inhibitor agitation
+Beta adrenergic receptor inhibitor cognitive symptoms
+Beta adrenergic receptor inhibitor negative symptoms
+Beta adrenergic receptor inhibitor avolition
+Beta adrenergic receptor inhibitor extrapyramidal
+Beta adrenergic receptor inhibitor positive symptoms psychosis
+Beta adrenergic receptor inhibitor depression
+Beta adrenergic receptor inhibitor insomnia
+Beta adrenergic receptor inhibitor anxiety
+Beta adrenergic receptor inhibitor weight gain
+Beta adrenergic receptor inhibitor apathy
+Beta adrenergic receptor inhibitor motivation
+Beta adrenergic receptor inhibitor stress
+Beta adrenergic receptor inhibitor fatigue
+Beta adrenergic receptor inhibitor suicidal thoughts
+Beta adrenergic receptor inhibitor agitation
+5-hydroxytryptamine receptor 2C antagonist cognitive symptoms
+5-hydroxytryptamine receptor 2C antagonist negative symptoms
+5-hydroxytryptamine receptor 2C antagonist avolition
+5-hydroxytryptamine receptor 2C antagonist extrapyramidal
+5-hydroxytryptamine receptor 2C antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2C antagonist depression
+5-hydroxytryptamine receptor 2C antagonist insomnia
+5-hydroxytryptamine receptor 2C antagonist anxiety
+5-hydroxytryptamine receptor 2C antagonist weight gain
+5-hydroxytryptamine receptor 2C antagonist apathy
+5-hydroxytryptamine receptor 2C antagonist motivation
+5-hydroxytryptamine receptor 2C antagonist stress

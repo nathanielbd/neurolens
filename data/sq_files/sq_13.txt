@@ -1,0 +1,49 @@
+Histamine H1 receptor inhibitor cognitive symptoms
+Histamine H1 receptor inhibitor negative symptoms
+Histamine H1 receptor inhibitor avolition
+Histamine H1 receptor inhibitor extrapyramidal
+Histamine H1 receptor inhibitor positive symptoms psychosis
+Histamine H1 receptor inhibitor depression
+Histamine H1 receptor inhibitor insomnia
+Histamine H1 receptor inhibitor anxiety
+Histamine H1 receptor inhibitor weight gain
+Histamine H1 receptor inhibitor apathy
+Histamine H1 receptor inhibitor motivation
+Histamine H1 receptor inhibitor stress
+Histamine H1 receptor inhibitor fatigue
+Histamine H1 receptor inhibitor suicidal thoughts
+Histamine H1 receptor inhibitor agitation
+5-hydroxytryptamine receptor 2C inhibitor cognitive symptoms
+5-hydroxytryptamine receptor 2C inhibitor negative symptoms
+5-hydroxytryptamine receptor 2C inhibitor avolition
+5-hydroxytryptamine receptor 2C inhibitor extrapyramidal
+5-hydroxytryptamine receptor 2C inhibitor positive symptoms psychosis
+5-hydroxytryptamine receptor 2C inhibitor depression
+5-hydroxytryptamine receptor 2C inhibitor insomnia
+5-hydroxytryptamine receptor 2C inhibitor anxiety
+5-hydroxytryptamine receptor 2C inhibitor weight gain
+5-hydroxytryptamine receptor 2C inhibitor apathy
+5-hydroxytryptamine receptor 2C inhibitor motivation
+5-hydroxytryptamine receptor 2C inhibitor stress
+5-hydroxytryptamine receptor 2C inhibitor fatigue
+5-hydroxytryptamine receptor 2C inhibitor suicidal thoughts
+5-hydroxytryptamine receptor 2C inhibitor agitation
+Muscarinic acetylcholine receptor inhibitor cognitive symptoms
+Muscarinic acetylcholine receptor inhibitor negative symptoms
+Muscarinic acetylcholine receptor inhibitor avolition
+Muscarinic acetylcholine receptor inhibitor extrapyramidal
+Muscarinic acetylcholine receptor inhibitor positive symptoms psychosis
+Muscarinic acetylcholine receptor inhibitor depression
+Muscarinic acetylcholine receptor inhibitor insomnia
+Muscarinic acetylcholine receptor inhibitor anxiety
+Muscarinic acetylcholine receptor inhibitor weight gain
+Muscarinic acetylcholine receptor inhibitor apathy
+Muscarinic acetylcholine receptor inhibitor motivation
+Muscarinic acetylcholine receptor inhibitor stress
+Muscarinic acetylcholine receptor inhibitor fatigue
+Muscarinic acetylcholine receptor inhibitor suicidal thoughts
+Muscarinic acetylcholine receptor inhibitor agitation
+5-hydroxytryptamine receptor 2A inhibitor cognitive symptoms
+5-hydroxytryptamine receptor 2A inhibitor negative symptoms
+5-hydroxytryptamine receptor 2A inhibitor avolition
+5-hydroxytryptamine receptor 2A inhibitor extrapyramidal

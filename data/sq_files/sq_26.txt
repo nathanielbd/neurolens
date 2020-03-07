@@ -1,0 +1,51 @@
+Neuronal acetylcholine receptor subunit alpha-3 antagonist agitation
+Alpha-1 adrenergic receptors binder cognitive symptoms
+Alpha-1 adrenergic receptors binder negative symptoms
+Alpha-1 adrenergic receptors binder avolition
+Alpha-1 adrenergic receptors binder extrapyramidal
+Alpha-1 adrenergic receptors binder positive symptoms psychosis
+Alpha-1 adrenergic receptors binder depression
+Alpha-1 adrenergic receptors binder insomnia
+Alpha-1 adrenergic receptors binder anxiety
+Alpha-1 adrenergic receptors binder weight gain
+Alpha-1 adrenergic receptors binder apathy
+Alpha-1 adrenergic receptors binder motivation
+Alpha-1 adrenergic receptors binder stress
+Alpha-1 adrenergic receptors binder fatigue
+Alpha-1 adrenergic receptors binder suicidal thoughts
+Alpha-1 adrenergic receptors binder agitation
+Alpha-2 adrenergic receptors binder cognitive symptoms
+Alpha-2 adrenergic receptors binder negative symptoms
+Alpha-2 adrenergic receptors binder avolition
+Alpha-2 adrenergic receptors binder extrapyramidal
+Alpha-2 adrenergic receptors binder positive symptoms psychosis
+Alpha-2 adrenergic receptors binder depression
+Alpha-2 adrenergic receptors binder insomnia
+Alpha-2 adrenergic receptors binder anxiety
+Alpha-2 adrenergic receptors binder weight gain
+Alpha-2 adrenergic receptors binder apathy
+Alpha-2 adrenergic receptors binder motivation
+Alpha-2 adrenergic receptors binder stress
+Alpha-2 adrenergic receptors binder fatigue
+Alpha-2 adrenergic receptors binder suicidal thoughts
+Alpha-2 adrenergic receptors binder agitation
+Dopamine D2 receptor other/unknown cognitive symptoms
+Dopamine D2 receptor other/unknown negative symptoms
+Dopamine D2 receptor other/unknown avolition
+Dopamine D2 receptor other/unknown extrapyramidal
+Dopamine D2 receptor other/unknown positive symptoms psychosis
+Dopamine D2 receptor other/unknown depression
+Dopamine D2 receptor other/unknown insomnia
+Dopamine D2 receptor other/unknown anxiety
+Dopamine D2 receptor other/unknown weight gain
+Dopamine D2 receptor other/unknown apathy
+Dopamine D2 receptor other/unknown motivation
+Dopamine D2 receptor other/unknown stress
+Dopamine D2 receptor other/unknown fatigue
+Dopamine D2 receptor other/unknown suicidal thoughts
+Dopamine D2 receptor other/unknown agitation
+Sodium-dependent noradrenaline transporter inhibitor cognitive symptoms
+Sodium-dependent noradrenaline transporter inhibitor negative symptoms
+Sodium-dependent noradrenaline transporter inhibitor avolition
+Sodium-dependent noradrenaline transporter inhibitor extrapyramidal
+Sodium-dependent noradrenaline transporter inhibitor positive symptoms psychosis

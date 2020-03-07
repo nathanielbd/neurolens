@@ -1,0 +1,49 @@
+Muscarinic acetylcholine receptor M3 ligand depression
+Muscarinic acetylcholine receptor M3 ligand insomnia
+Muscarinic acetylcholine receptor M3 ligand anxiety
+Muscarinic acetylcholine receptor M3 ligand weight gain
+Muscarinic acetylcholine receptor M3 ligand apathy
+Muscarinic acetylcholine receptor M3 ligand motivation
+Muscarinic acetylcholine receptor M3 ligand stress
+Muscarinic acetylcholine receptor M3 ligand fatigue
+Muscarinic acetylcholine receptor M3 ligand suicidal thoughts
+Muscarinic acetylcholine receptor M3 ligand agitation
+Beta-1 adrenergic receptor ligand cognitive symptoms
+Beta-1 adrenergic receptor ligand negative symptoms
+Beta-1 adrenergic receptor ligand avolition
+Beta-1 adrenergic receptor ligand extrapyramidal
+Beta-1 adrenergic receptor ligand positive symptoms psychosis
+Beta-1 adrenergic receptor ligand depression
+Beta-1 adrenergic receptor ligand insomnia
+Beta-1 adrenergic receptor ligand anxiety
+Beta-1 adrenergic receptor ligand weight gain
+Beta-1 adrenergic receptor ligand apathy
+Beta-1 adrenergic receptor ligand motivation
+Beta-1 adrenergic receptor ligand stress
+Beta-1 adrenergic receptor ligand fatigue
+Beta-1 adrenergic receptor ligand suicidal thoughts
+Beta-1 adrenergic receptor ligand agitation
+Alpha-1 adrenergic receptors antagonist cognitive symptoms
+Alpha-1 adrenergic receptors antagonist negative symptoms
+Alpha-1 adrenergic receptors antagonist avolition
+Alpha-1 adrenergic receptors antagonist extrapyramidal
+Alpha-1 adrenergic receptors antagonist positive symptoms psychosis
+Alpha-1 adrenergic receptors antagonist depression
+Alpha-1 adrenergic receptors antagonist insomnia
+Alpha-1 adrenergic receptors antagonist anxiety
+Alpha-1 adrenergic receptors antagonist weight gain
+Alpha-1 adrenergic receptors antagonist apathy
+Alpha-1 adrenergic receptors antagonist motivation
+Alpha-1 adrenergic receptors antagonist stress
+Alpha-1 adrenergic receptors antagonist fatigue
+Alpha-1 adrenergic receptors antagonist suicidal thoughts
+Alpha-1 adrenergic receptors antagonist agitation
+Glutamate (NMDA) receptor ligand cognitive symptoms
+Glutamate (NMDA) receptor ligand negative symptoms
+Glutamate (NMDA) receptor ligand avolition
+Glutamate (NMDA) receptor ligand extrapyramidal
+Glutamate (NMDA) receptor ligand positive symptoms psychosis
+Glutamate (NMDA) receptor ligand depression
+Glutamate (NMDA) receptor ligand insomnia
+Glutamate (NMDA) receptor ligand anxiety
+Glutamate (NMDA) receptor ligand weight gain

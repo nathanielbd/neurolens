@@ -1,0 +1,51 @@
+Sodium-dependent serotonin transporter modulator apathy
+Sodium-dependent serotonin transporter modulator motivation
+Sodium-dependent serotonin transporter modulator stress
+Sodium-dependent serotonin transporter modulator fatigue
+Sodium-dependent serotonin transporter modulator suicidal thoughts
+Sodium-dependent serotonin transporter modulator agitation
+Dopamine D3 receptor agonist cognitive symptoms
+Dopamine D3 receptor agonist negative symptoms
+Dopamine D3 receptor agonist avolition
+Dopamine D3 receptor agonist extrapyramidal
+Dopamine D3 receptor agonist positive symptoms psychosis
+Dopamine D3 receptor agonist depression
+Dopamine D3 receptor agonist insomnia
+Dopamine D3 receptor agonist anxiety
+Dopamine D3 receptor agonist weight gain
+Dopamine D3 receptor agonist apathy
+Dopamine D3 receptor agonist motivation
+Dopamine D3 receptor agonist stress
+Dopamine D3 receptor agonist fatigue
+Dopamine D3 receptor agonist suicidal thoughts
+Dopamine D3 receptor agonist agitation
+Dopamine D5 receptor ligand cognitive symptoms
+Dopamine D5 receptor ligand negative symptoms
+Dopamine D5 receptor ligand avolition
+Dopamine D5 receptor ligand extrapyramidal
+Dopamine D5 receptor ligand positive symptoms psychosis
+Dopamine D5 receptor ligand depression
+Dopamine D5 receptor ligand insomnia
+Dopamine D5 receptor ligand anxiety
+Dopamine D5 receptor ligand weight gain
+Dopamine D5 receptor ligand apathy
+Dopamine D5 receptor ligand motivation
+Dopamine D5 receptor ligand stress
+Dopamine D5 receptor ligand fatigue
+Dopamine D5 receptor ligand suicidal thoughts
+Dopamine D5 receptor ligand agitation
+Alpha-2C adrenergic receptor antagonist cognitive symptoms
+Alpha-2C adrenergic receptor antagonist negative symptoms
+Alpha-2C adrenergic receptor antagonist avolition
+Alpha-2C adrenergic receptor antagonist extrapyramidal
+Alpha-2C adrenergic receptor antagonist positive symptoms psychosis
+Alpha-2C adrenergic receptor antagonist depression
+Alpha-2C adrenergic receptor antagonist insomnia
+Alpha-2C adrenergic receptor antagonist anxiety
+Alpha-2C adrenergic receptor antagonist weight gain
+Alpha-2C adrenergic receptor antagonist apathy
+Alpha-2C adrenergic receptor antagonist motivation
+Alpha-2C adrenergic receptor antagonist stress
+Alpha-2C adrenergic receptor antagonist fatigue
+Alpha-2C adrenergic receptor antagonist suicidal thoughts
+Alpha-2C adrenergic receptor antagonist agitation

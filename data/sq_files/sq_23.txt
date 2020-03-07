@@ -1,0 +1,51 @@
+Histamine H2 receptor ligand agitation
+5-hydroxytryptamine receptor 2C ligand cognitive symptoms
+5-hydroxytryptamine receptor 2C ligand negative symptoms
+5-hydroxytryptamine receptor 2C ligand avolition
+5-hydroxytryptamine receptor 2C ligand extrapyramidal
+5-hydroxytryptamine receptor 2C ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 2C ligand depression
+5-hydroxytryptamine receptor 2C ligand insomnia
+5-hydroxytryptamine receptor 2C ligand anxiety
+5-hydroxytryptamine receptor 2C ligand weight gain
+5-hydroxytryptamine receptor 2C ligand apathy
+5-hydroxytryptamine receptor 2C ligand motivation
+5-hydroxytryptamine receptor 2C ligand stress
+5-hydroxytryptamine receptor 2C ligand fatigue
+5-hydroxytryptamine receptor 2C ligand suicidal thoughts
+5-hydroxytryptamine receptor 2C ligand agitation
+5-hydroxytryptamine receptor 2C antagonist cognitive symptoms
+5-hydroxytryptamine receptor 2C antagonist negative symptoms
+5-hydroxytryptamine receptor 2C antagonist avolition
+5-hydroxytryptamine receptor 2C antagonist extrapyramidal
+5-hydroxytryptamine receptor 2C antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2C antagonist depression
+5-hydroxytryptamine receptor 2C antagonist insomnia
+5-hydroxytryptamine receptor 2C antagonist anxiety
+5-hydroxytryptamine receptor 2C antagonist weight gain
+5-hydroxytryptamine receptor 2C antagonist apathy
+5-hydroxytryptamine receptor 2C antagonist motivation
+5-hydroxytryptamine receptor 2C antagonist stress
+5-hydroxytryptamine receptor 2C antagonist fatigue
+5-hydroxytryptamine receptor 2C antagonist suicidal thoughts
+5-hydroxytryptamine receptor 2C antagonist agitation
+GABA-A receptor (benzodiazepine site) inhibitor cognitive symptoms
+GABA-A receptor (benzodiazepine site) inhibitor negative symptoms
+GABA-A receptor (benzodiazepine site) inhibitor avolition
+GABA-A receptor (benzodiazepine site) inhibitor extrapyramidal
+GABA-A receptor (benzodiazepine site) inhibitor positive symptoms psychosis
+GABA-A receptor (benzodiazepine site) inhibitor depression
+GABA-A receptor (benzodiazepine site) inhibitor insomnia
+GABA-A receptor (benzodiazepine site) inhibitor anxiety
+GABA-A receptor (benzodiazepine site) inhibitor weight gain
+GABA-A receptor (benzodiazepine site) inhibitor apathy
+GABA-A receptor (benzodiazepine site) inhibitor motivation
+GABA-A receptor (benzodiazepine site) inhibitor stress
+GABA-A receptor (benzodiazepine site) inhibitor fatigue
+GABA-A receptor (benzodiazepine site) inhibitor suicidal thoughts
+GABA-A receptor (benzodiazepine site) inhibitor agitation
+Muscarinic acetylcholine receptor M5 antagonist cognitive symptoms
+Muscarinic acetylcholine receptor M5 antagonist negative symptoms
+Muscarinic acetylcholine receptor M5 antagonist avolition
+Muscarinic acetylcholine receptor M5 antagonist extrapyramidal
+Muscarinic acetylcholine receptor M5 antagonist positive symptoms psychosis

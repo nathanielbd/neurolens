@@ -1,0 +1,49 @@
+5-hydroxytryptamine receptor 1A partial agonist motivation
+5-hydroxytryptamine receptor 1A partial agonist stress
+5-hydroxytryptamine receptor 1A partial agonist fatigue
+5-hydroxytryptamine receptor 1A partial agonist suicidal thoughts
+5-hydroxytryptamine receptor 1A partial agonist agitation
+Dopamine D5 receptor antagonist cognitive symptoms
+Dopamine D5 receptor antagonist negative symptoms
+Dopamine D5 receptor antagonist avolition
+Dopamine D5 receptor antagonist extrapyramidal
+Dopamine D5 receptor antagonist positive symptoms psychosis
+Dopamine D5 receptor antagonist depression
+Dopamine D5 receptor antagonist insomnia
+Dopamine D5 receptor antagonist anxiety
+Dopamine D5 receptor antagonist weight gain
+Dopamine D5 receptor antagonist apathy
+Dopamine D5 receptor antagonist motivation
+Dopamine D5 receptor antagonist stress
+Dopamine D5 receptor antagonist fatigue
+Dopamine D5 receptor antagonist suicidal thoughts
+Dopamine D5 receptor antagonist agitation
+5-hydroxytryptamine receptor 1B antagonist cognitive symptoms
+5-hydroxytryptamine receptor 1B antagonist negative symptoms
+5-hydroxytryptamine receptor 1B antagonist avolition
+5-hydroxytryptamine receptor 1B antagonist extrapyramidal
+5-hydroxytryptamine receptor 1B antagonist positive symptoms psychosis
+5-hydroxytryptamine receptor 1B antagonist depression
+5-hydroxytryptamine receptor 1B antagonist insomnia
+5-hydroxytryptamine receptor 1B antagonist anxiety
+5-hydroxytryptamine receptor 1B antagonist weight gain
+5-hydroxytryptamine receptor 1B antagonist apathy
+5-hydroxytryptamine receptor 1B antagonist motivation
+5-hydroxytryptamine receptor 1B antagonist stress
+5-hydroxytryptamine receptor 1B antagonist fatigue
+5-hydroxytryptamine receptor 1B antagonist suicidal thoughts
+5-hydroxytryptamine receptor 1B antagonist agitation
+Histamine H2 receptor ligand cognitive symptoms
+Histamine H2 receptor ligand negative symptoms
+Histamine H2 receptor ligand avolition
+Histamine H2 receptor ligand extrapyramidal
+Histamine H2 receptor ligand positive symptoms psychosis
+Histamine H2 receptor ligand depression
+Histamine H2 receptor ligand insomnia
+Histamine H2 receptor ligand anxiety
+Histamine H2 receptor ligand weight gain
+Histamine H2 receptor ligand apathy
+Histamine H2 receptor ligand motivation
+Histamine H2 receptor ligand stress
+Histamine H2 receptor ligand fatigue
+Histamine H2 receptor ligand suicidal thoughts

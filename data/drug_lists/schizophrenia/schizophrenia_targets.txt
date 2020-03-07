@@ -1,0 +1,67 @@
+Sodium-dependent serotonin transporter antagonist
+5-hydroxytryptamine receptor 1A agonist
+Muscarinic acetylcholine receptor M2 antagonist
+Dopamine D4 receptor antagonist
+Mu-type opioid receptor ligand
+Muscarinic acetylcholine receptor M1 antagonist
+5-hydroxytryptamine receptor 3A antagonist
+5-hydroxytryptamine receptor 7 antagonist
+Alpha-2B adrenergic receptor antagonist
+5-hydroxytryptamine receptor 3A ligand
+5-hydroxytryptamine receptor 1D ligand
+5-hydroxytryptamine receptor 1E antagonist
+Dopamine D3 receptor antagonist
+Muscarinic acetylcholine receptor M5 ligand
+Histamine H3 receptor ligand
+Kappa-type opioid receptor ligand
+Sodium-dependent serotonin transporter modulator
+Dopamine D3 receptor agonist
+Dopamine D5 receptor ligand
+Alpha-2C adrenergic receptor antagonist
+5-hydroxytryptamine receptor 1D antagonist
+Sodium-dependent dopamine transporter modulator
+Muscarinic acetylcholine receptor M1 ligand
+5-hydroxytryptamine receptor 1 inhibitor
+5-hydroxytryptamine receptor 2B antagonist
+5-hydroxytryptamine receptor 6 antagonist
+Dopamine D2 receptor agonist
+Histamine H4 receptor antagonist
+Dopamine D3 receptor ligand
+5-hydroxytryptamine receptor 1B ligand
+Beta-2 adrenergic receptor ligand
+5-hydroxytryptamine receptor 7 ligand
+5-hydroxytryptamine receptor 1E ligand
+Muscarinic acetylcholine receptor M3 ligand
+Beta-1 adrenergic receptor ligand
+Alpha-1 adrenergic receptors antagonist
+Glutamate (NMDA) receptor ligand
+Alpha-1B adrenergic receptor antagonist
+Alpha-1A adrenergic receptor antagonist
+5-hydroxytryptamine receptor 5A ligand
+Delta-type opioid receptor ligand
+Beta adrenergic receptor inhibitor
+Dopamine D4 receptor ligand
+Dopamine D1 receptor antagonist
+D(1) dopamine receptor antagonist
+Muscarinic acetylcholine receptor M3 antagonist
+5-hydroxytryptamine receptor 1A partial agonist
+Dopamine D5 receptor antagonist
+5-hydroxytryptamine receptor 1B antagonist
+Histamine H2 receptor ligand
+5-hydroxytryptamine receptor 2C ligand
+5-hydroxytryptamine receptor 2C antagonist
+GABA-A receptor (benzodiazepine site) inhibitor
+Muscarinic acetylcholine receptor M5 antagonist
+Dopamine D2 receptor antagonist
+Sodium-dependent noradrenaline transporter antagonist
+Muscarinic acetylcholine receptor M2 ligand
+Neuron-specific vesicular protein calcyon unknown
+Alpha-2C adrenergic receptor agonist
+Alpha-2A adrenergic receptor antagonist
+5-hydroxytryptamine receptor 2B inverse agonist
+Histamine H1 receptor antagonist
+5-hydroxytryptamine receptor 1A antagonist
+Muscarinic acetylcholine receptor M4 antagonist
+Histamine H4 receptor ligand
+Muscarinic acetylcholine receptor M4 ligand
+5-hydroxytryptamine receptor 2A antagonist

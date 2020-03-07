@@ -1,0 +1,49 @@
+Sodium-dependent noradrenaline transporter inhibitor depression
+Sodium-dependent noradrenaline transporter inhibitor insomnia
+Sodium-dependent noradrenaline transporter inhibitor anxiety
+Sodium-dependent noradrenaline transporter inhibitor weight gain
+Sodium-dependent noradrenaline transporter inhibitor apathy
+Sodium-dependent noradrenaline transporter inhibitor motivation
+Sodium-dependent noradrenaline transporter inhibitor stress
+Sodium-dependent noradrenaline transporter inhibitor fatigue
+Sodium-dependent noradrenaline transporter inhibitor suicidal thoughts
+Sodium-dependent noradrenaline transporter inhibitor agitation
+Sigma receptor inhibitor cognitive symptoms
+Sigma receptor inhibitor negative symptoms
+Sigma receptor inhibitor avolition
+Sigma receptor inhibitor extrapyramidal
+Sigma receptor inhibitor positive symptoms psychosis
+Sigma receptor inhibitor depression
+Sigma receptor inhibitor insomnia
+Sigma receptor inhibitor anxiety
+Sigma receptor inhibitor weight gain
+Sigma receptor inhibitor apathy
+Sigma receptor inhibitor motivation
+Sigma receptor inhibitor stress
+Sigma receptor inhibitor fatigue
+Sigma receptor inhibitor suicidal thoughts
+Sigma receptor inhibitor agitation
+Neuronal acetylcholine receptor subunit beta-4 antagonist cognitive symptoms
+Neuronal acetylcholine receptor subunit beta-4 antagonist negative symptoms
+Neuronal acetylcholine receptor subunit beta-4 antagonist avolition
+Neuronal acetylcholine receptor subunit beta-4 antagonist extrapyramidal
+Neuronal acetylcholine receptor subunit beta-4 antagonist positive symptoms psychosis
+Neuronal acetylcholine receptor subunit beta-4 antagonist depression
+Neuronal acetylcholine receptor subunit beta-4 antagonist insomnia
+Neuronal acetylcholine receptor subunit beta-4 antagonist anxiety
+Neuronal acetylcholine receptor subunit beta-4 antagonist weight gain
+Neuronal acetylcholine receptor subunit beta-4 antagonist apathy
+Neuronal acetylcholine receptor subunit beta-4 antagonist motivation
+Neuronal acetylcholine receptor subunit beta-4 antagonist stress
+Neuronal acetylcholine receptor subunit beta-4 antagonist fatigue
+Neuronal acetylcholine receptor subunit beta-4 antagonist suicidal thoughts
+Neuronal acetylcholine receptor subunit beta-4 antagonist agitation
+5-hydroxytryptamine receptor 2A agonist cognitive symptoms
+5-hydroxytryptamine receptor 2A agonist negative symptoms
+5-hydroxytryptamine receptor 2A agonist avolition
+5-hydroxytryptamine receptor 2A agonist extrapyramidal
+5-hydroxytryptamine receptor 2A agonist positive symptoms psychosis
+5-hydroxytryptamine receptor 2A agonist depression
+5-hydroxytryptamine receptor 2A agonist insomnia
+5-hydroxytryptamine receptor 2A agonist anxiety
+5-hydroxytryptamine receptor 2A agonist weight gain

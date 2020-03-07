@@ -1,0 +1,51 @@
+Dopamine D1 receptor antagonist positive symptoms psychosis
+Dopamine D1 receptor antagonist depression
+Dopamine D1 receptor antagonist insomnia
+Dopamine D1 receptor antagonist anxiety
+Dopamine D1 receptor antagonist weight gain
+Dopamine D1 receptor antagonist apathy
+Dopamine D1 receptor antagonist motivation
+Dopamine D1 receptor antagonist stress
+Dopamine D1 receptor antagonist fatigue
+Dopamine D1 receptor antagonist suicidal thoughts
+Dopamine D1 receptor antagonist agitation
+D(1) dopamine receptor antagonist cognitive symptoms
+D(1) dopamine receptor antagonist negative symptoms
+D(1) dopamine receptor antagonist avolition
+D(1) dopamine receptor antagonist extrapyramidal
+D(1) dopamine receptor antagonist positive symptoms psychosis
+D(1) dopamine receptor antagonist depression
+D(1) dopamine receptor antagonist insomnia
+D(1) dopamine receptor antagonist anxiety
+D(1) dopamine receptor antagonist weight gain
+D(1) dopamine receptor antagonist apathy
+D(1) dopamine receptor antagonist motivation
+D(1) dopamine receptor antagonist stress
+D(1) dopamine receptor antagonist fatigue
+D(1) dopamine receptor antagonist suicidal thoughts
+D(1) dopamine receptor antagonist agitation
+Muscarinic acetylcholine receptor M3 antagonist cognitive symptoms
+Muscarinic acetylcholine receptor M3 antagonist negative symptoms
+Muscarinic acetylcholine receptor M3 antagonist avolition
+Muscarinic acetylcholine receptor M3 antagonist extrapyramidal
+Muscarinic acetylcholine receptor M3 antagonist positive symptoms psychosis
+Muscarinic acetylcholine receptor M3 antagonist depression
+Muscarinic acetylcholine receptor M3 antagonist insomnia
+Muscarinic acetylcholine receptor M3 antagonist anxiety
+Muscarinic acetylcholine receptor M3 antagonist weight gain
+Muscarinic acetylcholine receptor M3 antagonist apathy
+Muscarinic acetylcholine receptor M3 antagonist motivation
+Muscarinic acetylcholine receptor M3 antagonist stress
+Muscarinic acetylcholine receptor M3 antagonist fatigue
+Muscarinic acetylcholine receptor M3 antagonist suicidal thoughts
+Muscarinic acetylcholine receptor M3 antagonist agitation
+5-hydroxytryptamine receptor 1A partial agonist cognitive symptoms
+5-hydroxytryptamine receptor 1A partial agonist negative symptoms
+5-hydroxytryptamine receptor 1A partial agonist avolition
+5-hydroxytryptamine receptor 1A partial agonist extrapyramidal
+5-hydroxytryptamine receptor 1A partial agonist positive symptoms psychosis
+5-hydroxytryptamine receptor 1A partial agonist depression
+5-hydroxytryptamine receptor 1A partial agonist insomnia
+5-hydroxytryptamine receptor 1A partial agonist anxiety
+5-hydroxytryptamine receptor 1A partial agonist weight gain
+5-hydroxytryptamine receptor 1A partial agonist apathy

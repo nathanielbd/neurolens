@@ -1,0 +1,49 @@
+Muscarinic acetylcholine receptor M5 ligand depression
+Muscarinic acetylcholine receptor M5 ligand insomnia
+Muscarinic acetylcholine receptor M5 ligand anxiety
+Muscarinic acetylcholine receptor M5 ligand weight gain
+Muscarinic acetylcholine receptor M5 ligand apathy
+Muscarinic acetylcholine receptor M5 ligand motivation
+Muscarinic acetylcholine receptor M5 ligand stress
+Muscarinic acetylcholine receptor M5 ligand fatigue
+Muscarinic acetylcholine receptor M5 ligand suicidal thoughts
+Muscarinic acetylcholine receptor M5 ligand agitation
+Histamine H3 receptor ligand cognitive symptoms
+Histamine H3 receptor ligand negative symptoms
+Histamine H3 receptor ligand avolition
+Histamine H3 receptor ligand extrapyramidal
+Histamine H3 receptor ligand positive symptoms psychosis
+Histamine H3 receptor ligand depression
+Histamine H3 receptor ligand insomnia
+Histamine H3 receptor ligand anxiety
+Histamine H3 receptor ligand weight gain
+Histamine H3 receptor ligand apathy
+Histamine H3 receptor ligand motivation
+Histamine H3 receptor ligand stress
+Histamine H3 receptor ligand fatigue
+Histamine H3 receptor ligand suicidal thoughts
+Histamine H3 receptor ligand agitation
+Kappa-type opioid receptor ligand cognitive symptoms
+Kappa-type opioid receptor ligand negative symptoms
+Kappa-type opioid receptor ligand avolition
+Kappa-type opioid receptor ligand extrapyramidal
+Kappa-type opioid receptor ligand positive symptoms psychosis
+Kappa-type opioid receptor ligand depression
+Kappa-type opioid receptor ligand insomnia
+Kappa-type opioid receptor ligand anxiety
+Kappa-type opioid receptor ligand weight gain
+Kappa-type opioid receptor ligand apathy
+Kappa-type opioid receptor ligand motivation
+Kappa-type opioid receptor ligand stress
+Kappa-type opioid receptor ligand fatigue
+Kappa-type opioid receptor ligand suicidal thoughts
+Kappa-type opioid receptor ligand agitation
+Sodium-dependent serotonin transporter modulator cognitive symptoms
+Sodium-dependent serotonin transporter modulator negative symptoms
+Sodium-dependent serotonin transporter modulator avolition
+Sodium-dependent serotonin transporter modulator extrapyramidal
+Sodium-dependent serotonin transporter modulator positive symptoms psychosis
+Sodium-dependent serotonin transporter modulator depression
+Sodium-dependent serotonin transporter modulator insomnia
+Sodium-dependent serotonin transporter modulator anxiety
+Sodium-dependent serotonin transporter modulator weight gain

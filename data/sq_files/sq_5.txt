@@ -1,0 +1,49 @@
+Dopamine D2 receptor agonist motivation
+Dopamine D2 receptor agonist stress
+Dopamine D2 receptor agonist fatigue
+Dopamine D2 receptor agonist suicidal thoughts
+Dopamine D2 receptor agonist agitation
+Histamine H4 receptor antagonist cognitive symptoms
+Histamine H4 receptor antagonist negative symptoms
+Histamine H4 receptor antagonist avolition
+Histamine H4 receptor antagonist extrapyramidal
+Histamine H4 receptor antagonist positive symptoms psychosis
+Histamine H4 receptor antagonist depression
+Histamine H4 receptor antagonist insomnia
+Histamine H4 receptor antagonist anxiety
+Histamine H4 receptor antagonist weight gain
+Histamine H4 receptor antagonist apathy
+Histamine H4 receptor antagonist motivation
+Histamine H4 receptor antagonist stress
+Histamine H4 receptor antagonist fatigue
+Histamine H4 receptor antagonist suicidal thoughts
+Histamine H4 receptor antagonist agitation
+Dopamine D3 receptor ligand cognitive symptoms
+Dopamine D3 receptor ligand negative symptoms
+Dopamine D3 receptor ligand avolition
+Dopamine D3 receptor ligand extrapyramidal
+Dopamine D3 receptor ligand positive symptoms psychosis
+Dopamine D3 receptor ligand depression
+Dopamine D3 receptor ligand insomnia
+Dopamine D3 receptor ligand anxiety
+Dopamine D3 receptor ligand weight gain
+Dopamine D3 receptor ligand apathy
+Dopamine D3 receptor ligand motivation
+Dopamine D3 receptor ligand stress
+Dopamine D3 receptor ligand fatigue
+Dopamine D3 receptor ligand suicidal thoughts
+Dopamine D3 receptor ligand agitation
+5-hydroxytryptamine receptor 1B ligand cognitive symptoms
+5-hydroxytryptamine receptor 1B ligand negative symptoms
+5-hydroxytryptamine receptor 1B ligand avolition
+5-hydroxytryptamine receptor 1B ligand extrapyramidal
+5-hydroxytryptamine receptor 1B ligand positive symptoms psychosis
+5-hydroxytryptamine receptor 1B ligand depression
+5-hydroxytryptamine receptor 1B ligand insomnia
+5-hydroxytryptamine receptor 1B ligand anxiety
+5-hydroxytryptamine receptor 1B ligand weight gain
+5-hydroxytryptamine receptor 1B ligand apathy
+5-hydroxytryptamine receptor 1B ligand motivation
+5-hydroxytryptamine receptor 1B ligand stress
+5-hydroxytryptamine receptor 1B ligand fatigue
+5-hydroxytryptamine receptor 1B ligand suicidal thoughts

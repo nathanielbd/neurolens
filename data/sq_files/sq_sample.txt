@@ -1,0 +1,4 @@
+5-hydroxytryptamine receptor 1 inhibitor positive symptoms psychosis:[('28141622', 0.493221771453994)]
+5-hydroxytryptamine receptor 1 inhibitor apathy:[]
+5-hydroxytryptamine receptor 1 inhibitor agitation:[('30194544', 0.548353671461511), ('25823809', 0.8448553672994973), ('11852298', 0.7209312083455937), ('11399662', 0.9054634416345406), ('8888541', 0.6854720967292723)]
+5-hydroxytryptamine receptor 2B antagonist negative symptoms:[('14991402', 0.8342575529286872), ('11750183', 0.8543846743003839)]

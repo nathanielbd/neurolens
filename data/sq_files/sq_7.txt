@@ -1,0 +1,49 @@
+Delta-type opioid receptor ligand cognitive symptoms
+Delta-type opioid receptor ligand negative symptoms
+Delta-type opioid receptor ligand avolition
+Delta-type opioid receptor ligand extrapyramidal
+Delta-type opioid receptor ligand positive symptoms psychosis
+Delta-type opioid receptor ligand depression
+Delta-type opioid receptor ligand insomnia
+Delta-type opioid receptor ligand anxiety
+Delta-type opioid receptor ligand weight gain
+Delta-type opioid receptor ligand apathy
+Delta-type opioid receptor ligand motivation
+Delta-type opioid receptor ligand stress
+Delta-type opioid receptor ligand fatigue
+Delta-type opioid receptor ligand suicidal thoughts
+Delta-type opioid receptor ligand agitation
+Beta adrenergic receptor inhibitor cognitive symptoms
+Beta adrenergic receptor inhibitor negative symptoms
+Beta adrenergic receptor inhibitor avolition
+Beta adrenergic receptor inhibitor extrapyramidal
+Beta adrenergic receptor inhibitor positive symptoms psychosis
+Beta adrenergic receptor inhibitor depression
+Beta adrenergic receptor inhibitor insomnia
+Beta adrenergic receptor inhibitor anxiety
+Beta adrenergic receptor inhibitor weight gain
+Beta adrenergic receptor inhibitor apathy
+Beta adrenergic receptor inhibitor motivation
+Beta adrenergic receptor inhibitor stress
+Beta adrenergic receptor inhibitor fatigue
+Beta adrenergic receptor inhibitor suicidal thoughts
+Beta adrenergic receptor inhibitor agitation
+Dopamine D4 receptor ligand cognitive symptoms
+Dopamine D4 receptor ligand negative symptoms
+Dopamine D4 receptor ligand avolition
+Dopamine D4 receptor ligand extrapyramidal
+Dopamine D4 receptor ligand positive symptoms psychosis
+Dopamine D4 receptor ligand depression
+Dopamine D4 receptor ligand insomnia
+Dopamine D4 receptor ligand anxiety
+Dopamine D4 receptor ligand weight gain
+Dopamine D4 receptor ligand apathy
+Dopamine D4 receptor ligand motivation
+Dopamine D4 receptor ligand stress
+Dopamine D4 receptor ligand fatigue
+Dopamine D4 receptor ligand suicidal thoughts
+Dopamine D4 receptor ligand agitation
+Dopamine D1 receptor antagonist cognitive symptoms
+Dopamine D1 receptor antagonist negative symptoms
+Dopamine D1 receptor antagonist avolition
+Dopamine D1 receptor antagonist extrapyramidal
