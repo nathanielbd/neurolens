@@ -36,18 +36,31 @@ def try_to_retreive(d, k, e):
     
     
 depression_mechanics_list = mechanics_to_string_list(depression_mechanics)
-            
+depression_descriptions = [d["description"] for d in depression_mechanics]
+#depression_other_conds = [d["conditions"] for d in depression_mechanics]      
 #dml = map(lambda x: map(lambda y: " ".join(y), x), [m["mechanics"] for m in depression_mechanics])
-depression_df_dict = {"name": depression_drugs, "drugbank_id": [d["db_id"] for d in depression_mechanics], "mechanics": depression_mechanics_list, "diagnosis": ["depression" for n in range(len(depression_mechanics_list))]}
+depression_df_dict = {"name": depression_drugs,
+                      "drugbank_id": [d["db_id"] for d in depression_mechanics],
+                      "mechanics": depression_mechanics_list,
+                      "description": depression_descriptions,
+                      "diagnosis": ["depression" for n in range(len(depression_mechanics_list))]
+                      }
 
 schizophrenia_mechanics_list = mechanics_to_string_list(schizophrenia_mechanics)
-schizophrenia_df_dict = {"name": schizophrenia_drugs, "drugbank_id": [try_to_retreive(d, "db_id", "") for d in schizophrenia_mechanics], "mechanics": schizophrenia_mechanics_list, "diagnosis": ["schizophrenia" for n in range(len(schizophrenia_mechanics_list))]}
+schizophrenia_descriptions = [try_to_retreive(d, "description", "") for d in schizophrenia_mechanics]
+#schizophrenia_descriptions = [try_to_retreive(d, "description", []) for d in schizophrenia_mechanics]
+
+schizophrenia_df_dict = {"name": schizophrenia_drugs,
+                         "drugbank_id": [try_to_retreive(d, "db_id", "") for d in schizophrenia_mechanics],
+                         "mechanics": schizophrenia_mechanics_list,
+                         "description": schizophrenia_descriptions,
+                         "diagnosis": ["schizophrenia" for n in range(len(schizophrenia_mechanics_list))]}
 
 import pandas as pd
 d_df = pd.DataFrame(depression_df_dict)
 s_df = pd.DataFrame(schizophrenia_df_dict)
 all_drugs = pd.concat([d_df, s_df], axis=0)
-#all_drugs.to_csv("data/csv/drugs_lowercase_names.csv", index=False)
+all_drugs.to_csv("data/csv/drugs_lowercase_names.csv", index=False)
 
 #depression_dict = {k:z for k, z in zip(depression_drugs, depression_mechanics_list)}
 #schizophrenia_dict = {k:z for k, z in zip(schizophrenia_drugs, schizophrenia_mechanics_list)}
