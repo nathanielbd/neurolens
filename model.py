@@ -16,11 +16,10 @@ def generate_recommendations(responses):
         MECHANIC_SYMPTOM_DICT = json.loads(sq.read())
     with open("data/symptoms.txt") as s:
         SYMPTOMS = s.read().split('\n')
-    print(f"responses: {responses}")
-    print(f"symptoms: {SYMPTOMS}")
-    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):int(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB), d[0].upper() + d[1:]) for d in drugs])
+    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):float(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB), d[0].upper() + d[1:]) for d in drugs], reverse=True)
     return results
 
-def report_data(data):
-    text = str(data)
-    return text
+def get_desc(drug):
+    DRUG_DB = pd.read_csv("data/csv/drugs_lowercase_names.csv")
+    desc = DRUG_DB.loc[DRUG_DB["name"] == drug.lower()]["description"].values[0]
+    return desc

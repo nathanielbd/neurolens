@@ -1,6 +1,7 @@
 from flask_wtf import FlaskForm
 from wtforms.fields import StringField, SelectField, SubmitField
 from wtforms.validators import DataRequired, Length
+from wtforms.fields.html5 import DecimalRangeField
 
 class DiagnosisForm(FlaskForm):
     diagnosis = SelectField('Diagnosis',choices=[('Schizophrenia','Schizophrenia'), ('Depression','Depression')])
@@ -29,21 +30,21 @@ class SchizophreniaDrugForm(FlaskForm):
     submit = SubmitField('Submit')
 
 class SymptomsForm(FlaskForm):
-    cognitive_symptoms = SelectField('Cognitive Symptoms', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2,'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    negative_symptoms = SelectField('Negative Symptoms', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    avolition = SelectField('Avolition', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    extrapyramidal = SelectField('Extrapyramidal', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    positive_symptoms_psychosis = SelectField('Positive Symptoms Psychosis', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    depression = SelectField('Depression', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    insomnia = SelectField('Insomnia', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    anxiety = SelectField('Anxiety', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    weight_gain = SelectField('Weight Gain', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    apathy = SelectField('Apathy', choices=[(-2, 'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    motivation = SelectField('Motivation', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    stress = SelectField('Stress', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    fatigue = SelectField('Fatigue', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    suicidal_thoughts = SelectField('Suicidal Thoughts', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
-    agitation = SelectField('Agitation', choices=[(-2,'Greatly Worsened Symptom'), (-2, 'Significantly Worsened Symptom'),(-1, 'Slightly Worsened Symptom'), (0, 'No effect'), (1, 'Slight Improvement in Symptom'), (2, 'Significant Improvement in Symptom'), (3, 'Great Improvement in Symptom')], default=0)
+    cognitive_symptoms = DecimalRangeField('Cognitive Symptoms')
+    negative_symptoms = DecimalRangeField('Negative Symptoms')
+    avolition = DecimalRangeField('Avolition')
+    extrapyramidal = DecimalRangeField('Extrapyramidal')
+    positive_symptoms_psychosis = DecimalRangeField('Positive Symptoms Psychosis')
+    depression = DecimalRangeField('Depression')
+    insomnia = DecimalRangeField('Insomnia')
+    anxiety = DecimalRangeField('Anxiety')
+    weight_gain = DecimalRangeField('Weight Gain')
+    apathy = DecimalRangeField('Apathy')
+    motivation = DecimalRangeField('Motivation')
+    stress = DecimalRangeField('Stress')
+    fatigue = DecimalRangeField('Fatigue')
+    suicidal_thoughts = DecimalRangeField('Suicidal Thoughts')
+    agitation = DecimalRangeField('Agitation')
     submit = SubmitField('Submit')
 
 

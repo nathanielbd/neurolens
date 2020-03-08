@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, url_for, redirect
 from forms import *
-from model import generate_recommendations
+from model import generate_recommendations, get_desc
 import os
 
 app = Flask(__name__)
@@ -11,7 +11,7 @@ app.config['SECRET_KEY'] = SECRET_KEY
 def landing():
     title = 'Neurolens'
     form = DiagnosisForm()
-    form_name = 'Try your tailored treatment'
+    form_name = 'Try your tailored neurological treatment'
     if request.method == 'POST':
         diagnosis = request.form.get("diagnosis")
         return redirect(url_for('drugs', diagnosis=diagnosis))
@@ -45,12 +45,15 @@ def symptoms():
 
 @app.route('/results', methods=["GET", "POST"])
 def results():
-    title = 'Based on your responses, we recommend:'
+    title = 'Based on your responses, we recommend'
     data = request.args
     recs = generate_recommendations(data)
-    drug_1 = recs[0][1]
-    drug_2 = recs[1][1]
-    drug_3 = recs[2][1]
+    drug_1 = recs[0]
+    drug_1 = (int(drug_1[0]), drug_1[1], get_desc(drug_1[1]))
+    drug_2 = recs[1]
+    drug_2 = (int(drug_2[0]), drug_2[1], get_desc(drug_2[1]))
+    drug_3 = recs[2]
+    drug_3 = (int(drug_3[0]), drug_3[1], get_desc(drug_3[1]))
     return render_template('results.html', title = title, drug_1=drug_1, drug_2=drug_2, drug_3=drug_3)
 
 if __name__ == '__main__':

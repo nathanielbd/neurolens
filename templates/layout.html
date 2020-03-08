@@ -5,23 +5,15 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-	<style type="text/css">
-            @font-face {
-                font-family: neutraface;
-                src: url("{{ url_for('static', filename='NeutraText-Bold.otf') }}");
-            }
-            @font-face {
-                font-family: open-sans;
-                src: url("{{ url_for('static', filename='OpenSans-Regular.ttf') }}");
-            }
-            @font-face {
-                font-family: encode-sans;
-                src: url("{{ url_for('static', filename='EncodeSans.ttf') }}");
-            }
-	    #content {
-		    padding-top: 30px;
-	    }
-        </style>
+    <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.css">
+    <style type="text/css">
+        body {
+            background-color: #78C2AD
+        }
+        #content {
+            padding-top: 5%
+        }
+    </style>
 	<title>{% block title%}{% endblock %}</title>
         {% endblock %}
     </head>

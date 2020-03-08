@@ -7,13 +7,15 @@
 	<div class="jumbotron">
 		<h1 class="display-3">{{ title }}</h1>
 		<form method="POST">
-			<legend>{{ form_name }}</legend>
-			<div class="form-group">
-				{{ form.diagnosis.label }}:
-				<br>
-				{{ form.diagnosis }}
-			</div>
-			{{ form.submit }}
+			<fieldset>
+				<legend>{{ form_name }}</legend>
+				<div class="form-group">
+					{{ form.diagnosis.label }}:
+					<br>
+					{{ form.diagnosis(class="form-control") }}
+				</div>
+				{{ form.submit(class="btn btn-primary") }}
+			</fieldset>
 		</form>
 	</div>
 {% endblock %}
