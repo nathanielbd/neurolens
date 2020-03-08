@@ -18,7 +18,8 @@ def generate_recommendations(responses):
         SYMPTOMS = s.read().split('\n')
     print(f"responses: {responses}")
     print(f"symptoms: {SYMPTOMS}")
-    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):int(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB), d[0].upper() + d[1:]) for d in drugs])
+    # score_drug() returns a tuple, first element is the score
+    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):int(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB)[0], d[0].upper() + d[1:]) for d in drugs])
     return results
 
 def report_data(data):

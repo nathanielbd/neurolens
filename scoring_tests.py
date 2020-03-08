@@ -2,6 +2,7 @@
 import pandas as pd
 import json
 import random
+import ast
 DRUG_DB = pd.read_csv("data/csv/drugs_lowercase_names.csv")
 
 with open("data/dictionaries/sq_output.json") as sq:
@@ -11,8 +12,9 @@ with open("data/symptoms.txt") as s:
     SYMPTOMS = s.read().split('\n')
     
 from scoring import generate_efficacy, get_mechanics, score_drug
-from drug_table import schizophrenia_mechanics_list, depression_mechanics_list
-
+# from drug_table import schizophrenia_mechanics_list, depression_mechanics_list
+depression_mechanics_list = [ast.literal_eval(x) for x in list(DRUG_DB["mechanics"].loc[DRUG_DB["diagnosis"] == "depression"])]
+schizophrenia_mechanics_list = [ast.literal_eval(x) for x in list(DRUG_DB["mechanics"].loc[DRUG_DB["diagnosis"] == "schizophrenia"])]
 with open("data/drug_lists/depression/depression_drugs.txt", "r") as d:
     depression_drugs = d.read().split("\n")
     
@@ -48,7 +50,7 @@ for d in (depression_drugs + schizophrenia_drugs)])
 # Seems like the top 3 usually include Olanzapine, Clozapine, Aripiprazole, and Quetiapine
 responses = {k:[] for k in [d[0].upper() + d[1:] for d in (depression_drugs + schizophrenia_drugs)]}
 for n in range(500):
-    random_response = sorted([(score_drug(d[0].upper() + d[1:], 
+    random_response = sorted([(score_drug(d, 
                                generate_efficacy({k:random.uniform(-1, 1) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT),
                                DRUG_DB), d[0].upper() + d[1:])
                     for d in (depression_drugs + schizophrenia_drugs)], reverse=True)
@@ -56,6 +58,6 @@ for n in range(500):
         responses[drug].append(eff)
         
 # These are always 0, maybe they're not well studied
-all(map(lambda x: x == 0, responses["Amineptine"])) # Illicit/withdrawn according to drugbank https://www.drugbank.ca/drugs/DB04836
-all(map(lambda x: x == 0, responses["Nomifensine"])) # Withdrawn according to drugbank https://www.drugbank.ca/drugs/DB04821
-all(map(lambda x: x == 0, responses["Perospirone"])) # Experimental
+all(map(lambda x: x[0] == 0, responses["Amineptine"])) # Illicit/withdrawn according to drugbank https://www.drugbank.ca/drugs/DB04836
+all(map(lambda x: x[0] == 0, responses["Nomifensine"])) # Withdrawn according to drugbank https://www.drugbank.ca/drugs/DB04821
+all(map(lambda x: x[0] == 0, responses["Perospirone"])) # Experimental
