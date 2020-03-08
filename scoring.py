@@ -50,3 +50,5 @@ def score_drug(drug_name, efficacy_dict, drugdb):
         eff_scores.append(score)
     return sum(eff_scores)
 
+
+

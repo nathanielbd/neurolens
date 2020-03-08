@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, url_for, redirect
 from forms import *
-from model import report_data
+from model import generate_recommendations
 import os
 
 app = Flask(__name__)
@@ -45,10 +45,13 @@ def symptoms():
 
 @app.route('/results', methods=["GET", "POST"])
 def results():
-    title = 'Results'
+    title = 'Based on your responses, we recommend:'
     data = request.args
-    output = report_data(data)
-    return render_template('results.html', title = title, output = output)
+    recs = generate_recommendations(data)
+    drug_1 = recs[0][1]
+    drug_2 = recs[1][1]
+    drug_3 = recs[2][1]
+    return render_template('results.html', title = title, drug_1=drug_1, drug_2=drug_2, drug_3=drug_3)
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')

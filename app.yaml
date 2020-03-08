@@ -1,0 +1,13 @@
+runtime: python37
+
+env_variables:
+        FLASK_APP: "app.py"
+        FLASK_RUN_PORT: 8080
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: auto
+- url: /data
+  static_dir: data
