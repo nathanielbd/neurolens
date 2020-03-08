@@ -1,4 +1,4 @@
-#!/mnt/c/Users/Daniel Xu/Documents/flask-ml/env/bin/python
+#!/mnt/c/Users/Daniel Xu/Documents/neurolens/env/bin/python
 
 import sys
 import getopt
