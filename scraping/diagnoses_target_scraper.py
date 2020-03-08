@@ -57,25 +57,25 @@ with open("drug_lists/schizophrenia/schizophrenia_targets.txt") as st:
     # Drop last element '' created by splitting along  \n
         schizophrenia_targets = st.read().split("\n")[:-1]
         
-depression_dict = {k:v for k, v in zip(depression_targets, depression_abstracts)}
-with open("temp/depression_dict.json", "w") as dd:
-    dd.write(json.dumps(depression_dict))
-
-with open("temp/schizophrenia_abstracts.json", "r") as s:
-    schizophrenia_abstracts = json.loads(s.read())
-schizophrenia_dict = {k:v for k, v in zip(schizophrenia_targets, schizophrenia_abstracts)}
-
-diagnosis_to_target_dict = {"schizophrenia": schizophrenia_dict,
-                  "depression": depression_dict}
-
-with open("dictionaries/diagnosis_to_target_dict.json", "w") as dtd:
-    dtd.write(json.dumps(diagnosis_to_target_dict))
-     
-with open("dictionaries/diagnosis_to_target_dict.p", "wb") as dtdp:
-    pickle.dump(diagnosis_to_target_dict, dtdp)
+#depression_dict = {k:v for k, v in zip(depression_targets, depression_abstracts)}
+#with open("temp/depression_dict.json", "w") as dd:
+#    dd.write(json.dumps(depression_dict))
+#
+#with open("temp/schizophrenia_abstracts.json", "r") as s:
+#    schizophrenia_abstracts = json.loads(s.read())
+#schizophrenia_dict = {k:v for k, v in zip(schizophrenia_targets, schizophrenia_abstracts)}
+#
+#diagnosis_to_target_dict = {"schizophrenia": schizophrenia_dict,
+#                  "depression": depression_dict}
+#
+#with open("dictionaries/diagnosis_to_target_dict.json", "w") as dtd:
+#    dtd.write(json.dumps(diagnosis_to_target_dict))
+#     
+#with open("dictionaries/diagnosis_to_target_dict.p", "wb") as dtdp:
+#    pickle.dump(diagnosis_to_target_dict, dtdp)
     
 depression_dict = {"Diagnosis": ["depression" for n in range(len(depression_abstracts))], "Target": depression_targets, "Abstracts": depression_abstracts}
 schizophrenia_dict = {"Diagnosis": ["depression" for n in range(len(schizophrenia_abstracts))], "Target": schizophrenia_targets, "Abstracts": schizophrenia_abstracts}
 depression_df, schizophrenia_df = (pd.DataFrame(depression_dict), pd.DataFrame(schizophrenia_dict))
 diagnoses_target_df = pd.concat([depression_df, schizophrenia_df], axis=0)
-diagnoses_target_df.to_csv("csv/diagnosis_target.csv")
+diagnosis_target_df.to_csv("csv/diagnosis_target.csv")
