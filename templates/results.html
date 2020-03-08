@@ -6,8 +6,42 @@
 {% block content %}	
 	<div class="jumbotron">
 		<h1 class="display-3">{{ title }}</h1>
-        <h2>1. {{ drug_1 }}</h2>
-        <h2>2. {{ drug_2 }}</h2>
-        <h2>3. {{ drug_3 }}</h2>
+		<br>
+		<div class="card border-primary mb-3">
+			<div class="card-header">Drug #1</div>
+			<div class="card-body">
+			  <h4 class="card-title">{{ drug_1[1] }}</h4>
+			  <p class="card-text">{{ drug_1[2] }}</p>
+			</div>
+		  </div>
+		  <div class="card border-secondary mb-3">
+			<div class="card-header">Drug #2</div>
+			<div class="card-body">
+			  <h4 class="card-title">{{ drug_2[1] }}</h4>
+			  <p class="card-text">{{ drug_2[2] }}</p>
+			</div>
+		  </div>
+		  <div class="card border-success mb-3">
+			<div class="card-header">Drug #3</div>
+			<div class="card-body">
+			  <h4 class="card-title">{{ drug_3[1] }}</h4>
+			  <p class="card-text">{{ drug_3[2] }}</p>
+			</div>
+		  </div>
+		  <p class="lead">Composite score based on your pharmacological profile</p>
+		  <ul class="list-group">
+			<li class="list-group-item d-flex justify-content-between align-items-center">
+	  			{{ drug_1[1] }}
+	  			<span class="badge badge-primary badge-pill">{{ drug_1[0] }}</span>
+			</li>
+  			<li class="list-group-item d-flex justify-content-between align-items-center">
+	  			{{ drug_2[1] }}
+	  			<span class="badge badge-primary badge-pill">{{ drug_2[0] }}</span>
+  			</li>
+  			<li class="list-group-item d-flex justify-content-between align-items-center">
+	  			{{ drug_3[1] }}
+	  			<span class="badge badge-primary badge-pill">{{ drug_3[0] }}</span>
+  			</li>
+		</ul>
 	</div>
 {% endblock %}

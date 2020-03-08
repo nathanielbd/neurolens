@@ -1,5 +1,6 @@
 import pandas as pd
 import ast
+import numpy as np
 
 def generate_efficacy(patient_response, mech_symptom_data):
     # where patient_response is of the format dict[symptom] = label
@@ -41,7 +42,7 @@ def get_mechanics(drug_name, drugdb):
     and converts it from a pandas series containing one string to a list"""
     return ast.literal_eval(drugdb.loc[drugdb["name"] == drug_name.lower()]["mechanics"].tolist()[0])
 
-def score_drug(drug_name, efficacy_dict, drugdb):
+def score_drug(drug_name, efficacy_dict, drugdb, similarities, drugs, anchor):
     """Returns a tuple, where first element is sum of efficiacy scores,
     second element is a list of tuples with (target, pmid)"""
     # this makes no assumptions about the format of drug, but if its a list of mechanics that is formatted
@@ -52,7 +53,7 @@ def score_drug(drug_name, efficacy_dict, drugdb):
     eff_scores = []
     ids = []
     for mechanic in drug:
-        score = efficacy_dict[mechanic][0]
+        score = efficacy_dict[mechanic][0]*similarities[anchor][drugs.index(drug_name)]
         eff_scores.append(score)
         ids.append(efficacy_dict[mechanic][1])
     return sum(eff_scores), ids

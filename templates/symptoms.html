@@ -7,70 +7,73 @@
 	<div class="jumbotron">
 		<h1 class="display-3">{{ title }}</h1>
 		<form method="POST">
-			<legend>{{ form_name }}</legend>
-			<div class="form-group">
-				{{ form.cognitive_symptoms.label }}:
-				<br>
-				{{ form.cognitive_symptoms }}
-                <br> 
-				{{ form.negative_symptoms.label }}:
-				<br>
-				{{ form.negative_symptoms }}
-                <br>
-				{{ form.avolition.label }}:
-				<br>
-				{{ form.avolition }}
-                <br>
-				{{ form.extrapyramidal.label }}:
-				<br>
-				{{ form.extrapyramidal }}
-                <br> 
-				{{ form.positive_symptoms_psychosis.label }}:
-				<br>
-				{{ form.positive_symptoms_psychosis }}
-                <br>
-                {{ form.depression.label }}:
-				<br>
-				{{ form.depression }}
-                <br>
-				{{ form.insomnia.label }}:
-				<br>
-                {{ form.insomnia }}
-                <br>
-				{{ form.anxiety.label }}:
-				<br>
-				{{ form.anxiety }}
-                <br>
-				{{ form.weight_gain.label }}:
-				<br>
-                {{ form.weight_gain }}
-                <br>
-				{{ form.apathy.label }}:
-				<br>
-				{{ form.apathy }}
-                <br>
-				{{ form.motivation.label }}:
-				<br>
-                {{ form.motivation }}
-                <br>
-				{{ form.stress.label }}:
-				<br>
-                {{ form.stress }}
-                <br>
-				{{ form.fatigue.label }}:
-				<br>
-                {{ form.fatigue }}
-                <br>
-				{{ form.suicidal_thoughts.label }}:
-				<br>
-                {{ form.suicidal_thoughts }}
-                <br>
-				{{ form.agitation.label }}:
-				<br>
-                {{ form.agitation }}
-                <br>
-			</div>
-			{{ form.submit }}
+			<fieldset>
+				<legend>{{ form_name }}</legend>
+				<p>Glide the slider to the right based on how much the symptom was improved. Move the slider to the left if the symptom was worsened.</p>
+				<div class="form-group">
+					{{ form.cognitive_symptoms.label }}
+					<br>
+					{{ form.cognitive_symptoms(class="custom-range") }}
+					<br> 
+					{{ form.negative_symptoms.label }}
+					<br>
+					{{ form.negative_symptoms(class="custom-range") }}
+					<br>
+					{{ form.avolition.label }}
+					<br>
+					{{ form.avolition(class="custom-range") }}
+					<br>
+					{{ form.extrapyramidal.label }}
+					<br>
+					{{ form.extrapyramidal(class="custom-range") }}
+					<br> 
+					{{ form.positive_symptoms_psychosis.label }}
+					<br>
+					{{ form.positive_symptoms_psychosis(class="custom-range") }}
+					<br>
+					{{ form.depression.label }}
+					<br>
+					{{ form.depression(class="custom-range") }}
+					<br>
+					{{ form.insomnia.label }}
+					<br>
+					{{ form.insomnia(class="custom-range") }}
+					<br>
+					{{ form.anxiety.label }}
+					<br>
+					{{ form.anxiety(class="custom-range") }}
+					<br>
+					{{ form.weight_gain.label }}
+					<br>
+					{{ form.weight_gain(class="custom-range") }}
+					<br>
+					{{ form.apathy.label }}
+					<br>
+					{{ form.apathy(class="custom-range") }}
+					<br>
+					{{ form.motivation.label }}
+					<br>
+					{{ form.motivation(class="custom-range") }}
+					<br>
+					{{ form.stress.label }}
+					<br>
+					{{ form.stress(class="custom-range") }}
+					<br>
+					{{ form.fatigue.label }}
+					<br>
+					{{ form.fatigue(class="custom-range") }}
+					<br>
+					{{ form.suicidal_thoughts.label }}
+					<br>
+					{{ form.suicidal_thoughts(class="custom-range") }}
+					<br>
+					{{ form.agitation.label }}
+					<br>
+					{{ form.agitation(class="custom-range") }}
+					<br>
+				</div>
+				{{ form.submit(class="btn btn-primary") }}
+			</fieldset>
 		</form>
 	</div>
 {% endblock %}
