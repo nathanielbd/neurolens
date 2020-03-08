@@ -20,13 +20,13 @@ def generate_efficacy(patient_response, mech_symptom_data):
             # get mech-symptom weights filtered to those in patient response
             m_s_scores = [mech_symptom_data[mechanic][k]['max_score'] for k in s_keys]
             # get max_id
-            # max_ids = [mech_symptom_data[mechanic][k]['max_id'] for k in s_keys]
+            max_ids = [mech_symptom_data[mechanic][k]['max_id'] for k in s_keys]
             # get labels
             labels = [patient_response[k] for k in s_keys]
             # zip together lists and take product
             pairings = zip(m_s_scores, labels)
             products = [n1*n2 for (n1, n2) in pairings]
-            product_tuples = [(products[i], (mechanic, s_keys[i])) for i in range(len(products))]
+            product_tuples = [(products[i], (mechanic, max_ids[i])) for i in range(len(products))]
             #print("unsorted", products)
             # take highest score, label, product
             sorted_products = sorted(product_tuples, key=lambda x: x[0])

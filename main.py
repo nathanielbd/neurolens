@@ -49,11 +49,12 @@ def results():
     data = request.args
     recs = generate_recommendations(data)
     drug_1 = recs[0]
-    drug_1 = (int(drug_1[0]), drug_1[1], get_desc(drug_1[1]))
+    # Score, name, description, id list
+    drug_1 = (int(drug_1[0][0]), drug_1[1], get_desc(drug_1[1]), drug_1[0][1])
     drug_2 = recs[1]
-    drug_2 = (int(drug_2[0]), drug_2[1], get_desc(drug_2[1]))
+    drug_2 = (int(drug_2[0][0]), drug_2[1], get_desc(drug_2[1]), drug_2[0][1])
     drug_3 = recs[2]
-    drug_3 = (int(drug_3[0]), drug_3[1], get_desc(drug_3[1]))
+    drug_3 = (int(drug_3[0][0]), drug_3[1], get_desc(drug_3[1]), drug_3[0][1])
     return render_template('results.html', title = title, drug_1=drug_1, drug_2=drug_2, drug_3=drug_3)
 
 if __name__ == '__main__':

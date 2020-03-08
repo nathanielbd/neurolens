@@ -12,6 +12,17 @@
 			<div class="card-body">
 			  <h4 class="card-title">{{ drug_1[1] }}</h4>
 			  <p class="card-text">{{ drug_1[2] }}</p>
+			  {% if drug_1[3]%}
+			  <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#drug_1_list">{{ drug_1[1] }} uses these mechanisms:</p>
+			  <div id="drug_1_list" class="collapse">
+			  <ul class="list-group">
+			 {% for mech, pmid in drug_1[3] %}
+    			 <li class="list-group-item"><a href=https://www.ncbi.nlm.nih.gov/pubmed/{{ pmid }}>{{ mech }}</a></li> 
+			 {% endfor %}
+			 </ul>
+			 </div>
+			 {% endif %}
+
 			</div>
 		  </div>
 		  <div class="card border-secondary mb-3">
@@ -19,6 +30,16 @@
 			<div class="card-body">
 			  <h4 class="card-title">{{ drug_2[1] }}</h4>
 			  <p class="card-text">{{ drug_2[2] }}</p>
+    		  	{% if drug_2[3]%}
+			  <button type="button" class="btn btn-secondary" data-toggle="collapse" data-target="#drug_2_list">{{ drug_2[1] }} uses these mechanisms:</p>
+			  <div id="drug_2_list" class="collapse">
+			  <ul class="list-group">
+			 {% for mech, pmid in drug_2[3] %}
+    			 <li class="list-group-item"><a href=https://www.ncbi.nlm.nih.gov/pubmed/{{ pmid }}>{{ mech }}</a></li> 
+			 {% endfor %}
+			 </ul>
+			 </div>
+			 {% endif %}
 			</div>
 		  </div>
 		  <div class="card border-success mb-3">
@@ -26,6 +47,16 @@
 			<div class="card-body">
 			  <h4 class="card-title">{{ drug_3[1] }}</h4>
 			  <p class="card-text">{{ drug_3[2] }}</p>
+		  	{% if drug_3[3]%}
+			  <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#drug_3_list">{{ drug_3[1] }} uses these mechanisms:</p>
+			  <div id="drug_3_list" class="collapse">
+			  <ul class="list-group">
+			 {% for mech, pmid in drug_3[3] %}
+    			 <li class="list-group-item"><a href=https://www.ncbi.nlm.nih.gov/pubmed/{{ pmid }}>{{ mech }}</a></li> 
+			 {% endfor %}
+			 </ul>
+			 </div>
+			 {% endif %}
 			</div>
 		  </div>
 		  <p class="lead">Composite score based on your pharmacological profile</p>

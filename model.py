@@ -26,8 +26,11 @@ def generate_recommendations(responses):
 #    # score_drug() returns a tuple, first element is the score
 #    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):int(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB)[0], d[0].upper() + d[1:]) for d in drugs])
     drug_idx = drugs.index(drug[0].upper() + drug[1:])
-    results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):float(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB, similarities, drugs, drug_idx)[0], d[0].upper() + d[1:]) for d in drugs], reverse=True)
-    return results
+    #results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):float(responses[k.replace(" ","_")]) for k in SYMPTOMS}, MECHANIC_SYMPTOM_DICT), DRUG_DB, similarities, drugs, drug_idx)[0], d[0].upper() + d[1:]) for d in drugs], reverse=True)
+    all_results = sorted([(score_drug(d[0].upper() + d[1:], generate_efficacy({k.replace(" ","_"):float(responses[k.replace(" ","_")]) for k in SYMPTOMS},MECHANIC_SYMPTOM_DICT),
+                                      DRUG_DB, similarities, drugs, drug_idx), d[0].upper() + d[1:]) for d in drugs],
+                        reverse=True, key=lambda x: x[0][0])
+    return all_results
 
 def get_desc(drug):
     DRUG_DB = pd.read_csv("data/csv/drugs_lowercase_names.csv")
